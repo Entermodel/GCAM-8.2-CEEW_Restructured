@@ -53,7 +53,6 @@ module_gcamusa_L244.building <- function(command, ...) {
              FILE = "gcam-usa/A44.globaltech_shrwt",
              FILE = "gcam-usa/A44.globaltech_interp",
              FILE = "gcam-usa/A44.demand_satiation_mult",
-             FILE = "gcam-usa/A44.hab_land_flsp_usa",
              FILE = "socioeconomics/income_shares",
              FILE = "gcam-usa/A44.CalPrice_service_gcamusa",
              "L244.Supplysector_bld",
