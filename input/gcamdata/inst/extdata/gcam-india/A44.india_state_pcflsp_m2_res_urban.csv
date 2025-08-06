@@ -1,0 +1,68 @@
+# File: A44.india_state_pcflsp_m2_res_urban.csv
+# Title: This file contains per capita flsp in all historical years
+# Source:Website
+# Units: NA
+# Column types:cin
+# -----------------------------------------
+state,year,value
+India,1961,9.3
+India,1962,9.3
+India,1963,9.3
+India,1964,9.3
+India,1965,9.3
+India,1966,9.3
+India,1967,9.3
+India,1968,9.3
+India,1969,9.3
+India,1970,9.3
+India,1971,9.3
+India,1972,9.3
+India,1973,9.3
+India,1974,9.3
+India,1975,2.08202
+India,1976,9.3
+India,1977,9.3
+India,1978,9.3
+India,1979,9.3
+India,1980,9.3
+India,1981,9.3
+India,1982,9.3
+India,1983,9.3
+India,1984,9.3
+India,1985,9.3
+India,1986,9.3
+India,1987,9.3
+India,1988,9.3
+India,1989,9.3
+India,1990,8.32388
+India,1991,9.3
+India,1992,9.3
+India,1993,9.3
+India,1994,9.3
+India,1995,9.3
+India,1996,9.3
+India,1997,9.3
+India,1998,9.3
+India,1999,9.3
+India,2000,9.3
+India,2001,9.3
+India,2002,9.3
+India,2003,9.3
+India,2004,9.3
+India,2005,10.61091
+India,2006,9.3
+India,2007,9.3
+India,2008,9.3
+India,2009,9.3
+India,2010,11.84505
+India,2011,9.3
+India,2012,9.3
+India,2013,9.3
+India,2014,9.3
+India,2015,11.84505
+India,2016,11.84505
+India,2017,11.84505
+India,2018,11.84505
+India,2019,11.84505
+India,2020,11.84505
+India,2021,11.84505

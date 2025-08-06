@@ -63,6 +63,8 @@ YEAR_RECODE <- c("start-year" =  min(MODEL_BASE_YEARS),
 
 gcam.USA_CODE            <- 1
 gcam.USA_REGION          <- "USA"
+gcam.INDIA_CODE            <- 17
+gcam.INDIA_REGION          <- "India"
 gcam.LOGIT_TYPES         <- c("relative-cost-logit", "absolute-cost-logit")
 gcam.EQUIV_TABLE         <- "EQUIV_TABLE"
 gcam.IND_ENERGY_USE      <- c("biomass", "coal", "gas", "refined liquids")  # GCAM industrial energy use fuels
@@ -571,6 +573,8 @@ energy.GDP_MID_SATIATION      <- 10.5
 
 energy.INTERNAL_GAINS_SCALAR_USA_H <- -930
 energy.INTERNAL_GAINS_SCALAR_USA_C <- 350
+energy.INTERNAL_GAINS_SCALAR_INDIA_H <- -930
+energy.INTERNAL_GAINS_SCALAR_INDIA_C <- 350
 
 # Used to avoid negative/zero energy when disaggregating detailed industries (cement, fertilizer)
 energy.MIN_IN_EJ_IND <- 1e-3
@@ -1112,6 +1116,8 @@ gcamusa.STORAGE_TECH_LIST <- c("CSP_storage", "PV_storage", "wind_storage")
 # Degree day norms
 gcamusa.BASE_HDD_USA <- 4524 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0107
 gcamusa.BASE_CDD_USA <- 1215 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb010
+gcamindia.BASE_HDD_INDIA <- 6595 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb0107
+gcamindia.BASE_CDD_INDIA <- 20938 # https://www.eia.gov/totalenergy/data/annual/showtext.php?t=ptb010
 gcamusa.AEO_DD_YEARS <- seq(2010, 2040, 5)
 
 
@@ -1126,6 +1132,7 @@ gcamusa.STATE_SUBSECTOR_DELIMITER <- " "
 # Number of digits for model input data
 gcamusa.DIGITS_CALOUTPUT          <- 7    # production
 gcamusa.EFFICIENCY_PARTITION_YEAR <- 2010
+gcamindia.EFFICIENCY_PARTITION_YEAR <- 2015
 gcamusa.DIGITS_TRNUSA_DEFAULT     <- 1    # Reduce rounding in detailed USA transport for compatability with model
 gcamusa.DIGITS_EMISSIONS          <- 5
 

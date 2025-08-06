@@ -24,16 +24,17 @@ ATTR_REFERENCE <- "reference"
 #' @param overwrite Allow overwrite of title? Logical
 #' @return \code{x} with units appended to any existing comments.
 add_title <- function(x, title, overwrite = FALSE) {
-  assertthat::assert_that(is.character(title) | is.null(title))
-
-  if(!overwrite && !is.null(attr(x, ATTR_TITLE))) {
-    stop("Not allowed to overwrite current title '", attr(x, ATTR_TITLE), "'")
+  if(!overwrite && !is.null(get_title(x))) {
+    stop("Object has existing title '", get_title(x), "'. ",
+         "Set overwrite = TRUE to replace it.")
   }
   attr(x, ATTR_TITLE) <- title
   x
 }
-
 get_title <- function(x) { attr(x, ATTR_TITLE) }
+
+
+
 
 #' add_comments
 #'

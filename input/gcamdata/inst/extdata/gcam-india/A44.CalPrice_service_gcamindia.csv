@@ -1,0 +1,24 @@
+# File: A44.CalPrice_service_gcamindia.csv
+# Title: Prices by service in the base years. Used to calibrate satiation impedance
+# Units: 1975$/unit
+# Source: GCAM v5.4 output
+# Column types: ccnnnn
+# ----------
+region,sector,1990,2005,2010,2015,2021
+India,comm cooking,10.2648,13.8141,14.8486,16.1285,15.9974
+India,comm hvac,9.8963,9.08855,9.00357,8.52931,8.09604
+India,comm lighting,10.2648,13.8141,14.8486,16.1285,15.9974
+India,comm ref,10.2648,13.8141,14.8486,16.1285,15.9974
+India,comm others,10.2648,13.8141,14.8486,16.1285,15.9974
+India,resid rural apploth,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid rural cooking,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid rural coolers,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid rural cooling,14.255,13.4165,13.3283,12.836,12.3863
+India,resid rural lighting,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid rural space heating,7.73497,8.44646,8.8644,9.53661,9.31084
+India,resid urban apploth,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid urban cooking,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid urban coolers,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid urban cooling,14.255,13.4165,13.3283,12.836,12.3863
+India,resid urban lighting,14.752,15.5814,19.2552,19.2817,18.6399
+India,resid urban space heating,7.73497,8.44646,8.8644,9.53661,9.31084

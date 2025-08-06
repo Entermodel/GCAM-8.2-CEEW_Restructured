@@ -16,7 +16,8 @@
 #' @importFrom assertthat assert_that
 #' @importFrom dplyr filter mutate select pull left_join anti_join bind_rows arrange rename
 #' @importFrom purrr reduce
-#' @author AJS March 2019
+#' seggregated elect_td_bld into elect_td_res and elect_td_com
+#' @author AJS March 2019, KD August 2025
 module_energy_L113.atb_cost <- function(command, ...) {
   if(command == driver.DECLARE_INPUTS) {
     return(c(FILE = "energy/A23.globaltech_capital",
@@ -544,7 +545,7 @@ module_energy_L113.atb_cost <- function(command, ...) {
       gather_years() -> A23.globaltech_cost
 
     # Make sure df contains ATB base year
-    if( ! energy.ATB_BASE_YEAR %in% unique(A23.globaltech_cost$year) ) {
+        if( ! energy.ATB_BASE_YEAR %in% unique(A23.globaltech_cost$year) ) {
       A23.globaltech_cost %>%
         tidyr::expand(tidyr::nesting(supplysector, subsector, technology, input, case), year = unique(c(A23.globaltech_cost$year, energy.ATB_BASE_YEAR))) %>%
         left_join_error_no_match(A23.globaltech_cost, by=c("supplysector", "subsector", "technology", "input", "case", "year"),
@@ -557,9 +558,9 @@ module_energy_L113.atb_cost <- function(command, ...) {
         A23.globaltech_cost
     }
 
-
+   # Have added supplysector in group_by function line no. 563
     A23.globaltech_cost %>%
-      group_by(technology, input, case) %>%
+      group_by(supplysector,technology, input, case) %>%
       filter(!is.na(value[year==energy.ATB_BASE_YEAR])) %>%
       ungroup() -> A23.globaltech_cost_keep
 
@@ -573,9 +574,10 @@ module_energy_L113.atb_cost <- function(command, ...) {
     # Here is where we allow for base-year selectivity. If energy.ATB_BASE_YEAR < energy.ATB_LATEST_YEAR,
     # then we filter for years < energy.ATB_LATEST_YEAR. We still, however, use the tech change parameters
     # from the latest ATB year
+    # Have added supplysector in group_by function line no. 580
     A23.globaltech_cost %>%
       gather_years() %>%
-      group_by(technology, input, case) %>%
+      group_by(supplysector,technology, input, case) %>%
       # get rid of values that will be overridden by user defined values in A23 files
       filter(is.na(value[year==energy.ATB_LATEST_YEAR])) %>%
       ungroup() %>%
