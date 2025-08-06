@@ -1,0 +1,9 @@
+# File: A44.hab_land_flsp_india.csv
+# Title: Habitable land 
+# Units: pop/km2
+# Source: TBD
+# Comments: Miscellaneous areas such as marshes, open swamps, bare rock areas, deserts, rural residential areas, and other uses not inventoried.
+# Column types: cncnnn
+# ----------
+state,area_gcam,unit,area_usda,misc_land_usda,habit_area
+India,403466,km2,403466,65838,337628
