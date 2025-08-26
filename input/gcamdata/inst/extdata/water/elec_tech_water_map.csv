@@ -85,4 +85,5 @@ electricity,solar,CSP_storage,elec_CSP_storage,CSP_storage,CSP_storage (recircul
 electricity,solar,CSP_storage,elec_CSP_storage,CSP_storage,CSP_storage (dry_hybrid),CSP,dry_hybrid,fresh,electricity generation,solar CSP,CSP_storage,global solar resource
 electricity,geothermal,geothermal,elec_geothermal,geothermal,geothermal (recirculating),geothermal,recirculating,fresh,electricity generation,geothermal,geothermal,geothermal
 electricity,geothermal,geothermal,elec_geothermal,geothermal,geothermal (dry_hybrid),geothermal,dry_hybrid,fresh,electricity generation,geothermal,geothermal,geothermal
-elect_td_bld,rooftop_pv,rooftop_pv,elect_td_bld,rooftop_pv,rooftop_pv,no cooling,none,none,,,,distributed_solar
+elect_td_res,rooftop_pv,rooftop_pv,elect_td_res,rooftop_pv,rooftop_pv,no cooling,none,none,,,,distributed_solar
+elect_td_com,rooftop_pv,rooftop_pv,elect_td_com,rooftop_pv,rooftop_pv,no cooling,none,none,,,,distributed_solar
