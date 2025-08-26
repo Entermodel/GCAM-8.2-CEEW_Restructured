@@ -38,7 +38,8 @@ Dairy,Pastoral,FeedCrops,Dairy,Pastoral,FeedCrops,Dairy,all,all,Animals,,Dairy,a
 Dairy,Pastoral,FodderHerb_Residue,Dairy,Pastoral,FodderHerb_Residue,Dairy,all,all,Animals,,Dairy,all,Livestock,
 Dairy,Pastoral,Pasture_FodderGrass,Dairy,Pastoral,Pasture_FodderGrass,Dairy,all,all,Animals,,Dairy,all,Livestock,
 Dairy,Pastoral,Scavenging_Other,Dairy,Pastoral,Scavenging_Other,Dairy,all,all,Animals,,Dairy,all,Livestock,
-electricity distribution,electricity,electricity,elect_td_bld,elect_td_bld,elect_td_bld,elect_td,all,all,,,,,,
+electricity distribution,electricity,electricity,elect_td_res,elect_td_res,elect_td_res,elect_td,all,all,,,,,,
+electricity distribution,electricity,electricity,elect_td_com,elect_td_com,elect_td_com,elect_td,all,all,,,,,,
 electricity distribution,electricity,electricity,elect_td_ind,elect_td_ind,elect_td_ind,elect_td,all,all,,,,,,
 electricity distribution,electricity,electricity,elect_td_trn,elect_td_trn,elect_td_trn,elect_td,all,all,,,,,,
 electricity generation,biomass,biomass (conv),electricity,biomass,biomass (conv),elec_heat,biomass,biomass,elec_heat,ene,electricity generation,biomass (conv),,elec_bio
