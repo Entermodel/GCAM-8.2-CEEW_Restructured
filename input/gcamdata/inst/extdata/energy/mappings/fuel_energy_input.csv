@@ -4,22 +4,22 @@
 # Source: NA
 # Column types: cc 
 # ----------
-minicam.energy.input,fuel
-regional biomass,biomass
-delivered biomass,biomass
-regional biomassOil,biomass oil
-regional coal,coal
-delivered coal,coal
-regional corn for ethanol,corn
-elect_td_ind,electricity
-elect_td_bld,electricity
-elect_td_trn,electricity
-regional natural gas,gas
-wholesale gas,gas
-delivered gas,gas
-regional oil,oil
-regional sugar for ethanol,sugar
-regional sugarbeet for ethanol,sugarbeet
-refined liquids enduse,refined liquids
-refined liquids industrial,refined liquids
-
+minicam.energy.inputfuel
+regional biomassbiomass
+delivered biomassbiomass
+regional biomassOilbiomass oil
+regional coalcoal
+delivered coalcoal
+regional corn for ethanolcorn
+elect_td_indelectricity
+elect_td_reselectricity
+elect_td_comelectricity
+elect_td_trnelectricity
+regional natural gasgas
+wholesale gasgas
+delivered gasgas
+regional oiloil
+regional sugar for ethanolsugar
+regional sugarbeet for ethanolsugarbeet
+refined liquids enduserefined liquids
+refined liquids industrialrefined liquids
