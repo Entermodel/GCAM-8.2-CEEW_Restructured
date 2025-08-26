@@ -26,4 +26,5 @@ electricity,solar,CSP,global solar resource
 electricity,solar,PV,global solar resource
 electricity,wind,wind,onshore wind resource
 electricity,wind,wind_offshore,offshore wind resource
-elect_td_bld,rooftop_pv,rooftop_pv,distributed_solar
+elect_td_res,rooftop_pv,rooftop_pv,distributed_solar
+elect_td_com,rooftop_pv,rooftop_pv,distributed_solar

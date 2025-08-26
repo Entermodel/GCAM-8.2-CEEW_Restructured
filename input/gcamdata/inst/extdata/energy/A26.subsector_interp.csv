@@ -9,7 +9,8 @@ supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.functio
 delivered biomass,delivered biomass,share-weight,final-calibration-year,end-year,,linear
 delivered coal,delivered coal,share-weight,final-calibration-year,end-year,,linear
 electricity_net_ownuse,electricity_net_ownuse,share-weight,final-calibration-year,end-year,,linear
-elect_td_bld,elect_td_bld,share-weight,final-calibration-year,end-year,,linear
+elect_td_res,elect_td_res,share-weight,final-calibration-year,end-year,,linear
+elect_td_com,elect_td_com,share-weight,final-calibration-year,end-year,,linear
 elect_td_ind,elect_td_ind,share-weight,final-calibration-year,end-year,,linear
 elect_td_trn,elect_td_trn,share-weight,final-calibration-year,end-year,,linear
 gas pipeline,gas pipeline,share-weight,final-calibration-year,end-year,,linear

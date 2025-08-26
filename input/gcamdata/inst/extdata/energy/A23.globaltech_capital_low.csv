@@ -30,5 +30,6 @@ electricity,solar,PV_storage,capital,0.13,,,,,,0.75,0.01,
 electricity,solar,CSP,capital,0.13,,,,,,0.7,0.03,
 electricity,solar,CSP_storage,capital,0.13,,,,,,0.75,0.01,
 electricity,geothermal,geothermal,capital,0.13,,,,,,1,0,
-elect_td_bld,rooftop_pv,rooftop_pv,capital,0.1,,,,,,0.75,0.01,
+elect_td_res,rooftop_pv,rooftop_pv,capital,0.1,,,,,,0.75,0.01,
+elect_td_com,rooftop_pv,rooftop_pv,capital,0.1,,,,,,0.75,0.01,
 electricity,wind,wind_offshore,capital,0.13,,,,,,0.75,0.01,wind

@@ -11,7 +11,8 @@ csp_backup,gas,start-year,,1
 delivered biomass,delivered biomass,start-year,,1
 delivered coal,delivered coal,start-year,,1
 electricity_net_ownuse,electricity_net_ownuse,start-year,,1
-elect_td_bld,elect_td_bld,start-year,,1
+elect_td_res,elect_td_res,start-year,,1
+elect_td_com,elect_td_com,start-year,,1
 elect_td_ind,elect_td_ind,start-year,,1
 elect_td_trn,elect_td_trn,start-year,,1
 gas pipeline,gas pipeline,start-year,,1

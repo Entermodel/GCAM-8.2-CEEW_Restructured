@@ -1,7 +1,7 @@
 # File: Muratori_globaltech_capital.csv
 # Title: Electricity technology capital costs (Legacy Version)
 # Units: 1975$/kW
-# Source: Muratori et al. (2017), Renewable and Sustainable Energy Reviews v 77, pp 861–874
+# Source: Muratori et al. (2017), Renewable and Sustainable Energy Reviews v 77, pp 861  
 # Future improvement is based on the maximum % reduction that the literature deems likely and a rate corresponding to the maturity level of the technology
 # Note that some technologies are the same as another with additional equipment (i.e. CCS) for those technologies the improvement is on the additional equipment
 # Column types: ccccnnnnnnnnc 
@@ -30,5 +30,6 @@ electricity,solar,PV_storage,capital,0.13,1363.238854,1363.238854,1363.238854,13
 electricity,solar,CSP,capital,0.13,1487.169658,1487.169658,1487.169658,1487.169658,1487.169658,0.6,0.05,
 electricity,solar,CSP_storage,capital,0.13,2478.616097,2478.616097,2478.616097,2478.616097,2478.616097,0.7,0.03,CSP
 electricity,geothermal,geothermal,capital,0.13,1363.238854,1363.238854,1363.238854,1363.238854,1363.238854,0.75,0.01,
-elect_td_bld,rooftop_pv,rooftop_pv,capital,0.1,1456.186957,1456.186957,1456.186957,1456.186957,1456.186957,0.7,0.03,
+elect_td_res,rooftop_pv,rooftop_pv,capital,0.1,1456.186957,1456.186957,1456.186957,1456.186957,1456.186957,0.7,0.03,
+elect_td_com,rooftop_pv,rooftop_pv,capital,0.1,1456.186957,1456.186957,1456.186957,1456.186957,1456.186957,0.7,0.03,
 electricity,wind,wind_offshore,capital,0.13,1039,1039,1039,1039,1039,0.7,0.03,
