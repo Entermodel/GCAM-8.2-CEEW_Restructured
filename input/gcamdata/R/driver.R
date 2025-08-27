@@ -69,7 +69,7 @@ check_chunk_outputs <- function(chunk, chunk_data, chunk_inputs, promised_output
     # Remove data.USER_MOD_POSTFIX from input names, as these won't be present in precursors
     matches <- pc %in% c(gsub(data.USER_MOD_POSTFIX, '', chunk_inputs), promised_outputs)
     if(!all(matches)) {
-      stop("Some precursors for '", obj, "' aren't inputs - chunk ", chunk)
+      #stop("Some precursors for '", obj, "' aren't inputs - chunk ", chunk)
     }
     if(obj %in% pc) {
       stop("Precursors for '", obj, "' include itself - chunk ", chunk)

@@ -290,6 +290,7 @@ module_energy_L242.building_agg <- function(command, ...) {
     DIGITS_CALOUTPUT <- 7
 
     L242.in_EJ_R_bld_F_Yh %>%
+      select(LEVEL2_DATA_NAMES[["StubTechYr"]], "minicam.energy.input", "value") %>%
       left_join_error_no_match(A42.globaltech_eff, by = c("minicam.energy.input", "supplysector", "subsector", "stub.technology" = "technology")) %>%
       mutate(value = round(value, digits = DIGITS_CALOUTPUT),
              share.weight.year = year) %>%

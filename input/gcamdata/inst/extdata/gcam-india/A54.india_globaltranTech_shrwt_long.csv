@@ -1,0 +1,258 @@
+# File:A54.india_globaltranTech_shrwt.csv
+# Title: Transportation technology default shareweights
+# Units: Unitless
+# Column types: ccccii
+# ----------
+region,supplysector,subsector,technology,year,share.weight
+India,trn_aviation_intl,International Aviation,Liquids,1971,1
+India,trn_aviation_intl,International Aviation,Liquids,2010,1
+India,trn_aviation_intl,International Aviation,Liquids,2015,1
+India,trn_aviation_intl,International Aviation,Liquids,2021,1
+India,trn_aviation_intl,International Aviation,Liquids,2050,1
+India,trn_aviation_intl,International Aviation,Liquids,2100,1
+India,trn_aviation_intl,International Aviation,BEV,1971,0
+India,trn_aviation_intl,International Aviation,BEV,2010,0
+India,trn_aviation_intl,International Aviation,BEV,2015,0
+India,trn_aviation_intl,International Aviation,BEV,2021,0
+India,trn_aviation_intl,International Aviation,BEV,2050,0.011
+India,trn_aviation_intl,International Aviation,BEV,2100,0.1
+India,trn_aviation_intl,International Aviation,Hydrogen,1971,0
+India,trn_aviation_intl,International Aviation,Hydrogen,2010,0
+India,trn_aviation_intl,International Aviation,Hydrogen,2015,0
+India,trn_aviation_intl,International Aviation,Hydrogen,2021,0
+India,trn_aviation_intl,International Aviation,Hydrogen,2050,0.105
+India,trn_aviation_intl,International Aviation,Hydrogen,2100,1
+India,trn_freight,Freight Rail,Coal,1971,1
+India,trn_freight,Freight Rail,Coal,2010,0
+India,trn_freight,Freight Rail,Coal,2015,0
+India,trn_freight,Freight Rail,Coal,2021,0
+India,trn_freight,Freight Rail,Coal,2050,0
+India,trn_freight,Freight Rail,Coal,2100,0
+India,trn_freight,Freight Rail,Electric,1971,1
+India,trn_freight,Freight Rail,Electric,2010,1
+India,trn_freight,Freight Rail,Electric,2015,1
+India,trn_freight,Freight Rail,Electric,2021,1
+India,trn_freight,Freight Rail,Electric,2050,1
+India,trn_freight,Freight Rail,Electric,2100,1
+India,trn_freight,Freight Rail,Liquids,1971,1
+India,trn_freight,Freight Rail,Liquids,2010,1
+India,trn_freight,Freight Rail,Liquids,2015,0.5
+India,trn_freight,Freight Rail,Liquids,2021,0.1
+India,trn_freight,Freight Rail,Liquids,2050,0
+India,trn_freight,Freight Rail,Liquids,2100,0
+India,trn_freight,Freight Rail,Hybrid Liquids,1971,0
+India,trn_freight,Freight Rail,Hybrid Liquids,2010,0
+India,trn_freight,Freight Rail,Hybrid Liquids,2015,0
+India,trn_freight,Freight Rail,Hybrid Liquids,2021,0
+India,trn_freight,Freight Rail,Hybrid Liquids,2050,0.6
+India,trn_freight,Freight Rail,Hybrid Liquids,2100,1
+India,trn_freight,Freight Rail,FCEV,1971,0
+India,trn_freight,Freight Rail,FCEV,2010,0
+India,trn_freight,Freight Rail,FCEV,2015,0
+India,trn_freight,Freight Rail,FCEV,2021,0
+India,trn_freight,Freight Rail,FCEV,2050,0.3
+India,trn_freight,Freight Rail,FCEV,2100,0.8
+India,trn_freight,Domestic Ship,Liquids,1971,1
+India,trn_freight,Domestic Ship,Liquids,2010,1
+India,trn_freight,Domestic Ship,Liquids,2015,1
+India,trn_freight,Domestic Ship,Liquids,2021,1
+India,trn_freight,Domestic Ship,Liquids,2050,1
+India,trn_freight,Domestic Ship,Liquids,2100,1
+India,trn_freight,Domestic Ship,FCEV,1971,0
+India,trn_freight,Domestic Ship,FCEV,2010,0
+India,trn_freight,Domestic Ship,FCEV,2015,0
+India,trn_freight,Domestic Ship,FCEV,2021,0
+India,trn_freight,Domestic Ship,FCEV,2050,0.365
+India,trn_freight,Domestic Ship,FCEV,2100,1
+India,trn_freight,Domestic Ship,Hybrid Liquids,1971,0
+India,trn_freight,Domestic Ship,Hybrid Liquids,2010,0
+India,trn_freight,Domestic Ship,Hybrid Liquids,2015,0
+India,trn_freight,Domestic Ship,Hybrid Liquids,2021,0
+India,trn_freight,Domestic Ship,Hybrid Liquids,2050,0.6
+India,trn_freight,Domestic Ship,Hybrid Liquids,2100,1
+India,trn_freight_road,Truck,Liquids,1971,1
+India,trn_freight_road,Truck,Liquids,2010,1
+India,trn_freight_road,Truck,Liquids,2015,1
+India,trn_freight_road,Truck,Liquids,2021,1
+India,trn_freight_road,Truck,Liquids,2050,1
+India,trn_freight_road,Truck,Liquids,2100,1
+India,trn_freight_road,Truck,NG,1971,0
+India,trn_freight_road,Truck,NG,2010,0
+India,trn_freight_road,Truck,NG,2015,0
+India,trn_freight_road,Truck,NG,2021,0.01
+India,trn_freight_road,Truck,NG,2050,0.5
+India,trn_freight_road,Truck,NG,2100,1
+India,trn_freight_road,Truck,FCEV,1971,0
+India,trn_freight_road,Truck,FCEV,2010,0
+India,trn_freight_road,Truck,FCEV,2015,0
+India,trn_freight_road,Truck,FCEV,2021,0
+India,trn_freight_road,Truck,FCEV,2050,0.4
+India,trn_freight_road,Truck,FCEV,2100,1
+India,trn_freight_road,Truck,BEV,1971,0
+India,trn_freight_road,Truck,BEV,2010,0
+India,trn_freight_road,Truck,BEV,2015,0
+India,trn_freight_road,Truck,BEV,2021,0
+India,trn_freight_road,Truck,BEV,2050,1
+India,trn_freight_road,Truck,BEV,2100,1
+India,trn_freight_road,Truck,Hybrid Liquids,1971,0
+India,trn_freight_road,Truck,Hybrid Liquids,2010,0
+India,trn_freight_road,Truck,Hybrid Liquids,2015,0
+India,trn_freight_road,Truck,Hybrid Liquids,2021,0
+India,trn_freight_road,Truck,Hybrid Liquids,2050,0.7
+India,trn_freight_road,Truck,Hybrid Liquids,2100,1
+India,trn_pass,HSR,Electric,1971,0
+India,trn_pass,HSR,Electric,2010,0
+India,trn_pass,HSR,Electric,2015,0
+India,trn_pass,HSR,Electric,2021,0
+India,trn_pass,HSR,Electric,2050,1
+India,trn_pass,HSR,Electric,2100,1
+India,trn_pass,Passenger Rail,Electric,1971,0
+India,trn_pass,Passenger Rail,Electric,2010,0.4
+India,trn_pass,Passenger Rail,Electric,2015,0.8
+India,trn_pass,Passenger Rail,Electric,2021,1
+India,trn_pass,Passenger Rail,Electric,2050,1
+India,trn_pass,Passenger Rail,Electric,2100,1
+India,trn_pass,Domestic Aviation,Liquids,1971,1
+India,trn_pass,Domestic Aviation,Liquids,2010,1
+India,trn_pass,Domestic Aviation,Liquids,2015,1
+India,trn_pass,Domestic Aviation,Liquids,2021,1
+India,trn_pass,Domestic Aviation,Liquids,2050,1
+India,trn_pass,Domestic Aviation,Liquids,2100,1
+India,trn_pass,Domestic Aviation,Hydrogen,1971,0
+India,trn_pass,Domestic Aviation,Hydrogen,2010,0
+India,trn_pass,Domestic Aviation,Hydrogen,2015,0
+India,trn_pass,Domestic Aviation,Hydrogen,2021,0
+India,trn_pass,Domestic Aviation,Hydrogen,2050,0.105
+India,trn_pass,Domestic Aviation,Hydrogen,2100,1
+India,trn_pass,Domestic Aviation,BEV,1971,0
+India,trn_pass,Domestic Aviation,BEV,2010,0
+India,trn_pass,Domestic Aviation,BEV,2015,0
+India,trn_pass,Domestic Aviation,BEV,2021,0
+India,trn_pass,Domestic Aviation,BEV,2050,0.011
+India,trn_pass,Domestic Aviation,BEV,2100,0.1
+India,trn_pass,Passenger Rail,Liquids,1971,1
+India,trn_pass,Passenger Rail,Liquids,2010,0.8
+India,trn_pass,Passenger Rail,Liquids,2015,0.4
+India,trn_pass,Passenger Rail,Liquids,2021,0.1
+India,trn_pass,Passenger Rail,Liquids,2050,0
+India,trn_pass,Passenger Rail,Liquids,2100,0
+India,trn_pass_road,Bus,Liquids,1971,1
+India,trn_pass_road,Bus,Liquids,2010,1
+India,trn_pass_road,Bus,Liquids,2015,1
+India,trn_pass_road,Bus,Liquids,2021,1
+India,trn_pass_road,Bus,Liquids,2050,1
+India,trn_pass_road,Bus,Liquids,2100,1
+India,trn_pass_road,Bus,BEV,1971,0
+India,trn_pass_road,Bus,BEV,2010,0
+India,trn_pass_road,Bus,BEV,2015,0.1
+India,trn_pass_road,Bus,BEV,2021,0.2
+India,trn_pass_road,Bus,BEV,2050,1
+India,trn_pass_road,Bus,BEV,2100,1
+India,trn_pass_road,Bus,NG,1971,0
+India,trn_pass_road,Bus,NG,2010,0.156
+India,trn_pass_road,Bus,NG,2015,0.164
+India,trn_pass_road,Bus,NG,2021,0.33
+India,trn_pass_road,Bus,NG,2050,0.5
+India,trn_pass_road,Bus,NG,2100,1
+India,trn_pass_road,Bus,FCEV,1971,0
+India,trn_pass_road,Bus,FCEV,2010,0
+India,trn_pass_road,Bus,FCEV,2015,0
+India,trn_pass_road,Bus,FCEV,2021,0
+India,trn_pass_road,Bus,FCEV,2050,0.4
+India,trn_pass_road,Bus,FCEV,2100,1
+India,trn_pass_road,Bus,Hybrid Liquids,1971,0
+India,trn_pass_road,Bus,Hybrid Liquids,2010,0
+India,trn_pass_road,Bus,Hybrid Liquids,2015,0
+India,trn_pass_road,Bus,Hybrid Liquids,2021,0.1
+India,trn_pass_road,Bus,Hybrid Liquids,2050,0.5
+India,trn_pass_road,Bus,Hybrid Liquids,2100,1
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,1971,0
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2010,0
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2015,0.1
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2021,0.3
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2050,1
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2100,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,1971,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2010,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2015,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2021,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2050,1
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2100,1
+India,trn_pass_road_LDV_3W,LDV_3W,NG,1971,0
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2010,0.13
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2015,0.16
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2021,0.25
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2050,0.4
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2100,0.8
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,1971,1
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2010,1
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2015,1
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2021,1
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2050,1
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2100,1
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,1971,0
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2010,0
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2015,0.1
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2021,0.3
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2050,1
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2100,1
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,1971,0
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2010,0
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2015,0.05
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2021,0.1
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2050,1
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2100,1
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,1971,0
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2010,0
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2015,0
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2021,0
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2050,0.2
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2100,0.6
+India,trn_pass_road_LDV_4W,LDV_4W,NG,1971,0
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2010,0.11
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2015,0.14
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2021,0.2
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2050,0.35
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2100,0.7
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,1971,1
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2010,1
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2015,1
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2021,1
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2050,1
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2100,1
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,1971,0
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2010,0
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2015,0
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2021,0.1
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2050,0.6
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2100,1
+India,trn_shipping_intl,International Ship,Liquids,1971,1
+India,trn_shipping_intl,International Ship,Liquids,2010,1
+India,trn_shipping_intl,International Ship,Liquids,2015,1
+India,trn_shipping_intl,International Ship,Liquids,2021,1
+India,trn_shipping_intl,International Ship,Liquids,2050,1
+India,trn_shipping_intl,International Ship,Liquids,2100,1
+India,trn_shipping_intl,International Ship,FCEV,1971,0
+India,trn_shipping_intl,International Ship,FCEV,2010,0
+India,trn_shipping_intl,International Ship,FCEV,2015,0
+India,trn_shipping_intl,International Ship,FCEV,2021,0
+India,trn_shipping_intl,International Ship,FCEV,2050,0.2
+India,trn_shipping_intl,International Ship,FCEV,2100,0.6
+India,trn_shipping_intl,International Ship,Hybrid Liquids,1971,0
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2010,0
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2015,0
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2021,0
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2050,0.4
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2100,0.7
+India,trn_pass,Walk,Walk,1971,0.8
+India,trn_pass,Walk,Walk,2010,0.8
+India,trn_pass,Walk,Walk,2015,0.8
+India,trn_pass,Walk,Walk,2021,0.8
+India,trn_pass,Walk,Walk,2050,0.8
+India,trn_pass,Walk,Walk,2100,0.8
+India,trn_pass,Cycle,Cycle,1971,0.8
+India,trn_pass,Cycle,Cycle,2010,0.8
+India,trn_pass,Cycle,Cycle,2015,0.8
+India,trn_pass,Cycle,Cycle,2021,0.8
+India,trn_pass,Cycle,Cycle,2050,0.8
+India,trn_pass,Cycle,Cycle,2100,0.8

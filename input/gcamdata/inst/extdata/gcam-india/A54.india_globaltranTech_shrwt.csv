@@ -1,0 +1,48 @@
+# File:A54.india_globaltranTech_shrwt.csv
+# Title: Transportation technology default shareweights
+# Units: Unitless
+# Column types: cccnnnnnn
+# ----------
+supplysector,tranSubsector,tranTechnology,1971,2010,2015,2021,2050,2100
+trn_aviation_intl,International Aviation,Liquids,1,1,1,1,1,1
+trn_aviation_intl,International Aviation,BEV,0,0,0,0,0.011,0.1
+trn_aviation_intl,International Aviation,Hydrogen,0,0,0,0,0.105,1
+trn_freight,Freight Rail,Coal,1,0,0,0,0,0
+trn_freight,Freight Rail,Electric,1,1,1,1,1,1
+trn_freight,Freight Rail,Liquids,1,1,0.5,0.1,0,0
+trn_freight,Freight Rail,Hybrid Liquids,0,0,0,0,0.6,1
+trn_freight,Freight Rail,FCEV,0,0,0,0,0.3,0.8
+trn_freight,Domestic Ship ,Liquids,1,1,1,1,1,1
+trn_freight,Domestic Ship ,FCEV,0,0,0,0,0.365,1
+trn_freight,Domestic Ship ,Hybrid Liquids,0,0,0,0,0.6,1
+trn_freight_road,Truck,Liquids,1,1,1,1,1,1
+trn_freight_road,Truck,NG,0,0,0,0.01,0.5,1
+trn_freight_road,Truck,FCEV,0,0,0,0,0.4,1
+trn_freight_road,Truck,BEV,0,0,0,0,1,1
+trn_freight_road,Truck,Hybrid Liquids,0,0,0,0,0.7,1
+trn_pass,HSR,Electric,0,0,0,0,1,1
+trn_pass,Passenger Rail,Electric,0,0.4,0.8,1,1,1
+trn_pass,Domestic Aviation,Liquids,1,1,1,1,1,1
+trn_pass,Domestic Aviation,Hydrogen,0,0,0,0,0.105,1
+trn_pass,Domestic Aviation,BEV,0,0,0,0,0.011,0.1
+trn_pass,Passenger Rail,Liquids,1,0.8,0.4,0.1,0,0
+trn_pass_road,Bus,Liquids,1,1,1,1,1,1
+trn_pass_road,Bus,BEV,0,0,0.1,0.2,1,1
+trn_pass_road,Bus,NG,0,0.156,0.164,0.33,0.5,1
+trn_pass_road,Bus,FCEV,0,0,0,0,0.4,1
+trn_pass_road,Bus,Hybrid Liquids,0,0,0,0.1,0.5,1
+trn_pass_road_LDV_2W,LDV_2W,BEV,0,0,0.1,0.3,1,1
+trn_pass_road_LDV_2W,LDV_2W,Liquids,1,1,1,1,1,1
+trn_pass_road_LDV_3W,LDV_3W,NG,0,0.13,0.16,0.25,0.4,0.8
+trn_pass_road_LDV_3W,LDV_3W,Liquids,1,1,1,1,1,1
+trn_pass_road_LDV_3W,LDV_3W,BEV,0,0,0.1,0.3,1,1
+trn_pass_road_LDV_4W,LDV_4W,BEV,0,0,0.05,0.1,1,1
+trn_pass_road_LDV_4W,LDV_4W,FCEV,0,0,0,0,0.2,0.6
+trn_pass_road_LDV_4W,LDV_4W,NG,0,0.11,0.14,0.2,0.35,0.7
+trn_pass_road_LDV_4W,LDV_4W,Liquids,1,1,1,1,1,1
+trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,0,0,0,0.1,0.6,1
+trn_shipping_intl,International Ship,Liquids,1,1,1,1,1,1
+trn_shipping_intl,International Ship,FCEV,0,0,0,0,0.2,0.6
+trn_shipping_intl,International Ship,Hybrid Liquids,0,0,0,0,0.4,0.7
+trn_pass,Walk,Walk,0.8,0.8,0.8,0.8,0.8,0.8
+trn_pass,Cycle,Cycle,0.8,0.8,0.8,0.8,0.8,0.8

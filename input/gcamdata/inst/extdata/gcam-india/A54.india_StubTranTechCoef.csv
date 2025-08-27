@@ -1,0 +1,908 @@
+# File: A54.india_StubTranTechCoef.csv
+# Title: Transport coefficient values for India - Have to change values for new added fuels. Right now NG values are taken
+# Units: NA
+# Column types: ccccicnc
+# ----------
+region,supplysector,tranSubsector,stub.technology,year,minicam.energy.input,coefficient,market.name
+India,trn_aviation_intl,International Aviation,Liquids,1975,refined liquids enduse,407544.11,India
+India,trn_aviation_intl,International Aviation,Liquids,1990,refined liquids enduse,407544.11,India
+India,trn_aviation_intl,International Aviation,Liquids,2005,refined liquids enduse,407544.11,India
+India,trn_aviation_intl,International Aviation,Liquids,2010,refined liquids enduse,407544.11,India
+India,trn_aviation_intl,International Aviation,Liquids,2015,refined liquids enduse,407544.11,India
+India,trn_aviation_intl,International Aviation,Liquids,2021,refined liquids enduse,396137.6328,India
+India,trn_aviation_intl,International Aviation,Liquids,2025,refined liquids enduse,350511.7238,India
+India,trn_aviation_intl,International Aviation,Liquids,2030,refined liquids enduse,315457.8123,India
+India,trn_aviation_intl,International Aviation,Liquids,2035,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2040,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2045,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2050,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2055,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2060,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2065,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2070,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2075,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2080,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2085,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2090,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2095,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,Liquids,2100,refined liquids enduse,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,1975,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,1990,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2005,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2010,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2015,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2021,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2025,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2030,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2035,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2040,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2045,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2050,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2055,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2060,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2065,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2070,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2075,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2080,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2085,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2090,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2095,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,BEV,2100,elect_td_trn,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,1975,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,1990,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2005,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2010,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2015,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2021,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2025,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2030,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2035,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2040,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2045,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2050,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2055,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2060,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2065,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2070,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2075,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2080,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2085,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2090,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2095,H2 wholesale dispensing,297051.2248,India
+India,trn_aviation_intl,International Aviation,Hydrogen,2100,H2 wholesale dispensing,297051.2248,India
+India,trn_freight,Freight Rail,Coal,1975,delivered coal,2396020.442,India
+India,trn_freight,Freight Rail,Coal,1990,delivered coal,2396020.442,India
+India,trn_freight,Freight Rail,Coal,2005,delivered coal,2396020.442,India
+India,trn_freight,Freight Rail,Coal,2010,delivered coal,2393030.648,India
+India,trn_freight,Freight Rail,Coal,2015,delivered coal,2390040.854,India
+India,trn_freight,Freight Rail,Coal,2021,delivered coal,2386455.337,India
+India,trn_freight,Freight Rail,Coal,2025,delivered coal,2384072.449,India
+India,trn_freight,Freight Rail,Coal,2030,delivered coal,2381093.838,India
+India,trn_freight,Freight Rail,Coal,2035,delivered coal,2378115.228,India
+India,trn_freight,Freight Rail,Coal,2040,delivered coal,2375147.802,India
+India,trn_freight,Freight Rail,Coal,2045,delivered coal,2372180.375,India
+India,trn_freight,Freight Rail,Coal,2050,delivered coal,2369212.948,India
+India,trn_freight,Freight Rail,Coal,2055,delivered coal,2366256.611,India
+India,trn_freight,Freight Rail,Coal,2060,delivered coal,2363300.273,India
+India,trn_freight,Freight Rail,Coal,2065,delivered coal,2360343.936,India
+India,trn_freight,Freight Rail,Coal,2070,delivered coal,2357398.655,India
+India,trn_freight,Freight Rail,Coal,2075,delivered coal,2354453.375,India
+India,trn_freight,Freight Rail,Coal,2080,delivered coal,2351508.095,India
+India,trn_freight,Freight Rail,Coal,2085,delivered coal,2348573.841,India
+India,trn_freight,Freight Rail,Coal,2090,delivered coal,2345639.586,India
+India,trn_freight,Freight Rail,Coal,2095,delivered coal,2342705.332,India
+India,trn_freight,Freight Rail,Coal,2100,delivered coal,2342705.332,India
+India,trn_freight,Freight Rail,Electric,1975,elect_td_trn,82327.32222,India
+India,trn_freight,Freight Rail,Electric,1990,elect_td_trn,82327.32222,India
+India,trn_freight,Freight Rail,Electric,2005,elect_td_trn,82327.32222,India
+India,trn_freight,Freight Rail,Electric,2010,elect_td_trn,82224.58319,India
+India,trn_freight,Freight Rail,Electric,2015,elect_td_trn,82121.84416,India
+India,trn_freight,Freight Rail,Electric,2021,elect_td_trn,81998.63947,India
+India,trn_freight,Freight Rail,Electric,2025,elect_td_trn,81916.77681,India
+India,trn_freight,Freight Rail,Electric,2030,elect_td_trn,81814.44849,India
+India,trn_freight,Freight Rail,Electric,2035,elect_td_trn,81712.12017,India
+India,trn_freight,Freight Rail,Electric,2040,elect_td_trn,81610.13936,India
+India,trn_freight,Freight Rail,Electric,2045,elect_td_trn,81508.15856,India
+India,trn_freight,Freight Rail,Electric,2050,elect_td_trn,81406.17775,India
+India,trn_freight,Freight Rail,Electric,2055,elect_td_trn,81304.60765,India
+India,trn_freight,Freight Rail,Electric,2060,elect_td_trn,81203.03755,India
+India,trn_freight,Freight Rail,Electric,2065,elect_td_trn,81101.46745,India
+India,trn_freight,Freight Rail,Electric,2070,elect_td_trn,81000.27645,India
+India,trn_freight,Freight Rail,Electric,2075,elect_td_trn,80899.08547,India
+India,trn_freight,Freight Rail,Electric,2080,elect_td_trn,80797.89447,India
+India,trn_freight,Freight Rail,Electric,2085,elect_td_trn,80697.08259,India
+India,trn_freight,Freight Rail,Electric,2090,elect_td_trn,80596.27072,India
+India,trn_freight,Freight Rail,Electric,2095,elect_td_trn,80495.45883,India
+India,trn_freight,Freight Rail,Electric,2100,elect_td_trn,80495.45883,India
+India,trn_freight,Freight Rail,Liquids,1975,refined liquids enduse,269783.2066,India
+India,trn_freight,Freight Rail,Liquids,1990,refined liquids enduse,269783.2066,India
+India,trn_freight,Freight Rail,Liquids,2005,refined liquids enduse,269783.2066,India
+India,trn_freight,Freight Rail,Liquids,2010,refined liquids enduse,269446.5562,India
+India,trn_freight,Freight Rail,Liquids,2015,refined liquids enduse,269109.9058,India
+India,trn_freight,Freight Rail,Liquids,2021,refined liquids enduse,268706.1781,India
+India,trn_freight,Freight Rail,Liquids,2025,refined liquids enduse,268437.8687,India
+India,trn_freight,Freight Rail,Liquids,2030,refined liquids enduse,268102.4821,India
+India,trn_freight,Freight Rail,Liquids,2035,refined liquids enduse,267767.0954,India
+India,trn_freight,Freight Rail,Liquids,2040,refined liquids enduse,267432.9724,India
+India,trn_freight,Freight Rail,Liquids,2045,refined liquids enduse,267098.8494,India
+India,trn_freight,Freight Rail,Liquids,2050,refined liquids enduse,266764.7264,India
+India,trn_freight,Freight Rail,Liquids,2055,refined liquids enduse,266431.8671,India
+India,trn_freight,Freight Rail,Liquids,2060,refined liquids enduse,266099.0079,India
+India,trn_freight,Freight Rail,Liquids,2065,refined liquids enduse,265766.1486,India
+India,trn_freight,Freight Rail,Liquids,2070,refined liquids enduse,265434.5214,India
+India,trn_freight,Freight Rail,Liquids,2075,refined liquids enduse,265102.8942,India
+India,trn_freight,Freight Rail,Liquids,2080,refined liquids enduse,264771.2671,India
+India,trn_freight,Freight Rail,Liquids,2085,refined liquids enduse,264440.872,India
+India,trn_freight,Freight Rail,Liquids,2090,refined liquids enduse,264110.4769,India
+India,trn_freight,Freight Rail,Liquids,2095,refined liquids enduse,263780.0819,India
+India,trn_freight,Freight Rail,Liquids,2100,refined liquids enduse,263780.0819,India
+India,trn_freight,Domestic Ship,Liquids,1975,refined liquids enduse,323798.8186,India
+India,trn_freight,Domestic Ship,Liquids,1990,refined liquids enduse,323798.8186,India
+India,trn_freight,Domestic Ship,Liquids,2005,refined liquids enduse,323798.8186,India
+India,trn_freight,Domestic Ship,Liquids,2010,refined liquids enduse,322191.1045,India
+India,trn_freight,Domestic Ship,Liquids,2015,refined liquids enduse,320583.3904,India
+India,trn_freight,Domestic Ship,Liquids,2021,refined liquids enduse,318658.9229,India
+India,trn_freight,Domestic Ship,Liquids,2025,refined liquids enduse,317391.9093,India
+India,trn_freight,Domestic Ship,Liquids,2030,refined liquids enduse,315808.1423,India
+India,trn_freight,Domestic Ship,Liquids,2035,refined liquids enduse,314224.3754,India
+India,trn_freight,Domestic Ship,Liquids,2040,refined liquids enduse,312664.2081,India
+India,trn_freight,Domestic Ship,Liquids,2045,refined liquids enduse,311104.0407,India
+India,trn_freight,Domestic Ship,Liquids,2050,refined liquids enduse,309543.8734,India
+India,trn_freight,Domestic Ship,Liquids,2055,refined liquids enduse,308006.9582,India
+India,trn_freight,Domestic Ship,Liquids,2060,refined liquids enduse,306470.0431,India
+India,trn_freight,Domestic Ship,Liquids,2065,refined liquids enduse,304933.1279,India
+India,trn_freight,Domestic Ship,Liquids,2070,refined liquids enduse,303419.0857,India
+India,trn_freight,Domestic Ship,Liquids,2075,refined liquids enduse,301905.0436,India
+India,trn_freight,Domestic Ship,Liquids,2080,refined liquids enduse,300391.0014,India
+India,trn_freight,Domestic Ship,Liquids,2085,refined liquids enduse,298899.5163,India
+India,trn_freight,Domestic Ship,Liquids,2090,refined liquids enduse,297408.0313,India
+India,trn_freight,Domestic Ship,Liquids,2095,refined liquids enduse,295916.5462,India
+India,trn_freight,Domestic Ship,Liquids,2100,refined liquids enduse,295916.5462,India
+India,trn_freight_road,Truck,Liquids,1975,refined liquids enduse,7450.001109,India
+India,trn_freight_road,Truck,Liquids,1990,refined liquids enduse,7450.001109,India
+India,trn_freight_road,Truck,Liquids,2005,refined liquids enduse,7450.001109,India
+India,trn_freight_road,Truck,Liquids,2010,refined liquids enduse,7403.844369,India
+India,trn_freight_road,Truck,Liquids,2015,refined liquids enduse,7357.687629,India
+India,trn_freight_road,Truck,Liquids,2021,refined liquids enduse,7302.470141,India
+India,trn_freight_road,Truck,Liquids,2025,refined liquids enduse,7266.227148,India
+India,trn_freight_road,Truck,Liquids,2030,refined liquids enduse,7220.923408,India
+India,trn_freight_road,Truck,Liquids,2035,refined liquids enduse,7175.619667,India
+India,trn_freight_road,Truck,Liquids,2040,refined liquids enduse,7131.168926,India
+India,trn_freight_road,Truck,Liquids,2045,refined liquids enduse,7086.718184,India
+India,trn_freight_road,Truck,Liquids,2050,refined liquids enduse,7042.267443,India
+India,trn_freight_road,Truck,Liquids,2055,refined liquids enduse,6998.638109,India
+India,trn_freight_road,Truck,Liquids,2060,refined liquids enduse,6955.008774,India
+India,trn_freight_road,Truck,Liquids,2065,refined liquids enduse,6911.379439,India
+India,trn_freight_road,Truck,Liquids,2070,refined liquids enduse,6868.571511,India
+India,trn_freight_road,Truck,Liquids,2075,refined liquids enduse,6825.763584,India
+India,trn_freight_road,Truck,Liquids,2080,refined liquids enduse,6782.955656,India
+India,trn_freight_road,Truck,Liquids,2085,refined liquids enduse,6740.937543,India
+India,trn_freight_road,Truck,Liquids,2090,refined liquids enduse,6698.919428,India
+India,trn_freight_road,Truck,Liquids,2095,refined liquids enduse,6656.901315,India
+India,trn_freight_road,Truck,Liquids,2100,refined liquids enduse,6656.901315,India
+India,trn_freight_road,Truck,Hybrid Liquids,1975,refined liquids enduse,6962.617858,India
+India,trn_freight_road,Truck,Hybrid Liquids,1990,refined liquids enduse,6962.617858,India
+India,trn_freight_road,Truck,Hybrid Liquids,2005,refined liquids enduse,6962.617858,India
+India,trn_freight_road,Truck,Hybrid Liquids,2010,refined liquids enduse,6919.480719,India
+India,trn_freight_road,Truck,Hybrid Liquids,2015,refined liquids enduse,6876.343578,India
+India,trn_freight_road,Truck,Hybrid Liquids,2021,refined liquids enduse,6859.088722,India
+India,trn_freight_road,Truck,Hybrid Liquids,2025,refined liquids enduse,6790.866494,India
+India,trn_freight_road,Truck,Hybrid Liquids,2030,refined liquids enduse,6748.526549,India
+India,trn_freight_road,Truck,Hybrid Liquids,2035,refined liquids enduse,6706.186605,India
+India,trn_freight_road,Truck,Hybrid Liquids,2040,refined liquids enduse,6664.643856,India
+India,trn_freight_road,Truck,Hybrid Liquids,2045,refined liquids enduse,6623.101107,India
+India,trn_freight_road,Truck,Hybrid Liquids,2050,refined liquids enduse,6581.558358,India
+India,trn_freight_road,Truck,Hybrid Liquids,2055,refined liquids enduse,6540.783279,India
+India,trn_freight_road,Truck,Hybrid Liquids,2060,refined liquids enduse,6500.0082,India
+India,trn_freight_road,Truck,Hybrid Liquids,2065,refined liquids enduse,6459.233121,India
+India,trn_freight_road,Truck,Hybrid Liquids,2070,refined liquids enduse,6419.225712,India
+India,trn_freight_road,Truck,Hybrid Liquids,2075,refined liquids enduse,6379.218303,India
+India,trn_freight_road,Truck,Hybrid Liquids,2080,refined liquids enduse,6339.210894,India
+India,trn_freight_road,Truck,Hybrid Liquids,2085,refined liquids enduse,6299.941628,India
+India,trn_freight_road,Truck,Hybrid Liquids,2090,refined liquids enduse,6260.672363,India
+India,trn_freight_road,Truck,Hybrid Liquids,2095,refined liquids enduse,6221.403098,India
+India,trn_freight_road,Truck,Hybrid Liquids,2100,refined liquids enduse,6221.403098,India
+India,trn_freight_road,Truck,NG,1975,delivered gas,8940.00133,India
+India,trn_freight_road,Truck,NG,1990,delivered gas,8940.00133,India
+India,trn_freight_road,Truck,NG,2005,delivered gas,8940.00133,India
+India,trn_freight_road,Truck,NG,2010,delivered gas,8884.613242,India
+India,trn_freight_road,Truck,NG,2015,delivered gas,8829.225154,India
+India,trn_freight_road,Truck,NG,2021,delivered gas,8807.069919,India
+India,trn_freight_road,Truck,NG,2025,delivered gas,8719.472578,India
+India,trn_freight_road,Truck,NG,2030,delivered gas,8665.108089,India
+India,trn_freight_road,Truck,NG,2035,delivered gas,8610.7436,India
+India,trn_freight_road,Truck,NG,2040,delivered gas,8557.402711,India
+India,trn_freight_road,Truck,NG,2045,delivered gas,8504.061821,India
+India,trn_freight_road,Truck,NG,2050,delivered gas,8450.720932,India
+India,trn_freight_road,Truck,NG,2055,delivered gas,8398.36573,India
+India,trn_freight_road,Truck,NG,2060,delivered gas,8346.010529,India
+India,trn_freight_road,Truck,NG,2065,delivered gas,8293.655327,India
+India,trn_freight_road,Truck,NG,2070,delivered gas,8242.285814,India
+India,trn_freight_road,Truck,NG,2075,delivered gas,8190.916301,India
+India,trn_freight_road,Truck,NG,2080,delivered gas,8139.546787,India
+India,trn_freight_road,Truck,NG,2085,delivered gas,8089.125051,India
+India,trn_freight_road,Truck,NG,2090,delivered gas,8038.703314,India
+India,trn_freight_road,Truck,NG,2095,delivered gas,7988.281578,India
+India,trn_freight_road,Truck,NG,2100,delivered gas,7988.281578,India
+India,trn_freight_road,Truck,BEV,1975,elect_td_trn,2483.730594,India
+India,trn_freight_road,Truck,BEV,1990,elect_td_trn,2483.730594,India
+India,trn_freight_road,Truck,BEV,2005,elect_td_trn,2483.730594,India
+India,trn_freight_road,Truck,BEV,2010,elect_td_trn,2468.342555,India
+India,trn_freight_road,Truck,BEV,2015,elect_td_trn,2452.954516,India
+India,trn_freight_road,Truck,BEV,2021,elect_td_trn,2446.7993,India
+India,trn_freight_road,Truck,BEV,2025,elect_td_trn,2436.444306,India
+India,trn_freight_road,Truck,BEV,2030,elect_td_trn,2414.135086,India
+India,trn_freight_road,Truck,BEV,2035,elect_td_trn,2401.546439,India
+India,trn_freight_road,Truck,BEV,2040,elect_td_trn,2389.438386,India
+India,trn_freight_road,Truck,BEV,2045,elect_td_trn,2377.553161,India
+India,trn_freight_road,Truck,BEV,2050,elect_td_trn,2365.92356,India
+India,trn_freight_road,Truck,BEV,2055,elect_td_trn,2351.265828,India
+India,trn_freight_road,Truck,BEV,2060,elect_td_trn,2336.608096,India
+India,trn_freight_road,Truck,BEV,2065,elect_td_trn,2321.950363,India
+India,trn_freight_road,Truck,BEV,2070,elect_td_trn,2307.568591,India
+India,trn_freight_road,Truck,BEV,2075,elect_td_trn,2293.186819,India
+India,trn_freight_road,Truck,BEV,2080,elect_td_trn,2278.805047,India
+India,trn_freight_road,Truck,BEV,2085,elect_td_trn,2264.688622,India
+India,trn_freight_road,Truck,BEV,2090,elect_td_trn,2250.572196,India
+India,trn_freight_road,Truck,BEV,2095,elect_td_trn,2236.45577,India
+India,trn_freight_road,Truck,BEV,2100,elect_td_trn,2236.45577,India
+India,trn_pass,HSR,Electric,1975,elect_td_trn,63023.85328,India
+India,trn_pass,HSR,Electric,1990,elect_td_trn,63023.85328,India
+India,trn_pass,HSR,Electric,2005,elect_td_trn,63023.85328,India
+India,trn_pass,HSR,Electric,2010,elect_td_trn,63023.85328,India
+India,trn_pass,HSR,Electric,2015,elect_td_trn,63023.85328,India
+India,trn_pass,HSR,Electric,2021,elect_td_trn,63008.1265,India
+India,trn_pass,HSR,Electric,2025,elect_td_trn,62945.21938,India
+India,trn_pass,HSR,Electric,2030,elect_td_trn,62866.58549,India
+India,trn_pass,HSR,Electric,2035,elect_td_trn,62787.95159,India
+India,trn_pass,HSR,Electric,2040,elect_td_trn,62709.60202,India
+India,trn_pass,HSR,Electric,2045,elect_td_trn,62631.25246,India
+India,trn_pass,HSR,Electric,2050,elect_td_trn,62552.90289,India
+India,trn_pass,HSR,Electric,2055,elect_td_trn,62474.83765,India
+India,trn_pass,HSR,Electric,2060,elect_td_trn,62396.77243,India
+India,trn_pass,HSR,Electric,2065,elect_td_trn,62318.70719,India
+India,trn_pass,HSR,Electric,2070,elect_td_trn,62240.95789,India
+India,trn_pass,HSR,Electric,2075,elect_td_trn,62163.20858,India
+India,trn_pass,HSR,Electric,2080,elect_td_trn,62085.45927,India
+India,trn_pass,HSR,Electric,2085,elect_td_trn,62007.9943,India
+India,trn_pass,HSR,Electric,2090,elect_td_trn,61930.52932,India
+India,trn_pass,HSR,Electric,2095,elect_td_trn,61853.06435,India
+India,trn_pass,HSR,Electric,2100,elect_td_trn,61853.06435,India
+India,trn_pass,Passenger Rail,Electric,1975,elect_td_trn,50608.54325,India
+India,trn_pass,Passenger Rail,Electric,1990,elect_td_trn,50608.54325,India
+India,trn_pass,Passenger Rail,Electric,2005,elect_td_trn,50608.54325,India
+India,trn_pass,Passenger Rail,Electric,2010,elect_td_trn,50545.38971,India
+India,trn_pass,Passenger Rail,Electric,2015,elect_td_trn,50482.23617,India
+India,trn_pass,Passenger Rail,Electric,2021,elect_td_trn,50406.50246,India
+India,trn_pass,Passenger Rail,Electric,2025,elect_td_trn,50356.18182,India
+India,trn_pass,Passenger Rail,Electric,2030,elect_td_trn,50293.28103,India
+India,trn_pass,Passenger Rail,Electric,2035,elect_td_trn,50230.38022,India
+India,trn_pass,Passenger Rail,Electric,2040,elect_td_trn,50167.70057,India
+India,trn_pass,Passenger Rail,Electric,2045,elect_td_trn,50105.02092,India
+India,trn_pass,Passenger Rail,Electric,2050,elect_td_trn,50042.34127,India
+India,trn_pass,Passenger Rail,Electric,2055,elect_td_trn,49979.88276,India
+India,trn_pass,Passenger Rail,Electric,2060,elect_td_trn,49917.42426,India
+India,trn_pass,Passenger Rail,Electric,2065,elect_td_trn,49854.96575,India
+India,trn_pass,Passenger Rail,Electric,2070,elect_td_trn,49792.75999,India
+India,trn_pass,Passenger Rail,Electric,2075,elect_td_trn,49730.55422,India
+India,trn_pass,Passenger Rail,Electric,2080,elect_td_trn,49668.34846,India
+India,trn_pass,Passenger Rail,Electric,2085,elect_td_trn,49606.36385,India
+India,trn_pass,Passenger Rail,Electric,2090,elect_td_trn,49544.37923,India
+India,trn_pass,Passenger Rail,Electric,2095,elect_td_trn,49482.39462,India
+India,trn_pass,Passenger Rail,Electric,2100,elect_td_trn,49482.39462,India
+India,trn_pass,Domestic Aviation,Liquids,1975,refined liquids enduse,363472.4795,India
+India,trn_pass,Domestic Aviation,Liquids,1990,refined liquids enduse,363472.4795,India
+India,trn_pass,Domestic Aviation,Liquids,2005,refined liquids enduse,363472.4795,India
+India,trn_pass,Domestic Aviation,Liquids,2010,refined liquids enduse,363472.4795,India
+India,trn_pass,Domestic Aviation,Liquids,2015,refined liquids enduse,363472.4795,India
+India,trn_pass,Domestic Aviation,Liquids,2021,refined liquids enduse,353299.4961,India
+India,trn_pass,Domestic Aviation,Liquids,2025,refined liquids enduse,312607.5626,India
+India,trn_pass,Domestic Aviation,Liquids,2030,refined liquids enduse,281344.38,India
+India,trn_pass,Domestic Aviation,Liquids,2035,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2040,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2045,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2050,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2055,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2060,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2065,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2070,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2075,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2080,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2085,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2090,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2095,refined liquids enduse,264928.2189,India
+India,trn_pass,Domestic Aviation,Liquids,2100,refined liquids enduse,264928.2189,India
+India,trn_pass,Passenger Rail,Liquids,1975,refined liquids enduse,135854.7343,India
+India,trn_pass,Passenger Rail,Liquids,1990,refined liquids enduse,135854.7343,India
+India,trn_pass,Passenger Rail,Liquids,2005,refined liquids enduse,135854.7343,India
+India,trn_pass,Passenger Rail,Liquids,2010,refined liquids enduse,135685.2085,India
+India,trn_pass,Passenger Rail,Liquids,2015,refined liquids enduse,135515.6829,India
+India,trn_pass,Passenger Rail,Liquids,2021,refined liquids enduse,135312.3784,India
+India,trn_pass,Passenger Rail,Liquids,2025,refined liquids enduse,135177.2633,India
+India,trn_pass,Passenger Rail,Liquids,2030,refined liquids enduse,135008.3694,India
+India,trn_pass,Passenger Rail,Liquids,2035,refined liquids enduse,134839.4756,India
+India,trn_pass,Passenger Rail,Liquids,2040,refined liquids enduse,134671.2136,India
+India,trn_pass,Passenger Rail,Liquids,2045,refined liquids enduse,134502.9515,India
+India,trn_pass,Passenger Rail,Liquids,2050,refined liquids enduse,134334.6895,India
+India,trn_pass,Passenger Rail,Liquids,2055,refined liquids enduse,134167.091,India
+India,trn_pass,Passenger Rail,Liquids,2060,refined liquids enduse,133999.4924,India
+India,trn_pass,Passenger Rail,Liquids,2065,refined liquids enduse,133831.8938,India
+India,trn_pass,Passenger Rail,Liquids,2070,refined liquids enduse,133664.8955,India
+India,trn_pass,Passenger Rail,Liquids,2075,refined liquids enduse,133497.8972,India
+India,trn_pass,Passenger Rail,Liquids,2080,refined liquids enduse,133330.8989,India
+India,trn_pass,Passenger Rail,Liquids,2085,refined liquids enduse,133164.5008,India
+India,trn_pass,Passenger Rail,Liquids,2090,refined liquids enduse,132998.1029,India
+India,trn_pass,Passenger Rail,Liquids,2095,refined liquids enduse,132831.7048,India
+India,trn_pass,Passenger Rail,Liquids,2100,refined liquids enduse,132831.7048,India
+India,trn_pass_road,Bus,Liquids,1975,refined liquids enduse,4716.612241,India
+India,trn_pass_road,Bus,Liquids,1990,refined liquids enduse,4716.612241,India
+India,trn_pass_road,Bus,Liquids,2005,refined liquids enduse,4716.612241,India
+India,trn_pass_road,Bus,Liquids,2010,refined liquids enduse,4714.27439,India
+India,trn_pass_road,Bus,Liquids,2015,refined liquids enduse,4711.936541,India
+India,trn_pass_road,Bus,Liquids,2021,refined liquids enduse,4709.124802,India
+India,trn_pass_road,Bus,Liquids,2025,refined liquids enduse,4707.229248,India
+India,trn_pass_road,Bus,Liquids,2030,refined liquids enduse,4704.859806,India
+India,trn_pass_road,Bus,Liquids,2035,refined liquids enduse,4702.490363,India
+India,trn_pass_road,Bus,Liquids,2040,refined liquids enduse,4700.152513,India
+India,trn_pass_road,Bus,Liquids,2045,refined liquids enduse,4697.814664,India
+India,trn_pass_road,Bus,Liquids,2050,refined liquids enduse,4695.476813,India
+India,trn_pass_road,Bus,Liquids,2055,refined liquids enduse,4693.138963,India
+India,trn_pass_road,Bus,Liquids,2060,refined liquids enduse,4690.801114,India
+India,trn_pass_road,Bus,Liquids,2065,refined liquids enduse,4688.463264,India
+India,trn_pass_road,Bus,Liquids,2070,refined liquids enduse,4686.125413,India
+India,trn_pass_road,Bus,Liquids,2075,refined liquids enduse,4683.787564,India
+India,trn_pass_road,Bus,Liquids,2080,refined liquids enduse,4681.449714,India
+India,trn_pass_road,Bus,Liquids,2085,refined liquids enduse,4679.080271,India
+India,trn_pass_road,Bus,Liquids,2090,refined liquids enduse,4676.710829,India
+India,trn_pass_road,Bus,Liquids,2095,refined liquids enduse,4674.341386,India
+India,trn_pass_road,Bus,Liquids,2100,refined liquids enduse,4674.341386,India
+India,trn_pass_road,Bus,Hybrid Liquids,1975,refined liquids enduse,4244.951017,India
+India,trn_pass_road,Bus,Hybrid Liquids,1990,refined liquids enduse,4244.951017,India
+India,trn_pass_road,Bus,Hybrid Liquids,2005,refined liquids enduse,4244.951017,India
+India,trn_pass_road,Bus,Hybrid Liquids,2010,refined liquids enduse,4242.846952,India
+India,trn_pass_road,Bus,Hybrid Liquids,2015,refined liquids enduse,4240.742887,India
+India,trn_pass_road,Bus,Hybrid Liquids,2021,refined liquids enduse,4192.821189,India
+India,trn_pass_road,Bus,Hybrid Liquids,2025,refined liquids enduse,4009.550658,India
+India,trn_pass_road,Bus,Hybrid Liquids,2030,refined liquids enduse,3803.759582,India
+India,trn_pass_road,Bus,Hybrid Liquids,2035,refined liquids enduse,3801.843948,India
+India,trn_pass_road,Bus,Hybrid Liquids,2040,refined liquids enduse,3799.953856,India
+India,trn_pass_road,Bus,Hybrid Liquids,2045,refined liquids enduse,3798.063764,India
+India,trn_pass_road,Bus,Hybrid Liquids,2050,refined liquids enduse,3796.173671,India
+India,trn_pass_road,Bus,Hybrid Liquids,2055,refined liquids enduse,3794.283579,India
+India,trn_pass_road,Bus,Hybrid Liquids,2060,refined liquids enduse,3792.393487,India
+India,trn_pass_road,Bus,Hybrid Liquids,2065,refined liquids enduse,3790.503394,India
+India,trn_pass_road,Bus,Hybrid Liquids,2070,refined liquids enduse,3788.613302,India
+India,trn_pass_road,Bus,Hybrid Liquids,2075,refined liquids enduse,3786.72321,India
+India,trn_pass_road,Bus,Hybrid Liquids,2080,refined liquids enduse,3784.833117,India
+India,trn_pass_road,Bus,Hybrid Liquids,2085,refined liquids enduse,3782.917484,India
+India,trn_pass_road,Bus,Hybrid Liquids,2090,refined liquids enduse,3781.001849,India
+India,trn_pass_road,Bus,Hybrid Liquids,2095,refined liquids enduse,3779.086216,India
+India,trn_pass_road,Bus,Hybrid Liquids,2100,refined liquids enduse,3779.086216,India
+India,trn_pass_road,Bus,NG,1975,delivered gas,5188.320853,India
+India,trn_pass_road,Bus,NG,1990,delivered gas,14561.63548,India
+India,trn_pass_road,Bus,NG,2005,delivered gas,13979.17006,India
+India,trn_pass_road,Bus,NG,2010,delivered gas,13420.00326,India
+India,trn_pass_road,Bus,NG,2015,delivered gas,12883.20313,India
+India,trn_pass_road,Bus,NG,2021,delivered gas,12367.875,India
+India,trn_pass_road,Bus,NG,2025,delivered gas,11873.16,India
+India,trn_pass_road,Bus,NG,2030,delivered gas,11398.2336,India
+India,trn_pass_road,Bus,NG,2035,delivered gas,10942.30426,India
+India,trn_pass_road,Bus,NG,2040,delivered gas,10504.61209,India
+India,trn_pass_road,Bus,NG,2045,delivered gas,10084.4276,India
+India,trn_pass_road,Bus,NG,2050,delivered gas,9681.050498,India
+India,trn_pass_road,Bus,NG,2055,delivered gas,9293.808478,India
+India,trn_pass_road,Bus,NG,2060,delivered gas,8922.056139,India
+India,trn_pass_road,Bus,NG,2065,delivered gas,8565.173894,India
+India,trn_pass_road,Bus,NG,2070,delivered gas,8222.566938,India
+India,trn_pass_road,Bus,NG,2075,delivered gas,7893.66426,India
+India,trn_pass_road,Bus,NG,2080,delivered gas,7577.91769,India
+India,trn_pass_road,Bus,NG,2085,delivered gas,7274.800982,India
+India,trn_pass_road,Bus,NG,2090,delivered gas,6983.808943,India
+India,trn_pass_road,Bus,NG,2095,delivered gas,6704.456585,India
+India,trn_pass_road,Bus,NG,2100,delivered gas,6436.278322,India
+India,trn_pass_road,Bus,BEV,1975,elect_td_trn,1856.53886,India
+India,trn_pass_road,Bus,BEV,1990,elect_td_trn,1856.53886,India
+India,trn_pass_road,Bus,BEV,2005,elect_td_trn,1856.53886,India
+India,trn_pass_road,Bus,BEV,2010,elect_td_trn,1855.618643,India
+India,trn_pass_road,Bus,BEV,2015,elect_td_trn,1854.698426,India
+India,trn_pass_road,Bus,BEV,2021,elect_td_trn,1716.804422,India
+India,trn_pass_road,Bus,BEV,2025,elect_td_trn,1168.909277,India
+India,trn_pass_road,Bus,BEV,2030,elect_td_trn,1070.601555,India
+India,trn_pass_road,Bus,BEV,2035,elect_td_trn,987.4695994,India
+India,trn_pass_road,Bus,BEV,2040,elect_td_trn,925.1834843,India
+India,trn_pass_road,Bus,BEV,2045,elect_td_trn,862.8973693,India
+India,trn_pass_road,Bus,BEV,2050,elect_td_trn,800.6112543,India
+India,trn_pass_road,Bus,BEV,2055,elect_td_trn,800.2126344,India
+India,trn_pass_road,Bus,BEV,2060,elect_td_trn,799.8140146,India
+India,trn_pass_road,Bus,BEV,2065,elect_td_trn,799.4153947,India
+India,trn_pass_road,Bus,BEV,2070,elect_td_trn,799.0167758,India
+India,trn_pass_road,Bus,BEV,2075,elect_td_trn,798.618156,India
+India,trn_pass_road,Bus,BEV,2080,elect_td_trn,798.2195362,India
+India,trn_pass_road,Bus,BEV,2085,elect_td_trn,797.8155301,India
+India,trn_pass_road,Bus,BEV,2090,elect_td_trn,797.411524,India
+India,trn_pass_road,Bus,BEV,2095,elect_td_trn,797.007517,India
+India,trn_pass_road,Bus,BEV,2100,elect_td_trn,797.007517,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,1975,elect_td_trn,241.1762528,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,1990,elect_td_trn,241.1762528,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2005,elect_td_trn,241.1762528,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2010,elect_td_trn,235.8466492,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2015,elect_td_trn,229.3564022,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2021,elect_td_trn,222.4358642,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2025,elect_td_trn,224.916451,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2030,elect_td_trn,227.583761,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2035,elect_td_trn,224.2146142,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2040,elect_td_trn,221.1142197,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2045,elect_td_trn,219.0526659,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2050,elect_td_trn,216.5287687,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2055,elect_td_trn,216.1067588,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2060,elect_td_trn,215.6828881,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2065,elect_td_trn,215.2571261,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2070,elect_td_trn,214.8464731,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2075,elect_td_trn,214.4343127,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2080,elect_td_trn,214.0206209,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2085,elect_td_trn,213.6164877,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2090,elect_td_trn,213.210906,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2095,elect_td_trn,212.8038545,India
+India,trn_pass_road_LDV_2W,LDV_2W,BEV,2100,elect_td_trn,212.8038545,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,1975,refined liquids enduse,836.7116421,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,1990,refined liquids enduse,836.7116421,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2005,refined liquids enduse,836.7116421,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2010,refined liquids enduse,805.7291133,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2015,refined liquids enduse,774.7465846,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2021,refined liquids enduse,743.764055,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2025,refined liquids enduse,718.9606692,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2030,refined liquids enduse,694.157283,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2035,refined liquids enduse,669.3538965,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2040,refined liquids enduse,649.0765181,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2045,refined liquids enduse,628.7991389,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2050,refined liquids enduse,608.5217602,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2055,refined liquids enduse,604.8873745,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2060,refined liquids enduse,601.2529886,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2065,refined liquids enduse,597.6186017,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2070,refined liquids enduse,594.1368259,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2075,refined liquids enduse,590.6550495,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2080,refined liquids enduse,587.1732732,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2085,refined liquids enduse,583.7894273,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2090,refined liquids enduse,580.4055817,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2095,refined liquids enduse,577.0217355,India
+India,trn_pass_road_LDV_2W,LDV_2W,Liquids,2100,refined liquids enduse,577.0217355,India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,1975,delivered gas,"1,344.71",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,1990,delivered gas,"1,344.71",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2005,delivered gas,"1,344.71",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2010,delivered gas,"1,340.03",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2015,delivered gas,"1,335.35",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2021,delivered gas,"1,330.68",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2025,delivered gas,"1,326.10",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2030,delivered gas,"1,321.52",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2035,delivered gas,"1,316.94",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2040,delivered gas,"1,312.45",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2045,delivered gas,"1,307.96",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2050,delivered gas,"1,303.48",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2055,delivered gas,"1,302.12",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2060,delivered gas,"1,300.76",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2065,delivered gas,"1,299.40",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2070,delivered gas,"1,298.11",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2075,delivered gas,"1,296.81",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2080,delivered gas,"1,295.52",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2085,delivered gas,"1,294.19",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2090,delivered gas,"1,292.86",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2095,delivered gas,"1,291.54",India
+India,trn_pass_road_LDV_3W,LDV_3W,NG,2100,delivered gas,"1,291.54",India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,1975,refined liquids enduse,2626.233436,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,1990,refined liquids enduse,2626.233436,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2005,refined liquids enduse,2626.233436,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2010,refined liquids enduse,2528.969654,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2015,refined liquids enduse,2431.705873,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2021,refined liquids enduse,2318.879594,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2025,refined liquids enduse,2256.62961,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2030,refined liquids enduse,2178.817129,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2035,refined liquids enduse,2101.004648,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2040,refined liquids enduse,2037.334666,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2045,refined liquids enduse,1973.664683,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2050,refined liquids enduse,1909.9947,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2055,refined liquids enduse,1898.616096,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2060,refined liquids enduse,1887.237493,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2065,refined liquids enduse,1875.858889,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2070,refined liquids enduse,1864.901526,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2075,refined liquids enduse,1853.944163,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2080,refined liquids enduse,1842.9868,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2085,refined liquids enduse,1832.386656,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2090,refined liquids enduse,1821.786512,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2095,refined liquids enduse,1811.186368,India
+India,trn_pass_road_LDV_4W,LDV_4W,Liquids,2100,refined liquids enduse,1811.186368,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,1975,refined liquids enduse,1970.358777,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,1990,refined liquids enduse,1970.358777,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2005,refined liquids enduse,1970.358777,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2010,refined liquids enduse,1918.047755,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2015,refined liquids enduse,1865.736734,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2021,refined liquids enduse,1804.510533,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2025,refined liquids enduse,1768.849813,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2030,refined liquids enduse,1724.273914,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2035,refined liquids enduse,1679.698014,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2040,refined liquids enduse,1641.22902,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2045,refined liquids enduse,1602.760027,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2050,refined liquids enduse,1564.291033,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2055,refined liquids enduse,1557.2136,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2060,refined liquids enduse,1550.136167,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2065,refined liquids enduse,1543.058734,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2070,refined liquids enduse,1536.185737,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2075,refined liquids enduse,1529.31274,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2080,refined liquids enduse,1522.439742,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2085,refined liquids enduse,1515.73917,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2090,refined liquids enduse,1509.038598,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2095,refined liquids enduse,1502.338026,India
+India,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,2100,refined liquids enduse,1502.338026,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,1975,delivered gas,2648.249291,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,1990,delivered gas,2648.249291,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2005,delivered gas,2648.249291,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2010,delivered gas,2554.776678,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2015,delivered gas,2461.304066,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2021,delivered gas,2352.718281,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2025,delivered gas,2292.265592,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2030,delivered gas,2216.69973,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2035,delivered gas,2141.133869,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2040,delivered gas,2078.771989,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2045,delivered gas,2016.41011,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2050,delivered gas,1954.04823,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2055,delivered gas,1942.85442,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2060,delivered gas,1931.66061,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2065,delivered gas,1920.4668,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2070,delivered gas,1909.649851,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2075,delivered gas,1898.832901,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2080,delivered gas,1888.015952,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2085,delivered gas,1877.588233,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2090,delivered gas,1867.160514,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2095,delivered gas,1856.732794,India
+India,trn_pass_road_LDV_4W,LDV_4W,NG,2100,delivered gas,1856.732794,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,1975,elect_td_trn,708.3768322,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,1990,elect_td_trn,708.3768322,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2005,elect_td_trn,708.3768322,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2010,elect_td_trn,705.9010836,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2015,elect_td_trn,703.4253352,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2021,elect_td_trn,700.4632995,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2025,elect_td_trn,698.5181539,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2030,elect_td_trn,696.0867217,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2035,elect_td_trn,693.6552895,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2040,elect_td_trn,691.2879256,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2045,elect_td_trn,688.9205609,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2050,elect_td_trn,686.553197,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2055,elect_td_trn,685.8708561,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2060,elect_td_trn,685.1885137,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2065,elect_td_trn,684.5061718,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2070,elect_td_trn,683.8040793,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2075,elect_td_trn,683.101987,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2080,elect_td_trn,682.3998943,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2085,elect_td_trn,681.6978016,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2090,elect_td_trn,680.995709,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2095,elect_td_trn,680.2936161,India
+India,trn_pass_road_LDV_4W,LDV_4W,BEV,2100,elect_td_trn,680.2936161,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,1975,H2 retail dispensing,1285.552454,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,1990,H2 retail dispensing,1285.552454,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2005,H2 retail dispensing,1285.552454,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2010,H2 retail dispensing,1207.636858,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2015,H2 retail dispensing,1129.721264,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2021,H2 retail dispensing,1048.178149,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2025,H2 retail dispensing,1033.668072,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2030,H2 retail dispensing,1015.530475,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2035,H2 retail dispensing,997.392878,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2040,H2 retail dispensing,981.0529084,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2045,H2 retail dispensing,964.7129391,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2050,H2 retail dispensing,948.372969,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2055,H2 retail dispensing,947.2133984,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2060,H2 retail dispensing,946.0538273,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2065,H2 retail dispensing,944.894255,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2070,H2 retail dispensing,943.7264792,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2075,H2 retail dispensing,942.5587031,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2080,H2 retail dispensing,941.3909268,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2085,H2 retail dispensing,940.2552753,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2090,H2 retail dispensing,939.1196246,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2095,H2 retail dispensing,937.9839728,India
+India,trn_pass_road_LDV_4W,LDV_4W,FCEV,2100,H2 retail dispensing,937.9839728,India
+India,trn_shipping_intl,International Ship,Liquids,1975,refined liquids enduse,2013404.289,India
+India,trn_shipping_intl,International Ship,Liquids,1990,refined liquids enduse,2013404.289,India
+India,trn_shipping_intl,International Ship,Liquids,2005,refined liquids enduse,2013404.289,India
+India,trn_shipping_intl,International Ship,Liquids,2010,refined liquids enduse,2003407.421,India
+India,trn_shipping_intl,International Ship,Liquids,2015,refined liquids enduse,1993410.554,India
+India,trn_shipping_intl,International Ship,Liquids,2021,refined liquids enduse,1981444.098,India
+India,trn_shipping_intl,International Ship,Liquids,2025,refined liquids enduse,1973565.746,India
+India,trn_shipping_intl,International Ship,Liquids,2030,refined liquids enduse,1963717.806,India
+India,trn_shipping_intl,International Ship,Liquids,2035,refined liquids enduse,1953869.866,India
+India,trn_shipping_intl,International Ship,Liquids,2040,refined liquids enduse,1944168.61,India
+India,trn_shipping_intl,International Ship,Liquids,2045,refined liquids enduse,1934467.354,India
+India,trn_shipping_intl,International Ship,Liquids,2050,refined liquids enduse,1924766.098,India
+India,trn_shipping_intl,International Ship,Liquids,2055,refined liquids enduse,1915209.347,India
+India,trn_shipping_intl,International Ship,Liquids,2060,refined liquids enduse,1905652.595,India
+India,trn_shipping_intl,International Ship,Liquids,2065,refined liquids enduse,1896095.844,India
+India,trn_shipping_intl,International Ship,Liquids,2070,refined liquids enduse,1886681.417,India
+India,trn_shipping_intl,International Ship,Liquids,2075,refined liquids enduse,1877266.991,India
+India,trn_shipping_intl,International Ship,Liquids,2080,refined liquids enduse,1867852.563,India
+India,trn_shipping_intl,International Ship,Liquids,2085,refined liquids enduse,1858578.407,India
+India,trn_shipping_intl,International Ship,Liquids,2090,refined liquids enduse,1849304.252,India
+India,trn_shipping_intl,International Ship,Liquids,2095,refined liquids enduse,1840030.096,India
+India,trn_shipping_intl,International Ship,Liquids,2100,refined liquids enduse,1840030.096,India
+India,trn_freight_road,Truck,FCEV,1975,H2 retail dispensing,3924.513197,India
+India,trn_freight_road,Truck,FCEV,1990,H2 retail dispensing,3924.513197,India
+India,trn_freight_road,Truck,FCEV,2005,H2 retail dispensing,3924.513197,India
+India,trn_freight_road,Truck,FCEV,2010,H2 retail dispensing,3900.198739,India
+India,trn_freight_road,Truck,FCEV,2015,H2 retail dispensing,3875.884282,India
+India,trn_freight_road,Truck,FCEV,2021,H2 retail dispensing,3866.158499,India
+India,trn_freight_road,Truck,FCEV,2025,H2 retail dispensing,3885.179423,India
+India,trn_freight_road,Truck,FCEV,2030,H2 retail dispensing,3818.495808,India
+India,trn_freight_road,Truck,FCEV,2035,H2 retail dispensing,3800.806861,India
+India,trn_freight_road,Truck,FCEV,2040,H2 retail dispensing,3784.047919,India
+India,trn_freight_road,Truck,FCEV,2045,H2 retail dispensing,3767.835096,India
+India,trn_freight_road,Truck,FCEV,2050,H2 retail dispensing,3752.24877,India
+India,trn_freight_road,Truck,FCEV,2055,H2 retail dispensing,3729.002263,India
+India,trn_freight_road,Truck,FCEV,2060,H2 retail dispensing,3705.755757,India
+India,trn_freight_road,Truck,FCEV,2065,H2 retail dispensing,3682.50925,India
+India,trn_freight_road,Truck,FCEV,2070,H2 retail dispensing,3659.700403,India
+India,trn_freight_road,Truck,FCEV,2075,H2 retail dispensing,3636.891557,India
+India,trn_freight_road,Truck,FCEV,2080,H2 retail dispensing,3614.082711,India
+India,trn_freight_road,Truck,FCEV,2085,H2 retail dispensing,3591.694693,India
+India,trn_freight_road,Truck,FCEV,2090,H2 retail dispensing,3569.306674,India
+India,trn_freight_road,Truck,FCEV,2095,H2 retail dispensing,3546.918655,India
+India,trn_freight_road,Truck,FCEV,2100,H2 retail dispensing,3546.918655,India
+India,trn_pass_road,Bus,FCEV,1975,H2 retail dispensing,2154.501887,India
+India,trn_pass_road,Bus,FCEV,1990,H2 retail dispensing,2154.501887,India
+India,trn_pass_road,Bus,FCEV,2005,H2 retail dispensing,2154.501887,India
+India,trn_pass_road,Bus,FCEV,2010,H2 retail dispensing,2153.433981,India
+India,trn_pass_road,Bus,FCEV,2015,H2 retail dispensing,2152.366075,India
+India,trn_pass_road,Bus,FCEV,2021,H2 retail dispensing,2001.953827,India
+India,trn_pass_road,Bus,FCEV,2025,H2 retail dispensing,1404.576469,India
+India,trn_pass_road,Bus,FCEV,2030,H2 retail dispensing,1312.819102,India
+India,trn_pass_road,Bus,FCEV,2035,H2 retail dispensing,1232.238976,India
+India,trn_pass_road,Bus,FCEV,2040,H2 retail dispensing,1168.264391,India
+India,trn_pass_road,Bus,FCEV,2045,H2 retail dispensing,1104.289807,India
+India,trn_pass_road,Bus,FCEV,2050,H2 retail dispensing,1040.315222,India
+India,trn_pass_road,Bus,FCEV,2055,H2 retail dispensing,1039.797256,India
+India,trn_pass_road,Bus,FCEV,2060,H2 retail dispensing,1039.279289,India
+India,trn_pass_road,Bus,FCEV,2065,H2 retail dispensing,1038.761322,India
+India,trn_pass_road,Bus,FCEV,2070,H2 retail dispensing,1038.243355,India
+India,trn_pass_road,Bus,FCEV,2075,H2 retail dispensing,1037.725389,India
+India,trn_pass_road,Bus,FCEV,2080,H2 retail dispensing,1037.207422,India
+India,trn_pass_road,Bus,FCEV,2085,H2 retail dispensing,1036.682456,India
+India,trn_pass_road,Bus,FCEV,2090,H2 retail dispensing,1036.157489,India
+India,trn_pass_road,Bus,FCEV,2095,H2 retail dispensing,1035.632523,India
+India,trn_pass_road,Bus,FCEV,2100,H2 retail dispensing,1035.632523,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,1975,refined liquids enduse,836.7116421,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,1990,refined liquids enduse,836.7116421,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2005,refined liquids enduse,836.7116421,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2010,refined liquids enduse,805.7291133,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2015,refined liquids enduse,774.7465846,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2021,refined liquids enduse,743.764055,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2025,refined liquids enduse,718.9606692,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2030,refined liquids enduse,694.157283,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2035,refined liquids enduse,669.3538965,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2040,refined liquids enduse,649.0765181,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2045,refined liquids enduse,628.7991389,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2050,refined liquids enduse,608.5217602,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2055,refined liquids enduse,604.8873745,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2060,refined liquids enduse,601.2529886,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2065,refined liquids enduse,597.6186017,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2070,refined liquids enduse,594.1368259,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2075,refined liquids enduse,590.6550495,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2080,refined liquids enduse,587.1732732,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2085,refined liquids enduse,583.7894273,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2090,refined liquids enduse,580.4055817,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2095,refined liquids enduse,577.0217355,India
+India,trn_pass_road_LDV_3W,LDV_3W,Liquids,2100,refined liquids enduse,577.0217355,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,1975,elect_td_trn,241.1762528,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,1990,elect_td_trn,241.1762528,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2005,elect_td_trn,241.1762528,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2010,elect_td_trn,235.8466492,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2015,elect_td_trn,229.3564022,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2021,elect_td_trn,222.9706315,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2025,elect_td_trn,224.916451,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2030,elect_td_trn,227.583761,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2035,elect_td_trn,224.2146142,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2040,elect_td_trn,221.1142197,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2045,elect_td_trn,219.0526659,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2050,elect_td_trn,216.5287687,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2055,elect_td_trn,216.1067588,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2060,elect_td_trn,215.6828881,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2065,elect_td_trn,215.2571261,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2070,elect_td_trn,214.8464731,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2075,elect_td_trn,214.4343127,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2080,elect_td_trn,214.0206209,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2085,elect_td_trn,213.6164877,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2090,elect_td_trn,213.210906,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2095,elect_td_trn,212.8038545,India
+India,trn_pass_road_LDV_3W,LDV_3W,BEV,2100,elect_td_trn,212.8038545,India
+India,trn_pass,Domestic Aviation,BEV,1975,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,1990,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2005,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2010,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2015,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2021,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2025,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2030,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2035,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2040,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2045,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2050,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2055,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2060,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2065,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2070,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2075,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2080,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2085,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2090,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2095,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,BEV,2100,elect_td_trn,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,1975,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,1990,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2005,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2010,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2015,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2021,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2025,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2030,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2035,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2040,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2045,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2050,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2055,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2060,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2065,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2070,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2075,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2080,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2085,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2090,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2095,H2 wholesale dispensing,264928.2189,India
+India,trn_pass,Domestic Aviation,Hydrogen,2100,H2 wholesale dispensing,264928.2189,India
+India,trn_freight,Domestic Ship,BEV,1975,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,1990,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,2005,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,2010,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,2015,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,2021,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,2025,elect_td_trn,158695.9546,India
+India,trn_freight,Domestic Ship,BEV,2030,elect_td_trn,157904.0712,India
+India,trn_freight,Domestic Ship,BEV,2035,elect_td_trn,157112.1877,India
+India,trn_freight,Domestic Ship,BEV,2040,elect_td_trn,156332.104,India
+India,trn_freight,Domestic Ship,BEV,2045,elect_td_trn,155552.0204,India
+India,trn_freight,Domestic Ship,BEV,2050,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2055,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2060,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2065,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2070,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2075,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2080,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2085,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2090,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2095,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,BEV,2100,elect_td_trn,154771.9367,India
+India,trn_freight,Domestic Ship,FCEV,1975,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,1990,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,2005,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,2010,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,2015,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,2021,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,2025,H2 wholesale dispensing,211594.6062,India
+India,trn_freight,Domestic Ship,FCEV,2030,H2 wholesale dispensing,210538.7616,India
+India,trn_freight,Domestic Ship,FCEV,2035,H2 wholesale dispensing,209482.9169,India
+India,trn_freight,Domestic Ship,FCEV,2040,H2 wholesale dispensing,208442.8054,India
+India,trn_freight,Domestic Ship,FCEV,2045,H2 wholesale dispensing,207402.6938,India
+India,trn_freight,Domestic Ship,FCEV,2050,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2055,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2060,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2065,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2070,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2075,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2080,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2085,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2090,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2095,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,FCEV,2100,H2 wholesale dispensing,206362.5823,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,1975,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,1990,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2005,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2010,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2015,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2021,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2025,refined liquids enduse,253913.5274,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2030,refined liquids enduse,252646.5139,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2035,refined liquids enduse,251379.5003,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2040,refined liquids enduse,250131.3664,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2045,refined liquids enduse,248883.2326,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2050,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2055,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2060,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2065,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2070,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2075,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2080,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2085,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2090,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2095,refined liquids enduse,247635.0987,India
+India,trn_freight,Domestic Ship,Hybrid Liquids,2100,refined liquids enduse,247635.0987,India
+India,trn_freight,Freight Rail,FCEV,1975,H2 wholesale dispensing,179855.4711,India
+India,trn_freight,Freight Rail,FCEV,1990,H2 wholesale dispensing,179855.4711,India
+India,trn_freight,Freight Rail,FCEV,2005,H2 wholesale dispensing,179855.4711,India
+India,trn_freight,Freight Rail,FCEV,2010,H2 wholesale dispensing,179631.0375,India
+India,trn_freight,Freight Rail,FCEV,2015,H2 wholesale dispensing,179406.6039,India
+India,trn_freight,Freight Rail,FCEV,2021,H2 wholesale dispensing,179137.4521,India
+India,trn_freight,Freight Rail,FCEV,2025,H2 wholesale dispensing,178958.5792,India
+India,trn_freight,Freight Rail,FCEV,2030,H2 wholesale dispensing,178734.9881,India
+India,trn_freight,Freight Rail,FCEV,2035,H2 wholesale dispensing,178511.3969,India
+India,trn_freight,Freight Rail,FCEV,2040,H2 wholesale dispensing,178288.6482,India
+India,trn_freight,Freight Rail,FCEV,2045,H2 wholesale dispensing,178065.8996,India
+India,trn_freight,Freight Rail,FCEV,2050,H2 wholesale dispensing,177843.1509,India
+India,trn_freight,Freight Rail,FCEV,2055,H2 wholesale dispensing,177621.2448,India
+India,trn_freight,Freight Rail,FCEV,2060,H2 wholesale dispensing,177399.3385,India
+India,trn_freight,Freight Rail,FCEV,2065,H2 wholesale dispensing,177177.4324,India
+India,trn_freight,Freight Rail,FCEV,2070,H2 wholesale dispensing,176956.3476,India
+India,trn_freight,Freight Rail,FCEV,2075,H2 wholesale dispensing,176735.2628,India
+India,trn_freight,Freight Rail,FCEV,2080,H2 wholesale dispensing,176514.178,India
+India,trn_freight,Freight Rail,FCEV,2085,H2 wholesale dispensing,176293.9147,India
+India,trn_freight,Freight Rail,FCEV,2090,H2 wholesale dispensing,176073.6513,India
+India,trn_freight,Freight Rail,FCEV,2095,H2 wholesale dispensing,175853.3879,India
+India,trn_freight,Freight Rail,FCEV,2100,H2 wholesale dispensing,175853.3879,India
+India,trn_freight,Freight Rail,Hybrid Liquids,1975,refined liquids enduse,215826.5653,India
+India,trn_freight,Freight Rail,Hybrid Liquids,1990,refined liquids enduse,215826.5653,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2005,refined liquids enduse,215826.5653,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2010,refined liquids enduse,215557.245,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2015,refined liquids enduse,215287.9247,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2021,refined liquids enduse,214964.9425,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2025,refined liquids enduse,214750.2949,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2030,refined liquids enduse,214481.9857,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2035,refined liquids enduse,214213.6763,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2040,refined liquids enduse,213946.3779,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2045,refined liquids enduse,213679.0796,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2050,refined liquids enduse,213411.7811,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2055,refined liquids enduse,213145.4937,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2060,refined liquids enduse,212879.2063,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2065,refined liquids enduse,212612.9189,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2070,refined liquids enduse,212347.6171,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2075,refined liquids enduse,212082.3154,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2080,refined liquids enduse,211817.0136,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2085,refined liquids enduse,211552.6976,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2090,refined liquids enduse,211288.3815,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2095,refined liquids enduse,211024.0655,India
+India,trn_freight,Freight Rail,Hybrid Liquids,2100,refined liquids enduse,211024.0655,India
+India,trn_shipping_intl,International Ship,FCEV,1975,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,1990,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,2005,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,2010,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,2015,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,2021,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,2025,H2 wholesale dispensing,1315710.497,India
+India,trn_shipping_intl,International Ship,FCEV,2030,H2 wholesale dispensing,1309145.204,India
+India,trn_shipping_intl,International Ship,FCEV,2035,H2 wholesale dispensing,1302579.91,India
+India,trn_shipping_intl,International Ship,FCEV,2040,H2 wholesale dispensing,1296112.407,India
+India,trn_shipping_intl,International Ship,FCEV,2045,H2 wholesale dispensing,1289644.903,India
+India,trn_shipping_intl,International Ship,FCEV,2050,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2055,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2060,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2065,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2070,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2075,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2080,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2085,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2090,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2095,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,FCEV,2100,H2 wholesale dispensing,1283177.399,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,1975,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,1990,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2005,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2010,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2015,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2021,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2025,refined liquids enduse,1578852.597,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2030,refined liquids enduse,1570974.244,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2035,refined liquids enduse,1563095.893,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2040,refined liquids enduse,1555334.888,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2045,refined liquids enduse,1547573.883,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2050,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2055,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2060,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2065,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2070,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2075,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2080,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2085,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2090,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2095,refined liquids enduse,1539812.879,India
+India,trn_shipping_intl,International Ship,Hybrid Liquids,2100,refined liquids enduse,1539812.879,India

@@ -48,6 +48,7 @@ module_gcamusa_L244.building <- function(command, ...) {
              FILE = "gcam-usa/A44.globaltech_eff",
              FILE = "gcam-usa/A44.globaltech_eff_avg",
              FILE = "gcam-usa/A44.globaltech_shares",
+             FILE = "gcam-usa/A44.hab_land_flsp_usa",
              FILE = "gcam-usa/A44.globaltech_intgains",
              FILE = "gcam-usa/A44.globaltech_retirement",
              FILE = "gcam-usa/A44.globaltech_shrwt",

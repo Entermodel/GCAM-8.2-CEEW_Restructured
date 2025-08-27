@@ -11,6 +11,8 @@
 # Files produced by data system
 outputs/
 xml*/
+xml/other
+xml/India
 sample-generator/outputs/
 R/*.html
 Rplots.pdf

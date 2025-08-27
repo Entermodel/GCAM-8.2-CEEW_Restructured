@@ -1,0 +1,46 @@
+# File: trnIndia_GHG_mapping.csv
+# Title: Mapping GHG sector and fuel codes to UCD mode and fuel for India
+# Units: NA
+# Column types: cccccc
+# ----------
+mode,fuel,UCD_sector,GHG_Platform_sectors,GHG_Platform_fuels,UCD_technology
+Domestic Aviation,refined liquids,Passenger,trn_pass_dom_aviation,oil,Liquids
+Domestic Aviation,electricity,Passenger,trn_pass_dom_aviation,electricity,BEV
+Domestic Aviation,hydrogen,Passenger,trn_pass_dom_aviation,hydrogen,Hydrogen
+International Aviation,refined liquids,Passenger,trn_aviation_intl,oil,Liquids
+International Aviation,electricity,Passenger,trn_aviation_intl,electricity,BEV
+International Aviation,hydrogen,Passenger,trn_aviation_intl,hydrogen,Hydrogen
+Bus,gas,Passenger,trn_pass_road_bus,gas,NG
+Bus,refined liquids,Passenger,trn_pass_road_bus,oil,Liquids
+Bus,electricity,Passenger,trn_pass_road_bus,electricity,BEV
+Bus,hydrogen,Passenger,trn_pass_road_bus,hydrogen,FCEV
+Bus,refined liquids,Passenger,trn_pass_road_bus,hybrid oil,Hybrid Liquids
+HSR,electricity,Passenger,trn_pass_hsr,electricity,Electric
+LDV_2W,electricity,Passenger,trn_pass_road_LDV_2W,electricity,BEV
+LDV_2W,refined liquids,Passenger,trn_pass_road_LDV_2W,oil,Liquids
+LDV_3W,refined liquids,Passenger,trn_pass_road_LDV_3W,oil,Liquids
+LDV_3W,gas,Passenger,trn_pass_road_LDV_3W,gas,NG
+LDV_3W,electricity,Passenger,trn_pass_road_LDV_3W,electricity,BEV
+LDV_4W,electricity,Passenger,trn_pass_road_LDV_4W,electricity,BEV
+LDV_4W,gas,Passenger,trn_pass_road_LDV_4W,gas,NG
+LDV_4W,hydrogen,Passenger,trn_pass_road_LDV_4W,hydrogen,FCEV
+LDV_4W,refined liquids,Passenger,trn_pass_road_LDV_4W,oil,Liquids
+LDV_4W,refined liquids,Passenger,trn_pass_road_LDV_4W,hybrid oil,Hybrid Liquids
+Rail,electricity,Passenger,trn_pass_rail,electricity,Electric
+Rail,refined liquids,Passenger,trn_pass_rail,oil,Liquids
+Rail,coal,Freight,trn_freight_rail,coal,Coal
+Rail,electricity,Freight,trn_freight_rail,electricity,Electric
+Rail,refined liquids,Freight,trn_freight_rail,oil,Liquids
+Rail,refined liquids,Freight,trn_freight_rail,hybrid oil,Hybrid Liquids
+Rail,hydrogen,Freight,trn_freight_rail,hydrogen,FCEV
+Domestic Ship,refined liquids,Freight,trn_freight_dom_ship,oil,Liquids
+Domestic Ship,refined liquids,Freight,trn_freight_dom_ship,hybrid oil,Hybrid Liquids
+Domestic Ship,hydrogen,Freight,trn_freight_dom_ship,hydrogen,FCEV
+International Ship,refined liquids,Freight,trn_shipping_intl,oil,Liquids
+International Ship,refined liquids,Freight,trn_shipping_intl,hybrid oil,Hybrid Liquids
+International Ship,hydrogen,Freight,trn_shipping_intl,hydrogen,FCEV
+Truck,refined liquids,Freight,trn_freight_road_truck,oil,Liquids
+Truck,electricity,Freight,trn_freight_road_truck,electricity,BEV
+Truck,hydrogen,Freight,trn_freight_road_truck,hydrogen,FCEV
+Truck,refined liquids,Freight,trn_freight_road_truck,hybrid oil,Hybrid Liquids
+Truck,gas,Freight,trn_freight_road_truck,gas,NG

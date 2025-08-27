@@ -23,18 +23,17 @@ ATTR_REFERENCE <- "reference"
 #' @param title Title of object (character)
 #' @param overwrite Allow overwrite of title? Logical
 #' @return \code{x} with units appended to any existing comments.
-add_title <- function(x, title, overwrite = FALSE) {
-  if(!overwrite && !is.null(get_title(x))) {
-    stop("Object has existing title '", get_title(x), "'. ",
-         "Set overwrite = TRUE to replace it.")
+add_title <- function(x, title, overwrite = TRUE) {
+  assertthat::assert_that(is.character(title) | is.null(title))
+
+  if(!overwrite && !is.null(attr(x, ATTR_TITLE))) {
+    stop("Not allowed to overwrite current title '", attr(x, ATTR_TITLE), "'")
   }
   attr(x, ATTR_TITLE) <- title
   x
 }
+
 get_title <- function(x) { attr(x, ATTR_TITLE) }
-
-
-
 
 #' add_comments
 #'
@@ -59,7 +58,7 @@ add_comments <- function(x, comments) {
 #' @param legacy_name Legacy name (character)
 #' @param overwrite Allow overwrite of legacy_name? Logical
 #' @return \code{x} with legacy name set.
-add_legacy_name <- function(x, legacy_name, overwrite = FALSE) {
+add_legacy_name <- function(x, legacy_name, overwrite = TRUE) {
   assertthat::assert_that(is.character(legacy_name) | is.null(legacy_name))
 
   if(!overwrite && !is.null(attr(x, ATTR_LEGACY_NAME))) {

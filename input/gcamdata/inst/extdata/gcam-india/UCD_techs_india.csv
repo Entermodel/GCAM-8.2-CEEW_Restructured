@@ -1,0 +1,47 @@
+# File: UCD_techs_india.csv
+# Title: UCD technologies mapping for India
+# Units: NA
+# Source: Mishra et al. 2013 (Modified for India)
+# Column types: ccccccccccc
+# ----------
+UCD_sector,mode,size.class,UCD_technology,UCD_fuel,UCD_category,fuel,supplysector,tranSubsector,tranTechnology,minicam.energy.input
+Passenger,Domestic Aviation,All,Liquids,Liquids,trn_air,refined liquids,trn_pass,Domestic Aviation,Liquids,refined liquids enduse
+Passenger,Domestic Aviation,All,BEV,Electricity,trn_air,electricity,trn_pass,Domestic Aviation,BEV,elect_td_trn
+Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,trn_air,hydrogen,trn_pass,Domestic Aviation,Hydrogen,H2 wholesale dispensing
+Passenger,International Aviation,All,Liquids,Liquids,trn_air,refined liquids,trn_aviation_intl,International Aviation,Liquids,refined liquids enduse
+Passenger,International Aviation,All,BEV,Electricity,trn_air,electricity,trn_aviation_intl,International Aviation,BEV,elect_td_trn
+Passenger,International Aviation,All,Hydrogen,Hydrogen,trn_air,hydrogen,trn_aviation_intl,International Aviation,Hydrogen,H2 wholesale dispensing
+Passenger,Bus,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_pass_road,Bus,Liquids,refined liquids enduse
+Passenger,Bus,All,BEV,Electricity,trn_road and rail,electricity,trn_pass_road,Bus,BEV,elect_td_trn
+Passenger,Bus,All,NG,Natural Gas,trn_road and rail,gas,trn_pass_road,Bus,NG,delivered gas
+Passenger,Bus,All,FCEV,Hydrogen,trn_road and rail,hydrogen,trn_pass_road,Bus,FCEV,H2 retail dispensing
+Passenger,Bus,All,Hybrid Liquids,Liquids,trn_road and rail,refined liquids,trn_pass_road,Bus,Hybrid Liquids,refined liquids enduse
+Passenger,HSR,All,Electric,Electricity,trn_road and rail,electricity,trn_pass,HSR,Electric,elect_td_trn
+Passenger,LDV_2W,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_pass_road_LDV_2W,LDV_2W,Liquids,refined liquids enduse
+Passenger,LDV_2W,All,BEV,Electricity,trn_road and rail,electricity,trn_pass_road_LDV_2W,LDV_2W,BEV,elect_td_trn
+Passenger,LDV_3W,All,NG,Natural Gas,trn_road and rail,gas,trn_pass_road_LDV_3W,LDV_3W,NG,delivered gas
+Passenger,LDV_3W,All,BEV,Electricity,trn_road and rail,electricity,trn_pass_road_LDV_3W,LDV_3W,BEV,elect_td_trn
+Passenger,LDV_3W,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_pass_road_LDV_3W,LDV_3W,Liquids,refined liquids enduse
+Passenger,LDV_4W,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_pass_road_LDV_4W,LDV_4W,Liquids,refined liquids enduse
+Passenger,LDV_4W,All,NG,Natural Gas,trn_road and rail,gas,trn_pass_road_LDV_4W,LDV_4W,NG,delivered gas
+Passenger,LDV_4W,All,BEV,Electricity,trn_road and rail,electricity,trn_pass_road_LDV_4W,LDV_4W,BEV,elect_td_trn
+Passenger,LDV_4W,All,FCEV,Hydrogen,trn_road and rail,hydrogen,trn_pass_road_LDV_4W,LDV_4W,FCEV,H2 retail dispensing
+Passenger,LDV_4W,All,Hybrid Liquids,Liquids,trn_road and rail,refined liquids,trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,refined liquids enduse
+Freight,Rail,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_freight,Freight Rail,Liquids,refined liquids enduse
+Freight,Rail,All,Electric,Electricity,trn_road and rail,electricity,trn_freight,Freight Rail,Electric,elect_td_trn
+Freight,Rail,All,Coal,Coal,trn_road and rail,coal,trn_freight,Freight Rail,Coal,delivered coal
+Freight,Rail,All,FCEV,Hydrogen,trn_road and rail,hydrogen,trn_freight,Freight Rail,FCEV,H2 wholesale dispensing
+Freight,Rail,All,Hybrid Liquids,Liquids,trn_road and rail,refined liquids,trn_freight,Freight Rail,Hybrid Liquids,refined liquids enduse
+Passenger,Rail,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_pass,Passenger Rail,Liquids,refined liquids enduse
+Passenger,Rail,All,Electric,Electricity,trn_road and rail,electricity,trn_pass,Passenger Rail,Electric,elect_td_trn
+Freight,Domestic Ship,All,Liquids,Liquids,trn_domestic ship,refined liquids,trn_freight,Domestic Ship,Liquids,refined liquids enduse
+Freight,Domestic Ship,All,Hybrid Liquids,Liquids,trn_domestic ship,refined liquids,trn_freight,Domestic Ship,Hybrid Liquids,refined liquids enduse
+Freight,Domestic Ship,All,FCEV,Hydrogen,trn_domestic ship,hydrogen,trn_freight,Domestic Ship,FCEV,H2 wholesale dispensing
+Freight,International Ship,All,Liquids,Liquids,trn_international ship,refined liquids,trn_shipping_intl,International Ship,Liquids,refined liquids enduse
+Freight,International Ship,All,Hybrid Liquids,Liquids,trn_international ship,refined liquids,trn_shipping_intl,International Ship,Hybrid Liquids,refined liquids enduse
+Freight,International Ship,All,FCEV,Hydrogen,trn_international ship,hydrogen,trn_shipping_intl,International Ship,FCEV,H2 wholesale dispensing
+Freight,Truck,All,Liquids,Liquids,trn_road and rail,refined liquids,trn_freight_road,Truck,Liquids,refined liquids enduse
+Freight,Truck,All,BEV,Electricity,trn_road and rail,electricity,trn_freight_road,Truck,BEV,elect_td_trn
+Freight,Truck,All,FCEV,Hydrogen,trn_road and rail,hydrogen,trn_freight_road,Truck,FCEV,H2 retail dispensing
+Freight,Truck,All,Hybrid Liquids,Liquids,trn_road and rail,refined liquids,trn_freight_road,Truck,Hybrid Liquids,refined liquids enduse
+Freight,Truck,All,NG,Natural Gas,trn_road and rail,gas,trn_freight_road,Truck,NG,delivered gas

@@ -1,0 +1,2021 @@
+# File: A54.india_core_changed.csv
+# Title: Core Value Changed
+# Units:EJ
+# Column types: nccccccnn
+# ----------
+GCAM_region_ID,UCD_sector,mode,size.class,UCD_technology,UCD_fuel,fuel,year,value
+17,Freight,Rail,All,Coal,Coal,coal,1971,0.26514124
+17,Freight,Rail,All,Coal,Coal,coal,1972,0.25622506
+17,Freight,Rail,All,Coal,Coal,coal,1973,0.2339974
+17,Freight,Rail,All,Coal,Coal,coal,1974,0.23893688
+17,Freight,Rail,All,Coal,Coal,coal,1975,0.24098802
+17,Freight,Rail,All,Coal,Coal,coal,1976,0.221858
+17,Freight,Rail,All,Coal,Coal,coal,1977,0.21813246
+17,Freight,Rail,All,Coal,Coal,coal,1978,0.2124395
+17,Freight,Rail,All,Coal,Coal,coal,1979,0.19896058
+17,Freight,Rail,All,Coal,Coal,coal,1980,0.20683026
+17,Freight,Rail,All,Coal,Coal,coal,1981,0.19720246
+17,Freight,Rail,All,Coal,Coal,coal,1982,0.19176066
+17,Freight,Rail,All,Coal,Coal,coal,1983,0.18740722
+17,Freight,Rail,All,Coal,Coal,coal,1984,0.16568188
+17,Freight,Rail,All,Coal,Coal,coal,1985,0.16831906
+17,Freight,Rail,All,Coal,Coal,coal,1986,0.14219842
+17,Freight,Rail,All,Coal,Coal,coal,1987,0.13223574
+17,Freight,Rail,All,Coal,Coal,coal,1988,0.1180452
+17,Freight,Rail,All,Coal,Coal,coal,1989,0.10159422
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Freight,Rail,All,Coal,Coal,coal,1991,0.08987342
+17,Freight,Rail,All,Coal,Coal,coal,1992,0.07601776
+17,Freight,Rail,All,Coal,Coal,coal,1993,0.0351624
+17,Freight,Rail,All,Coal,Coal,coal,1994,0.01167894
+17,Freight,Rail,All,Coal,Coal,coal,1995,0.00468832
+17,Freight,Rail,All,Coal,Coal,coal,1996,0.00242788
+17,Freight,Rail,All,Coal,Coal,coal,1997,0.0010465
+17,Freight,Rail,All,Coal,Coal,coal,1998,0
+17,Freight,Rail,All,Coal,Coal,coal,1999,0
+17,Freight,Rail,All,Coal,Coal,coal,2000,0
+17,Freight,Rail,All,Coal,Coal,coal,2001,0
+17,Freight,Rail,All,Coal,Coal,coal,2002,0
+17,Freight,Rail,All,Coal,Coal,coal,2003,0
+17,Freight,Rail,All,Coal,Coal,coal,2004,0
+17,Freight,Rail,All,Coal,Coal,coal,2005,0
+17,Freight,Rail,All,Coal,Coal,coal,2006,0
+17,Freight,Rail,All,Coal,Coal,coal,2007,0
+17,Freight,Rail,All,Coal,Coal,coal,2008,0
+17,Freight,Rail,All,Coal,Coal,coal,2009,0
+17,Freight,Rail,All,Coal,Coal,coal,2010,0
+17,Freight,Rail,All,Coal,Coal,coal,2011,0
+17,Freight,Rail,All,Coal,Coal,coal,2012,0
+17,Freight,Rail,All,Coal,Coal,coal,2013,0
+17,Freight,Rail,All,Coal,Coal,coal,2014,0
+17,Freight,Rail,All,Coal,Coal,coal,2015,0
+17,Freight,Rail,All,Coal,Coal,coal,2016,0
+17,Freight,Rail,All,Coal,Coal,coal,2017,0
+17,Freight,Rail,All,Coal,Coal,coal,2018,0
+17,Freight,Rail,All,Coal,Coal,coal,2019,0
+17,Freight,Rail,All,Coal,Coal,coal,2020,0
+17,Freight,Rail,All,Coal,Coal,coal,2021,0
+17,Freight,Rail,All,Electric,Electricity,electricity,1971,0.003076965
+17,Freight,Rail,All,Electric,Electricity,electricity,1972,0.003451055
+17,Freight,Rail,All,Electric,Electricity,electricity,1973,0.002900963
+17,Freight,Rail,All,Electric,Electricity,electricity,1974,0.002901774
+17,Freight,Rail,All,Electric,Electricity,electricity,1975,0.003516472
+17,Freight,Rail,All,Electric,Electricity,electricity,1976,0.0040905
+17,Freight,Rail,All,Electric,Electricity,electricity,1977,0.004353231
+17,Freight,Rail,All,Electric,Electricity,electricity,1978,0.004134892
+17,Freight,Rail,All,Electric,Electricity,electricity,1979,0.004354306
+17,Freight,Rail,All,Electric,Electricity,electricity,1980,0.004287272
+17,Freight,Rail,All,Electric,Electricity,electricity,1981,0.004730595
+17,Freight,Rail,All,Electric,Electricity,electricity,1982,0.004970832
+17,Freight,Rail,All,Electric,Electricity,electricity,1983,0.005125608
+17,Freight,Rail,All,Electric,Electricity,electricity,1984,0.005456866
+17,Freight,Rail,All,Electric,Electricity,electricity,1985,0.005828858
+17,Freight,Rail,All,Electric,Electricity,electricity,1986,0.006103888
+17,Freight,Rail,All,Electric,Electricity,electricity,1987,0.006786193
+17,Freight,Rail,All,Electric,Electricity,electricity,1988,0.007557336
+17,Freight,Rail,All,Electric,Electricity,electricity,1989,0.007624319
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1990,0.060749134
+17,Freight,Rail,All,Electric,Electricity,electricity,1991,0.008476527
+17,Freight,Rail,All,Electric,Electricity,electricity,1992,0.009518856
+17,Freight,Rail,All,Electric,Electricity,electricity,1993,0.010536967
+17,Freight,Rail,All,Electric,Electricity,electricity,1994,0.011046625
+17,Freight,Rail,All,Electric,Electricity,electricity,1995,0.011679189
+17,Freight,Rail,All,Electric,Electricity,electricity,1996,0.012379415
+17,Freight,Rail,All,Electric,Electricity,electricity,1997,0.013064176
+17,Freight,Rail,All,Electric,Electricity,electricity,1998,0.013742733
+17,Freight,Rail,All,Electric,Electricity,electricity,1999,0.015198887
+17,Freight,Rail,All,Electric,Electricity,electricity,2000,0.015442369
+17,Freight,Rail,All,Electric,Electricity,electricity,2001,0.015246966
+17,Freight,Rail,All,Electric,Electricity,electricity,2002,0.016539331
+17,Freight,Rail,All,Electric,Electricity,electricity,2003,0.017313248
+17,Freight,Rail,All,Electric,Electricity,electricity,2004,0.018014483
+17,Freight,Rail,All,Electric,Electricity,electricity,2005,0.018632353
+17,Freight,Rail,All,Electric,Electricity,electricity,2006,0.020153557
+17,Freight,Rail,All,Electric,Electricity,electricity,2007,0.020625503
+17,Freight,Rail,All,Electric,Electricity,electricity,2008,0.021932575
+17,Freight,Rail,All,Electric,Electricity,electricity,2009,0.023009164
+17,Freight,Rail,All,Electric,Electricity,electricity,2010,0.024690606
+17,Freight,Rail,All,Electric,Electricity,electricity,2011,0.026317347
+17,Freight,Rail,All,Electric,Electricity,electricity,2012,0.026151867
+17,Freight,Rail,All,Electric,Electricity,electricity,2013,0.02884339
+17,Freight,Rail,All,Electric,Electricity,electricity,2014,0.030154562
+17,Freight,Rail,All,Electric,Electricity,electricity,2015,0.031019393
+17,Freight,Rail,All,Electric,Electricity,electricity,2016,0.029147068
+17,Freight,Rail,All,Electric,Electricity,electricity,2017,0.032192659
+17,Freight,Rail,All,Electric,Electricity,electricity,2018,0.034779082
+17,Freight,Rail,All,Electric,Electricity,electricity,2019,0.035257427
+17,Freight,Rail,All,Electric,Electricity,electricity,2020,0.026875023
+17,Freight,Rail,All,Electric,Electricity,electricity,2021,0.037506014
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1971,0.005378417
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1972,0.005784281
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1973,0.006083188
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1974,0.006895872
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1975,0.007305556
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1976,0.007652212
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1977,0.008200367
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1978,0.00884593
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1979,0.009990945
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1980,0.010425458
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1981,0.010966929
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1982,0.008506914
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1983,0.009137197
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1984,0.00979804
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1985,0.010649877
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1986,0.011583842
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1987,0.012745091
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1988,0.013899656
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1989,0.01600251
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1990,0
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1991,0.017275491
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1992,0.018190357
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1993,0.019274253
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1994,0.020594983
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1995,0.023184874
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1996,0.024897144
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1997,0.025649664
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1998,0.026556889
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1999,0.027947333
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2000,0.028579526
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2001,0.028481163
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2002,0.02934064
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2003,0.029694936
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2004,0.03217787
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2005,0.033896824
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2006,0.035220419
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2007,0.041634984
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2008,0.047743957
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2009,0.052363169
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2010,0.056778017
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2011,0.061034338
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2012,0.06512545
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2013,0.066450955
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2014,0.06945626
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2015,0.076198381
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2016,0.07905471
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2017,0.085210476
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2018,0.08902751
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2019,0.089749471
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2020,0.080427008
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,2021,0.087177724
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1971,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1972,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1973,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1974,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1975,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1976,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1977,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1978,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1979,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1980,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1981,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1982,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1983,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1984,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1985,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1986,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1987,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1988,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1990,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1991,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1992,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1993,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1994,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1995,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1996,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1997,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1998,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1999,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2000,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2001,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2002,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2003,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2004,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2005,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2006,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2007,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2008,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2009,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2010,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2011,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2012,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2013,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2014,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2015,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2016,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2017,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2018,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2019,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2020,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,2021,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1990,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2011,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2012,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2013,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2014,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2015,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2016,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2017,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2018,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2019,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2020,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,2021,0
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1971,0.01689051
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1972,0.01818817
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1973,0.01735097
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1974,0.0186277
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1975,0.02000908
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1976,0.02132767
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1977,0.02321137
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1978,0.0257439
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1979,0.02551367
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1980,0.02509507
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1981,0.02513693
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1982,0.0255346
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1983,0.02693691
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1984,0.02978339
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1985,0.03237871
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1986,0.03572751
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1987,0.03687866
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1988,0.03817632
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1989,0.03957863
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1990,0.03740191
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1991,0.03476473
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1992,0.03489031
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1993,0.03880422
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1994,0.04242511
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1995,0.04640181
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1996,0.04811807
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1997,0.04700878
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1998,0.0470925
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1999,0.0489762
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2000,0.05014828
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2001,0.05029479
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2002,0.05058781
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2003,0.05538078
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2004,0.06266442
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2005,0.026874
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2006,0.08880599
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2007,0.10128027
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2008,0.09860123
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2009,0.10316397
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2010,0.033948
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2011,0.12344514
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2012,0.11752195
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2013,0.12271259
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2014,0.12758928
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2015,0.029344
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2016,0.15603315
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2017,0.17018183
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2018,0.18506306
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2019,0.17834453
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2020,0.08244327
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,2021,0.067688
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1971,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1972,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1973,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1974,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1975,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1976,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1977,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1978,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1979,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1980,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1981,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1982,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1983,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1984,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1985,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1986,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1987,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1988,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1990,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1991,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1992,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1993,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1994,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1995,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1996,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1997,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1998,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1999,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2000,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2001,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2002,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2003,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2004,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2005,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2006,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2007,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2008,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2009,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2010,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2011,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2012,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2013,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2014,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2015,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2016,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2017,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2018,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2019,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2020,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,2021,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1990,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2011,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2012,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2013,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2014,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2015,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2016,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2017,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2018,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2019,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2020,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,2021,0
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1971,0.00933478
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1972,0.00715806
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1973,0.00950222
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1974,0.00560924
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1975,0.00757666
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1976,0.00891618
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1977,0.01075802
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1978,0.00757666
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1979,0.00883246
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1980,0.00954408
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1981,0.00556738
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1982,0.00590226
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1983,0.00820456
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1984,0.008372
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1985,0.00447902
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1986,0.030400203
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1987,0.036787911
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1988,0.04524877
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1989,0.038764916
+17,Freight,Domestic Ship,All,Liquids,Liquids,refined liquids,1990,0.023316
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1991,0.036787911
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1992,0.010198099
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1993,0.03478687
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1994,0.032617573
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1995,0.032617573
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1996,0.028014577
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1997,0.049491218
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1998,0.067716917
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1999,0.067716917
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2000,0.053589446
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2001,0.023621901
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2002,0.034306139
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2003,0.030231947
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2004,0.028158796
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2005,0.036114888
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2006,0.114924665
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2007,0.200248341
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2008,0.190098916
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2009,0.070589283
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2010,0.054048726
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2011,0.034028227
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2012,0.211635648
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2013,0.221881219
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2014,0.22522629
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2015,0.234716638
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2016,0.251833158
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2017,0.261831917
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2018,0.270644383
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2019,0.275897968
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2020,0.263357152
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,2021,0.274033793
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1971,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1972,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1973,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1974,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1975,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1976,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1977,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1978,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1979,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1980,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1981,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1982,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1983,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1984,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1985,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1986,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1987,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1988,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1989,0
+17,Freight,Domestic Ship,All,FCEV,Hydrogen,hydrogen,1990,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1991,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1992,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1993,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1994,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1995,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1996,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1997,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1998,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1999,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2000,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2001,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2002,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2003,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2004,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2005,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2006,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2007,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2008,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2009,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2010,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2011,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2012,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2013,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2014,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2015,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2016,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2017,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2018,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2019,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2020,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,2021,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Freight,Domestic Ship,All,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2011,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2012,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2013,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2014,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2015,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2016,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2017,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2018,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2019,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2020,0
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,2021,0
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1971,0.14423255
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1972,0.155116576
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1973,0.163132341
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1974,0.184926003
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1975,0.195912466
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1976,0.205208705
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1977,0.219908542
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1978,0.237220546
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1979,0.267926304
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1980,0.279578614
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1981,0.294099185
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1982,0.228129183
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1983,0.245031435
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1984,0.26275319
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1985,0.28559684
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1986,0.310642904
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1987,0.341784023
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1988,0.372745876
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1989,0.429137935
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1990,0.03740191
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1991,0.463275362
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1992,0.487809237
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1993,0.516875988
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1994,0.552293889
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1995,0.621746779
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1996,0.667664564
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1997,0.687844828
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1998,0.712173827
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1999,0.749461219
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2000,0.76641469
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2001,0.763776915
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2002,0.78682544
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2003,0.796326555
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2004,0.862911184
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2005,0.909008235
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2006,0.944502964
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2007,1.116521792
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2008,1.280345589
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2009,1.404218609
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2010,1.522611201
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2011,1.636752621
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2012,1.746463602
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2013,1.78200955
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2014,1.862602561
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2015,2.043405439
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2016,2.120003372
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2017,2.285082033
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2018,2.387443095
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2019,2.406803857
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2020,2.156804184
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,2021,2.337837547
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1971,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1972,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1973,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1974,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1975,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1976,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1977,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1978,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1979,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1980,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1981,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1982,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1983,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1984,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1985,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1986,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1987,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1988,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1990,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1991,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1992,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1993,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1994,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1995,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1996,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1997,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1998,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1999,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2000,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2001,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2002,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2003,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2004,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2005,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2006,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2007,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2008,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2009,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2010,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2011,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2012,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2013,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2014,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2015,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2016,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2017,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2018,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2019,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2020,0
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,2021,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1971,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1972,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1973,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1974,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1975,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1976,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1977,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1978,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1979,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1980,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1981,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1982,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1983,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1984,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1985,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1986,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1987,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1988,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1989,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1990,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1991,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1992,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1993,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1994,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1995,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1996,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1997,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1998,0
+17,Freight,Truck,All,NG,Natural Gas,gas,1999,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2000,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2001,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2002,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2003,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2004,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2005,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2006,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2007,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2008,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2009,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2010,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2011,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2012,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2013,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2014,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2015,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2016,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2017,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2018,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2019,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2020,0
+17,Freight,Truck,All,NG,Natural Gas,gas,2021,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1971,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1972,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1973,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1974,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1975,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1976,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1977,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1978,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1979,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1980,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1981,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1982,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1983,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1984,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1985,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1986,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1987,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1988,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1989,0
+17,Freight,International Ship,All,Liquids,Liquids,refined liquids,1990,0.036763874
+17,Freight,Truck,All,BEV,Electricity,electricity,1991,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1992,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1993,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1994,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1995,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1996,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1997,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1998,0
+17,Freight,Truck,All,BEV,Electricity,electricity,1999,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2000,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2001,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2002,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2003,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2004,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2005,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2006,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2007,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2008,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2009,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2010,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2011,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2012,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2013,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2014,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2015,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2016,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2017,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2018,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2019,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2020,0
+17,Freight,Truck,All,BEV,Electricity,electricity,2021,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Freight,International Ship,All,FCEV,Hydrogen,hydrogen,1990,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2011,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2012,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2013,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2014,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2015,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2016,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2017,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2018,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2019,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2020,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,2021,0
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1971,0.01689051
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1972,0.01818817
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1973,0.01735097
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1974,0.0186277
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1975,0.02000908
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1976,0.02132767
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1977,0.02321137
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1978,0.0257439
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1979,0.02551367
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1980,0.02509507
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1981,0.02513693
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1982,0.0255346
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1983,0.02693691
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1984,0.02978339
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1985,0.03237871
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1986,0.03572751
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1987,0.03687866
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1988,0.03817632
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1989,0.03957863
+17,Freight,International Ship,All,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1991,0.03476473
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1992,0.03489031
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1993,0.03880422
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1994,0.04242511
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1995,0.04640181
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1996,0.04811807
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1997,0.04700878
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1998,0.0470925
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,1999,0.0489762
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2000,0.05014828
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2001,0.05029479
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2002,0.05058781
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2003,0.05538078
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2004,0.06266442
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2005,0.07348523
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2006,0.08880599
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2007,0.10128027
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2008,0.09860123
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2009,0.10316397
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2010,0.1132313
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2011,0.12344514
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2012,0.11752195
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2013,0.12271259
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2014,0.12758928
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2015,0.1396031
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2016,0.15603315
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2017,0.17018183
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2018,0.18506306
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2019,0.17834453
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2020,0.08244327
+17,Passenger,Domestic Aviation,All,Liquids,Liquids,refined liquids,2021,0.11164062
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1971,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1972,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1973,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1974,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1975,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1976,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1977,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1978,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1979,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1980,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1981,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1982,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1983,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1984,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1985,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1986,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1987,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1988,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1990,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1991,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1992,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1993,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1994,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1995,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1996,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1997,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1998,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,1999,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2000,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2001,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2002,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2003,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2004,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2005,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2006,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2007,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2008,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2009,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2010,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2011,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2012,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2013,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2014,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2015,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2016,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2017,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2018,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2019,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2020,0
+17,Passenger,Domestic Aviation,All,BEV,Electricity,electricity,2021,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1971,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1972,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1973,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1974,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1975,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1976,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1977,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1978,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1979,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1980,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1981,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1982,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1983,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1984,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1985,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1986,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1987,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1988,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1990,0.053570758
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1991,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1992,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1993,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1994,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1995,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1996,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1997,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1998,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,1999,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2000,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2001,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2002,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2003,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2004,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2005,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2006,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2007,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2008,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2009,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2010,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2011,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2012,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2013,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2014,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2015,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2016,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2017,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2018,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2019,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2020,0
+17,Passenger,Domestic Aviation,All,Hydrogen,Hydrogen,hydrogen,2021,0
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1971,0.01689051
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1972,0.01818817
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1973,0.01735097
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1974,0.0186277
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1975,0.02000908
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1976,0.02132767
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1977,0.02321137
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1978,0.0257439
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1979,0.02551367
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1980,0.02509507
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1981,0.02513693
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1982,0.0255346
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1983,0.02693691
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1984,0.02978339
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1985,0.03237871
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1986,0.03572751
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1987,0.03687866
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1988,0.03817632
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1989,0.03957863
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1990,0
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1991,0.03476473
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1992,0.03489031
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1993,0.03880422
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1994,0.04242511
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1995,0.04640181
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1996,0.04811807
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1997,0.04700878
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1998,0.0470925
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,1999,0.0489762
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2000,0.05014828
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2001,0.05029479
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2002,0.05058781
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2003,0.05538078
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2004,0.06266442
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2005,0.07348523
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2006,0.08880599
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2007,0.10128027
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2008,0.09860123
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2009,0.10316397
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2010,0.1132313
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2011,0.12344514
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2012,0.11752195
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2013,0.12271259
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2014,0.12758928
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2015,0.1396031
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2016,0.15603315
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2017,0.17018183
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2018,0.18506306
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2019,0.17834453
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2020,0.08244327
+17,Passenger,International Aviation,All,Liquids,Liquids,refined liquids,2021,0.11164062
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1971,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1972,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1973,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1974,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1975,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1976,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1977,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1978,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1979,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1980,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1981,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1982,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1983,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1984,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1985,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1986,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1987,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1988,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1990,0.065475371
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1991,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1992,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1993,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1994,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1995,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1996,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1997,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1998,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,1999,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2000,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2001,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2002,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2003,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2004,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2005,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2006,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2007,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2008,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2009,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2010,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2011,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2012,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2013,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2014,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2015,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2016,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2017,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2018,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2019,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2020,0
+17,Passenger,International Aviation,All,BEV,Electricity,electricity,2021,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1971,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1972,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1973,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1974,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1975,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1976,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1977,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1978,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1979,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1980,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1981,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1982,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1983,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1984,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1985,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1986,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1987,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1988,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1990,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1991,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1992,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1993,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1994,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1995,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1996,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1997,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1998,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,1999,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2000,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2001,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2002,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2003,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2004,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2005,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2006,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2007,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2008,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2009,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2010,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2011,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2012,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2013,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2014,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2015,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2016,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2017,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2018,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2019,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2020,0
+17,Passenger,International Aviation,All,Hydrogen,Hydrogen,hydrogen,2021,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1990,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2011,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2012,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2013,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2014,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2015,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2016,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2017,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2018,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2019,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2020,0
+17,Passenger,Bus,All,Hybrid Liquids,Liquids,refined liquids,2021,0
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1971,0.019997611
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1972,0.021506664
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1973,0.022618037
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1974,0.025639693
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1975,0.027162948
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1976,0.028451857
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1977,0.030489965
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1978,0.032890247
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1979,0.037147551
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1980,0.038763125
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1981,0.040776379
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1982,0.031629744
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1983,0.033973214
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1984,0.036430307
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1985,0.039597542
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1986,0.043070139
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1987,0.047387805
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1988,0.051680616
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1989,0.059499284
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1991,0.064232383
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1992,0.067633965
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1993,0.071664024
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1994,0.076574659
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1995,0.08620419
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1996,0.092570617
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1997,0.095368578
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1998,0.098741755
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,1999,0.103911592
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2000,0.106262163
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2001,0.10589644
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2002,0.109092081
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2003,0.110409395
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2004,0.119641246
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2005,0.126032528
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2006,0.130953815
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2007,0.154803949
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2008,0.177517855
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2009,0.19469265
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2010,0.211107592
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2011,0.226933116
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2012,0.242144367
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2013,0.247072755
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2014,0.258246847
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2015,0.283314875
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2016,0.293935055
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2017,0.316822945
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2018,0.331015142
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2019,0.33369948
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2020,0.299037428
+17,Passenger,Bus,All,Liquids,Liquids,refined liquids,2021,0.324137412
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1971,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1972,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1973,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1974,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1975,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1976,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1977,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1978,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1979,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1980,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1981,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1982,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1983,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1984,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1985,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1986,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1987,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1988,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1989,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1991,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1992,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1993,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1994,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1995,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1996,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1997,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1998,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,1999,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2000,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2001,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2002,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2003,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2004,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2005,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2006,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2007,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2008,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2009,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2010,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2011,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2012,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2013,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2014,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2015,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2016,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2017,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2018,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2019,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2020,0
+17,Passenger,Bus,All,FCEV,Hydrogen,hydrogen,2021,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1971,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1972,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1973,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1974,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1975,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1976,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1977,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1978,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1979,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1980,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1981,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1982,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1983,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1984,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1985,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1986,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1987,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1988,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1989,0
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1990,0.062373679
+17,Passenger,Bus,All,BEV,Electricity,electricity,1991,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1992,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1993,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1994,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1995,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1996,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1997,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1998,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,1999,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2000,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2001,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2002,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2003,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2004,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2005,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2006,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2007,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2008,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2009,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2010,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2011,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2012,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2013,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2014,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2015,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2016,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2017,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2018,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2019,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2020,0
+17,Passenger,Bus,All,BEV,Electricity,electricity,2021,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1971,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1972,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1973,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1974,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1975,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1976,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1977,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1978,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1979,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1980,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1981,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1982,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1983,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1984,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1985,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1986,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1987,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1988,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1989,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1990,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1991,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1992,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1993,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1994,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1995,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1996,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1997,0
+17,Passenger,Bus,All,NG,Natural Gas,gas,1998,3.56E-04
+17,Passenger,Bus,All,NG,Natural Gas,gas,1999,5.56E-04
+17,Passenger,Bus,All,NG,Natural Gas,gas,2000,0.0016907
+17,Passenger,Bus,All,NG,Natural Gas,gas,2001,0.004115519
+17,Passenger,Bus,All,NG,Natural Gas,gas,2002,0.008231038
+17,Passenger,Bus,All,NG,Natural Gas,gas,2003,0.011300993
+17,Passenger,Bus,All,NG,Natural Gas,gas,2004,0.013058431
+17,Passenger,Bus,All,NG,Natural Gas,gas,2005,0.015016083
+17,Passenger,Bus,All,NG,Natural Gas,gas,2006,0.01621737
+17,Passenger,Bus,All,NG,Natural Gas,gas,2007,0.018597697
+17,Passenger,Bus,All,NG,Natural Gas,gas,2008,0.019331816
+17,Passenger,Bus,All,NG,Natural Gas,gas,2009,0.027028949
+17,Passenger,Bus,All,NG,Natural Gas,gas,2010,0.030566071
+17,Passenger,Bus,All,NG,Natural Gas,gas,2011,0.04008738
+17,Passenger,Bus,All,NG,Natural Gas,gas,2012,0.036728226
+17,Passenger,Bus,All,NG,Natural Gas,gas,2013,0.038952831
+17,Passenger,Bus,All,NG,Natural Gas,gas,2014,0.041177436
+17,Passenger,Bus,All,NG,Natural Gas,gas,2015,0.043668994
+17,Passenger,Bus,All,NG,Natural Gas,gas,2016,0.047940235
+17,Passenger,Bus,All,NG,Natural Gas,gas,2017,0.053479501
+17,Passenger,Bus,All,NG,Natural Gas,gas,2018,0.062333429
+17,Passenger,Bus,All,NG,Natural Gas,gas,2019,0.065803812
+17,Passenger,Bus,All,NG,Natural Gas,gas,2020,0.052723136
+17,Passenger,Bus,All,NG,Natural Gas,gas,2021,0.080864387
+17,Passenger,HSR,All,Electric,Electricity,electricity,1996,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1997,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1998,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,1999,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2000,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2001,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2002,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2003,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2004,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2005,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2006,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2007,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2008,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2009,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2010,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2011,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2012,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2013,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2014,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2015,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2016,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2017,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2018,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2019,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2020,0
+17,Passenger,HSR,All,Electric,Electricity,electricity,2021,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1989,0
+17,Freight,Rail,All,Coal,Coal,coal,1990,0.09175712
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2011,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2012,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2013,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2014,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2015,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2016,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2017,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2018,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2019,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2020,0
+17,Passenger,LDV_2W,All,BEV,Electricity,electricity,2021,0
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1971,0.017634608
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1972,0.018965345
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1973,0.019945393
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1974,0.022609997
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1975,0.023953259
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1976,0.025089864
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1977,0.026887141
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1978,0.029003795
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1979,0.032758038
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1980,0.034182709
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1981,0.035958068
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1982,0.027892239
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1983,0.029958795
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1984,0.032125547
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1985,0.034918528
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1986,0.037980788
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1987,0.04178826
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1988,0.045573814
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1989,0.052468595
+17,Freight,Rail,All,Electric,Electricity,electricity,1990,0.007711958
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1991,0.056642412
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1992,0.059642048
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1993,0.063195898
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1994,0.067526271
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1995,0.076017936
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1996,0.081632079
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1997,0.084099421
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1998,0.087074009
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,1999,0.091632956
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2000,0.093705774
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2001,0.093383266
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2002,0.096201296
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2003,0.097362951
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2004,0.105503928
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2005,0.111139989
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2006,0.115479756
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2007,0.136511656
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2008,0.15654159
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2009,0.171686938
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2010,0.186162221
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2011,0.200117734
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2012,0.213531559
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2013,0.217877588
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2014,0.227731301
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2015,0.249837184
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2016,0.259202438
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2017,0.279385799
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2018,0.291900985
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2019,0.29426813
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2020,0.263701894
+17,Passenger,LDV_2W,All,Liquids,Liquids,refined liquids,2021,0.285835957
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1989,0
+17,Freight,Rail,All,Liquids,Liquids,refined liquids,1990,0.016338661
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1998,1.99E-04
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,1999,3.10E-04
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2000,9.43E-04
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2001,0.00229535
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2002,0.004590699
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2003,0.006302906
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2004,0.007283082
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2005,0.008374924
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2006,0.009044918
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2007,0.010372499
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2008,0.010781939
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2009,0.015074863
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2010,0.017047623
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2011,0.022357945
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2012,0.020484444
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2013,0.021725173
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2014,0.022965903
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2015,0.02435552
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2016,0.026737721
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2017,0.029827137
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2018,0.03476524
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2019,0.036700778
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2020,0.029405289
+17,Passenger,LDV_3W,All,NG,Natural Gas,gas,2021,0.045100517
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1989,0
+17,Freight,Rail,All,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2011,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2012,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2013,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2014,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2015,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2016,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2017,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2018,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2019,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2020,0
+17,Passenger,LDV_4W,All,BEV,Electricity,electricity,2021,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1971,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1972,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1973,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1974,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1975,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1976,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1977,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1978,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1979,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1980,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1981,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1982,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1983,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1984,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1985,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1986,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1987,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1988,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1989,0
+17,Freight,Rail,All,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1991,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1992,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1993,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1994,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1995,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1996,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1997,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1998,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,1999,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2000,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2001,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2002,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2003,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2004,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2005,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2006,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2007,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2008,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2009,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2010,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2011,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2012,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2013,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2014,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2015,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2016,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2017,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2018,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2019,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2020,0
+17,Passenger,LDV_4W,All,FCEV,Hydrogen,hydrogen,2021,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1971,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1972,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1973,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1974,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1975,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1976,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1977,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1978,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1979,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1980,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1981,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1982,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1983,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1984,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1985,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1986,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1987,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1988,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1989,0
+17,Passenger,Rail,All,Electric,Electricity,electricity,1990,0.006982344
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1991,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1992,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1993,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1994,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1995,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1996,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1997,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1998,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,1999,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2000,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2001,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2002,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2003,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2004,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2005,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2006,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2007,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2008,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2009,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2010,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2011,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2012,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2013,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2014,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2015,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2016,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2017,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2018,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2019,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2020,0
+17,Passenger,LDV_4W,All,Hybrid Liquids,Liquids,refined liquids,2021,0
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1971,0.020532384
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1972,0.022081792
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1973,0.023222885
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1974,0.026325345
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1975,0.027889336
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1976,0.029212712
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1977,0.031305323
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1978,0.033769793
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1979,0.038140945
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1980,0.039799722
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1981,0.041866814
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1982,0.032475582
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1983,0.034881721
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1984,0.037404521
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1985,0.040656454
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1986,0.044221914
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1987,0.048655042
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1988,0.053062651
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1989,0.061090405
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1990,0.019522667
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1991,0.065950076
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1992,0.069442623
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1993,0.073580452
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1994,0.078622407
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1995,0.088509449
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1996,0.095046126
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1997,0.09791891
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1998,0.101382292
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,1999,0.10669038
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2000,0.10910381
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2001,0.108728306
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2002,0.112009405
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2003,0.113361946
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2004,0.122840675
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2005,0.129402871
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2006,0.134455763
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2007,0.158943693
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2008,0.182265011
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2009,0.199899091
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2010,0.216752999
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2011,0.233001727
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2012,0.248619755
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2013,0.253679938
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2014,0.265152845
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2015,0.290891238
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2016,0.301795422
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2017,0.325295377
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2018,0.339867099
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2019,0.342623222
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2020,0.307034242
+17,Passenger,LDV_4W,All,Liquids,Liquids,refined liquids,2021,0.332805446
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1971,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1972,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1973,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1974,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1975,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1976,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1977,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1978,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1979,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1980,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1981,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1982,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1983,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1984,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1985,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1986,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1987,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1988,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1989,0
+17,Freight,Truck,All,Liquids,Liquids,refined liquids,1990,0.438152469
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1991,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1992,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1993,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1994,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1995,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1996,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1997,0
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1998,1.15E-04
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,1999,1.80E-04
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2000,5.48E-04
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2001,0.001333231
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2002,0.002666463
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2003,0.003660981
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2004,0.004230307
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2005,0.004864493
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2006,0.005253652
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2007,0.006024765
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2008,0.006262584
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2009,0.008756087
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2010,0.009901946
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2011,0.012986395
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2012,0.01189819
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2013,0.012618855
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2014,0.013339521
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2015,0.014146666
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2016,0.015530344
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2017,0.017324802
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2018,0.020193051
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2019,0.021317289
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2020,0.017079775
+17,Passenger,LDV_4W,All,NG,Natural Gas,gas,2021,0.026196196
+17,Passenger,Rail,All,Electric,Electricity,electricity,1971,0.002785859
+17,Passenger,Rail,All,Electric,Electricity,electricity,1972,0.003124557
+17,Passenger,Rail,All,Electric,Electricity,electricity,1973,0.002626509
+17,Passenger,Rail,All,Electric,Electricity,electricity,1974,0.002627243
+17,Passenger,Rail,All,Electric,Electricity,electricity,1975,0.003183785
+17,Passenger,Rail,All,Electric,Electricity,electricity,1976,0.003703505
+17,Passenger,Rail,All,Electric,Electricity,electricity,1977,0.00394138
+17,Passenger,Rail,All,Electric,Electricity,electricity,1978,0.003743698
+17,Passenger,Rail,All,Electric,Electricity,electricity,1979,0.003942353
+17,Passenger,Rail,All,Electric,Electricity,electricity,1980,0.003881661
+17,Passenger,Rail,All,Electric,Electricity,electricity,1981,0.004283042
+17,Passenger,Rail,All,Electric,Electricity,electricity,1982,0.004500551
+17,Passenger,Rail,All,Electric,Electricity,electricity,1983,0.004640683
+17,Passenger,Rail,All,Electric,Electricity,electricity,1984,0.004940602
+17,Passenger,Rail,All,Electric,Electricity,electricity,1985,0.0052774
+17,Passenger,Rail,All,Electric,Electricity,electricity,1986,0.005526411
+17,Passenger,Rail,All,Electric,Electricity,electricity,1987,0.006144164
+17,Passenger,Rail,All,Electric,Electricity,electricity,1988,0.00684235
+17,Passenger,Rail,All,Electric,Electricity,electricity,1989,0.006902996
+17,Freight,Truck,All,FCEV,Hydrogen,hydrogen,1990,0
+17,Passenger,Rail,All,Electric,Electricity,electricity,1991,0.007674579
+17,Passenger,Rail,All,Electric,Electricity,electricity,1992,0.008618295
+17,Passenger,Rail,All,Electric,Electricity,electricity,1993,0.009540084
+17,Passenger,Rail,All,Electric,Electricity,electricity,1994,0.010001524
+17,Passenger,Rail,All,Electric,Electricity,electricity,1995,0.010574242
+17,Passenger,Rail,All,Electric,Electricity,electricity,1996,0.011208221
+17,Passenger,Rail,All,Electric,Electricity,electricity,1997,0.011828198
+17,Passenger,Rail,All,Electric,Electricity,electricity,1998,0.012442559
+17,Passenger,Rail,All,Electric,Electricity,electricity,1999,0.013760948
+17,Passenger,Rail,All,Electric,Electricity,electricity,2000,0.013981395
+17,Passenger,Rail,All,Electric,Electricity,electricity,2001,0.013804479
+17,Passenger,Rail,All,Electric,Electricity,electricity,2002,0.014974576
+17,Passenger,Rail,All,Electric,Electricity,electricity,2003,0.015675273
+17,Passenger,Rail,All,Electric,Electricity,electricity,2004,0.016310166
+17,Passenger,Rail,All,Electric,Electricity,electricity,2005,0.01686958
+17,Passenger,Rail,All,Electric,Electricity,electricity,2006,0.018246866
+17,Passenger,Rail,All,Electric,Electricity,electricity,2007,0.018674162
+17,Passenger,Rail,All,Electric,Electricity,electricity,2008,0.019857575
+17,Passenger,Rail,All,Electric,Electricity,electricity,2009,0.02083231
+17,Passenger,Rail,All,Electric,Electricity,electricity,2010,0.022354673
+17,Passenger,Rail,All,Electric,Electricity,electricity,2011,0.023827511
+17,Passenger,Rail,All,Electric,Electricity,electricity,2012,0.023677687
+17,Passenger,Rail,All,Electric,Electricity,electricity,2013,0.026114569
+17,Passenger,Rail,All,Electric,Electricity,electricity,2014,0.027301694
+17,Passenger,Rail,All,Electric,Electricity,electricity,2015,0.028084706
+17,Passenger,Rail,All,Electric,Electricity,electricity,2016,0.026389517
+17,Passenger,Rail,All,Electric,Electricity,electricity,2017,0.029146971
+17,Passenger,Rail,All,Electric,Electricity,electricity,2018,0.031488697
+17,Passenger,Rail,All,Electric,Electricity,electricity,2019,0.031921787
+17,Passenger,Rail,All,Electric,Electricity,electricity,2020,0.024332426
+17,Passenger,Rail,All,Electric,Electricity,electricity,2021,0.033957639
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1971,0.006426539
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1972,0.006911497
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1973,0.007268653
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1974,0.008239709
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1975,0.00872923
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1976,0.009143441
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1977,0.009798419
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1978,0.010569786
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1979,0.011937936
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1980,0.012457125
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1981,0.013104115
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1982,0.010164704
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1983,0.010917814
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1984,0.011707439
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1985,0.012725278
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1986,0.01384125
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1987,0.015228799
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1988,0.016608359
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1989,0.019121009
+17,Freight,Truck,All,NG,Natural Gas,gas,1990,0
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1991,0.020642063
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1992,0.021735213
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1993,0.023030335
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1994,0.024608442
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1995,0.02770304
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1996,0.029748989
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1997,0.030648157
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1998,0.031732179
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,1999,0.033393586
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2000,0.034148978
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2001,0.034031447
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2002,0.035058415
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2003,0.035481755
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2004,0.038448552
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2005,0.040502488
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2006,0.04208402
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2007,0.049748626
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2008,0.057048089
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2009,0.062567473
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2010,0.067842667
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2011,0.072928442
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2012,0.077816811
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2013,0.079400624
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2014,0.08299159
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2015,0.091047586
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2016,0.094460544
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2017,0.101815919
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2018,0.106376799
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2019,0.107239452
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2020,0.09610027
+17,Passenger,Rail,All,Liquids,Liquids,refined liquids,2021,0.104166535
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1971,0.02155341
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1972,0.023179866
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1973,0.024377703
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1974,0.027634441
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1975,0.029276205
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1976,0.03066539
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1977,0.032862062
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1978,0.035449083
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1979,0.040037602
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1980,0.041778867
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1981,0.04394875
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1982,0.034090514
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1983,0.036616304
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1984,0.039264557
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1985,0.042678201
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1986,0.046420963
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1987,0.05107454
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1988,0.055701329
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1989,0.064128283
+17,Freight,Truck,All,BEV,Electricity,electricity,1990,0
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1991,0.069229614
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1992,0.072895837
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1993,0.077239431
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1994,0.082532109
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1995,0.092910811
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1996,0.099772541
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1997,0.102788182
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1998,0.106423789
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,1999,0.111995835
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2000,0.114529279
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2001,0.114135103
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2002,0.117579362
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2003,0.118999163
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2004,0.128949245
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2005,0.135837764
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2006,0.141141924
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2007,0.16684758
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2008,0.19132861
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2009,0.209839591
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2010,0.227531603
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2011,0.244588341
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2012,0.260983016
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2013,0.26629483
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2014,0.278338257
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2015,0.305356558
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2016,0.31680298
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2017,0.341471532
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2018,0.35676787
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2019,0.359661048
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2020,0.322302314
+17,Passenger,LDV_3W,All,Liquids,Liquids,refined liquids,2021,0.349355059
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1971,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1972,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1973,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1974,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1975,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1976,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1977,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1978,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1979,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1980,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1981,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1982,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1983,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1984,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1985,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1986,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1987,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1988,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1989,0
+17,Freight,Truck,All,Hybrid Liquids,Liquids,refined liquids,1990,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1991,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1992,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1993,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1994,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1995,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1996,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1997,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1998,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,1999,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2000,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2001,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2002,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2003,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2004,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2005,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2006,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2007,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2008,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2009,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2010,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2011,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2012,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2013,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2014,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2015,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2016,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2017,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2018,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2019,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2020,0
+17,Passenger,LDV_3W,All,BEV,Electricity,electricity,2021,0

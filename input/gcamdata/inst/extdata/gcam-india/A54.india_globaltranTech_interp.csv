@@ -1,0 +1,76 @@
+# File: A54.india_globaltranTech_interp.csv
+# Title: Transportation technology default shareweights. Not including single-technology subsectors
+# Units: NA
+# Column types: ccccccc
+# ----------
+supplysector,tranSubsector,tranTechnology,apply.to,from.year,to.year,interpolation.function
+trn_aviation_intl, International Aviation,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_aviation_intl, International Aviation,BEV,share-weight,final-calibration-year,2050,linear
+trn_aviation_intl, International Aviation,BEV,share-weight,2050,end-year,linear
+trn_aviation_intl, International Aviation,Hydrogen,share-weight,final-calibration-year,2050,linear
+trn_aviation_intl, International Aviation,Hydrogen,share-weight,2050,end-year,linear
+trn_freight,Freight Rail,Coal,share-weight,1990,2010,linear
+trn_freight,Freight Rail,Coal,share-weight,1990,final-calibration-year,fixed
+trn_freight,Freight Rail,Coal,share-weight,final-calibration-year,end-year,fixed
+trn_freight,Freight Rail,Electric,share-weight,final-calibration-year,end-year,fixed
+trn_freight,Freight Rail,Liquids,share-weight,final-calibration-year,2050,linear
+trn_freight,Freight Rail,Liquids,share-weight,2050,end-year,fixed
+trn_freight,Freight Rail,Hybrid Liquids,share-weight,final-calibration-year,2050,linear
+trn_freight,Freight Rail,Hybrid Liquids,share-weight,2050,end-year,linear
+trn_freight,Freight Rail,FCEV,share-weight,final-calibration-year,2050,linear
+trn_freight,Freight Rail,FCEV,share-weight,2050,end-year,linear
+trn_freight,Domestic Ship,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_freight,Domestic Ship,FCEV,share-weight,final-calibration-year,2050,linear
+trn_freight,Domestic Ship,FCEV,share-weight,2050,end-year,linear
+trn_freight,Domestic Ship,Hybrid Liquids,share-weight,final-calibration-year,2050,linear
+trn_freight,Domestic Ship,Hybrid Liquids,share-weight,2050,end-year,linear
+trn_freight_road,Truck,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_freight_road,Truck,Hybrid Liquids,share-weight,final-calibration-year,2050,linear
+trn_freight_road,Truck,Hybrid Liquids,share-weight,2050,end-year,fixed
+trn_freight_road,Truck,NG,share-weight,final-calibration-year,2050,linear
+trn_freight_road,Truck,NG,share-weight,2050,end-year,linear
+trn_freight_road,Truck,BEV,share-weight,final-calibration-year,2050,linear
+trn_freight_road,Truck,BEV,share-weight,2050,end-year,fixed
+trn_freight_road,Truck,FCEV,share-weight,final-calibration-year,2050,linear
+trn_freight_road,Truck,FCEV,share-weight,2050,end-year,linear
+trn_pass,HSR,Electric,share-weight,final-calibration-year,2050,linear
+trn_pass,HSR,Electric,share-weight,2050,end-year,fixed
+trn_pass,Passenger Rail,Electric,share-weight,final-calibration-year,end-year,fixed
+trn_pass,Domestic Aviation,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass,Domestic Aviation,Hydrogen,share-weight,final-calibration-year,2050,linear
+trn_pass,Domestic Aviation,Hydrogen,share-weight,2050,end-year,linear
+trn_pass,Domestic Aviation,BEV,share-weight,final-calibration-year,2050,linear
+trn_pass,Domestic Aviation,BEV,share-weight,2050,end-year,linear
+trn_pass,Passenger Rail,Liquids,share-weight,final-calibration-year,2050,linear
+trn_pass,Passenger Rail,Liquids,share-weight,2050,end-year,fixed
+trn_pass_road,Bus,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road,Bus,BEV,share-weight,final-calibration-year,2050,linear
+trn_pass_road,Bus,BEV,share-weight,2050,end-year,fixed
+trn_pass_road,Bus,NG,share-weight,final-calibration-year,2050,linear
+trn_pass_road,Bus,NG,share-weight,2050,end-year,linear
+trn_pass_road,Bus,FCEV,share-weight,final-calibration-year,2050,linear
+trn_pass_road,Bus,FCEV,share-weight,2050,end-year,linear
+trn_pass_road,Bus,Hybrid Liquids,share-weight,final-calibration-year,2050,linear
+trn_pass_road,Bus,Hybrid Liquids,share-weight,2050,end-year,linear
+trn_pass_road_LDV_2W,LDV_2W,BEV,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_2W,LDV_2W,BEV,share-weight,2050,end-year,linear
+trn_pass_road_LDV_2W,LDV_2W,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road_LDV_3W,LDV_3W,NG,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_3W,LDV_3W,NG,share-weight,2050,end-year,linear
+trn_pass_road_LDV_3W,LDV_3W,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_pass_road_LDV_3W,LDV_3W,BEV,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_3W,LDV_3W,BEV,share-weight,2050,end-year,linear
+trn_pass_road_LDV_4W,LDV_4W,BEV,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_4W,LDV_4W,BEV,share-weight,2050,end-year,fixed
+trn_pass_road_LDV_4W,LDV_4W,FCEV,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_4W,LDV_4W,FCEV,share-weight,2050,end-year,linear
+trn_pass_road_LDV_4W,LDV_4W,NG,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_4W,LDV_4W,NG,share-weight,2050,end-year,linear
+trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,share-weight,final-calibration-year,2050,linear
+trn_pass_road_LDV_4W,LDV_4W,Hybrid Liquids,share-weight,2050,end-year,linear
+trn_pass_road_LDV_4W,LDV_4W,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_shipping_intl, International Ship,Liquids,share-weight,final-calibration-year,end-year,fixed
+trn_shipping_intl, International Ship,FCEV,share-weight,final-calibration-year,2050,linear
+trn_shipping_intl, International Ship,FCEV,share-weight,2050,end-year,linear
+trn_shipping_intl, International Ship,Hybrid Liquids,share-weight,final-calibration-year,2050,linear
+trn_shipping_intl, International Ship,Hybrid Liquids,share-weight,2050,end-year,linear
