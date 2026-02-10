@@ -23,7 +23,8 @@ module_gcamindia_LA142.buildings <- function(command, ...) {
 
   MODULE_OUTPUTS <-
     c("L142.india_state_in_EJ_comm_F",
-      "L142.india_state_in_EJ_resid_F")
+      "L142.india_state_in_EJ_resid_F",
+      "L142.india_state_in_EJ_unspec_F")
 
 
   if(command == driver.DECLARE_INPUTS) {
@@ -131,6 +132,10 @@ module_gcamindia_LA142.buildings <- function(command, ...) {
       filter(GCAM_region_ID == gcam.INDIA_CODE, sector =='bld_comm') %>%
       distinct()
 
+    L142.india_state_in_EJ_unspec_F <- L142.in_EJ_R_bld_F_Yh %>%
+      filter(GCAM_region_ID == gcam.INDIA_CODE, sector =='bld_unspec') %>%
+      distinct()
+
 
     ## OUTPUTS
     L142.india_state_in_EJ_comm_F %>%
@@ -151,8 +156,17 @@ module_gcamindia_LA142.buildings <- function(command, ...) {
                      "L142.in_EJ_R_bld_F_Yh") ->
       L142.india_state_in_EJ_resid_F
 
+    L142.india_state_in_EJ_unspec_F %>%
+      add_title("Unspec sector input energy by  fuel") %>%
+      add_units("EJ") %>%
+      add_comments("Computed by apportioning india-level consumption among states") %>%
+      add_legacy_name("L142.india_state_in_EJ_resid_F") %>%
+      add_precursors("L101.india_state_EB_EJ_state_S_F",
+                     "L142.in_EJ_R_bld_F_Yh") ->
+      L142.india_state_in_EJ_unspec_F
 
-    return_data(L142.india_state_in_EJ_comm_F, L142.india_state_in_EJ_resid_F)
+
+    return_data(L142.india_state_in_EJ_comm_F, L142.india_state_in_EJ_resid_F,L142.india_state_in_EJ_unspec_F )
   } else {
     stop("Unknown command")
   }

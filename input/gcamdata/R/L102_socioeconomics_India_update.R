@@ -76,7 +76,10 @@ module_socio_India_update <- function(command, ...) {
     L100.india_pop_com <- L102.India_Population %>% gather_years() %>% mutate(sector = 'comm') %>%
       filter(year %in% MODEL_BASE_YEARS) %>% select (region, sector, year, population = totalPop)
 
-    L100.india_state_pop_ruralurban <- bind_rows(L100.india_pop_rural,L100.india_pop_urban,L100.india_pop_com) %>%
+    L100.india_pop_unspec <- L102.India_Population %>% gather_years() %>% mutate(sector = 'unspec') %>%
+      filter(year %in% MODEL_BASE_YEARS) %>% select (region, sector, year, population = totalPop)
+
+    L100.india_state_pop_ruralurban <- bind_rows(L100.india_pop_rural,L100.india_pop_urban,L100.india_pop_com, L100.india_pop_unspec) %>%
       mutate(value = population * CONV_ONES_THOUS) %>% rename (pop = population) %>%
       select (region, sector, year, pop)
 
@@ -101,7 +104,10 @@ module_socio_India_update <- function(command, ...) {
     L100.india_GDP_comm <- India_GDP %>%
       mutate (sector = 'comm')
 
-    L100.india_state_GDP_ruralurban <- bind_rows(L100.india_GDP_rural,L100.india_GDP_urban,L100.india_GDP_comm) %>%
+    L100.india_GDP_unspec <- India_GDP %>%
+      mutate (sector = 'unspec')
+
+    L100.india_state_GDP_ruralurban <- bind_rows(L100.india_GDP_rural,L100.india_GDP_urban,L100.india_GDP_comm, L100.india_GDP_unspec) %>%
       filter(year %in% MODEL_BASE_YEARS)
 
     #GDP per capita estimations

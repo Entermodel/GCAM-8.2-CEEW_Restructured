@@ -9,12 +9,17 @@ module_gcamindia_LA144.Commercial <- function(command, ...) {
   MODULE_INPUTS <-
     c(FILE = "gcam-india/A10.SE_PopH_Census_1961_2011",
       FILE = "gcam-india/A44.india_state_pcflsp_m2_comm",
+      FILE = "gcam-india/A44.india_state_pcflsp_m2_unspec",
       FILE = "gcam-india/A44.india_state_in_EJ_comm_F_all_services_Y",
-      "L142.india_state_in_EJ_comm_F")
+      FILE = "gcam-india/A44.india_state_in_EJ_unspec_F_all_services_Y",
+      "L142.india_state_in_EJ_comm_F",
+      "L142.india_state_in_EJ_unspec_F")
 
   MODULE_OUTPUTS <-
     c("L144.india_state_flsp_bm2_comm",
-      "L144.india_state_in_EJ_comm_F_U_Y")
+      "L144.india_state_flsp_bm2_unspec",
+      "L144.india_state_in_EJ_comm_F_U_Y",
+      "L144.india_state_in_EJ_unspec_F_U_Y")
 
   if(command == driver.DECLARE_INPUTS) {
     return(MODULE_INPUTS)
@@ -53,6 +58,21 @@ module_gcamindia_LA144.Commercial <- function(command, ...) {
       mutate(value = value.x * pcflsp_m2 / CONV_BM2_M2) %>%
       select(state, sector, year, value)
 
+    L144.india_state_flsp_bm2_unspec<- A10.SE_PopH_Census_1961_2011 %>%
+      pivot_longer(
+        cols = where(is.numeric),  # Pivots all numeric columns
+        names_to = "year",
+        values_to = "value"
+      )%>%
+      filter(year %in% HISTORICAL_YEARS) %>%
+      mutate(sector = "unspec") %>%
+      mutate(year = as.numeric(year)) %>%
+      left_join_error_no_match(A44.india_state_pcflsp_m2_unspec, by = c("year", "state")) %>%
+      rename (pcflsp_m2 = value.y) %>%
+      mutate(value = value.x * pcflsp_m2 / CONV_BM2_M2) %>%
+      select(state, sector, year, value)
+
+
     # 1. Reshape wide-to-long to create a 'year' column
     L144.india_state_in_EJ_comm_F_U_Y_unscaled  <-  A44.india_state_in_EJ_comm_F_all_services_Y %>%
       pivot_longer(
@@ -87,6 +107,48 @@ module_gcamindia_LA144.Commercial <- function(command, ...) {
     mutate(sector = sector.x) %>%
     select(state, sector, fuel, service, year, value)
 
+  #UNSPECIFIED SECTOR
+  # 1. Reshape wide-to-long to create a 'year' column
+  L144.india_state_in_EJ_unspec_F_U_Y_unscaled  <-  A44.india_state_in_EJ_unspec_F_all_services_Y %>%
+    pivot_longer(
+      cols = where(is.numeric),  # Pivots all numeric columns
+      names_to = "year",
+      values_to = "value"
+    )
+
+
+  # Calculating shares of energy consumption by each service, within each state and fuel
+  L144.india_state_in_EJ_unspec_F_Y_unscaled <- L144.india_state_in_EJ_unspec_F_U_Y_unscaled %>%
+    group_by(state, fuel, year) %>%
+    summarise(value = sum(value)) %>%
+    ungroup()
+
+  # Calculating scaler from RECS data and multiply by L142.in_EJ_state_bld_F data to get final estimates
+  #Creating the multiplier
+  L144.india_state_in_EJ_unspec_F_U_Y <- L144.india_state_in_EJ_unspec_F_U_Y_unscaled %>%
+    left_join_error_no_match(L144.india_state_in_EJ_unspec_F_Y_unscaled, by = c("state", "fuel", "year")) %>%
+    mutate(value = value.x / value.y,
+           sector = "unspec") %>%
+    select(-value.x, -value.y)
+
+  #removing any NA values and setting them to zero
+  L144.india_state_in_EJ_unspec_F_U_Y[is.na(L144.india_state_in_EJ_unspec_F_U_Y)] <- 0
+
+
+  L144.india_state_in_EJ_unspec_F_U_Y <- L144.india_state_in_EJ_unspec_F_U_Y %>%
+    mutate(year = as.numeric(year)) %>%
+    # Use regular left_join since we might have NA values
+    left_join(
+      L142.india_state_in_EJ_unspec_F %>% mutate(year = as.numeric(year)),
+      by = c("fuel", "year")
+    ) %>%
+    mutate(value = value.x * value.y) %>%
+    mutate(sector = sector.x) %>%
+    select(state, sector, fuel, service, year, value) %>%
+    # Replace NA values with 0
+    mutate(value = ifelse(is.na(value), 0, value))
+
+
     # ===================================================
 
     # Produce outputs
@@ -99,6 +161,15 @@ module_gcamindia_LA144.Commercial <- function(command, ...) {
                      "gcam-india/A44.india_state_pcflsp_m2_comm") ->
       L144.india_state_flsp_bm2_comm
 
+  L144.india_state_flsp_bm2_unspec %>%
+    add_title("Residential floorspace by state") %>%
+    add_units("billion m2") %>%
+    add_comments("RECS data interpolated and downscaled to state based on population ratios") %>%
+    add_legacy_name("L144.india_state_flsp_bm2_unspec") %>%
+    add_precursors("gcam-india/A10.SE_PopH_Census_1961_2011",
+                   "gcam-india/A44.india_state_pcflsp_m2_unspec") ->
+    L144.india_state_flsp_bm2_unspec
+
     L144.india_state_in_EJ_comm_F_U_Y %>%
       add_title("Residential energy consumption by state/fuel/end use") %>%
       add_units("EJ/yr") %>%
@@ -108,7 +179,16 @@ module_gcamindia_LA144.Commercial <- function(command, ...) {
                      "L142.india_state_in_EJ_comm_F") ->
       L144.india_state_in_EJ_comm_F_U_Y
 
-    return_data(L144.india_state_flsp_bm2_comm,L144.india_state_in_EJ_comm_F_U_Y)
+    L144.india_state_in_EJ_unspec_F_U_Y %>%
+      add_title("Unspecifiedenergy consumption by state/fuel/end use") %>%
+      add_units("EJ/yr") %>%
+      add_comments("bottom-up approach adopted for calculating the energy demand by each sector") %>%
+      add_legacy_name("L144.india_state_in_EJ_unspec_F_U_Y") %>%
+      add_precursors("gcam-india/A44.india_state_in_EJ_unspec_F_all_services_Y",
+                     "L142.india_state_in_EJ_unspec_F") ->
+      L144.india_state_in_EJ_unspec_F_U_Y
+
+    return_data(L144.india_state_flsp_bm2_comm,L144.india_state_flsp_bm2_unspec,L144.india_state_in_EJ_comm_F_U_Y, L144.india_state_in_EJ_unspec_F_U_Y)
   } else {
     stop("Unknown command")
   }

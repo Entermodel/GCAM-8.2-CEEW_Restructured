@@ -34,8 +34,10 @@ module_gcamindia_L244.building_INDIA <- function(command, ...) {
       "L244.Supplysector_bld",
       "L144.india_state_flsp_bm2_res",
       "L144.india_state_flsp_bm2_comm",
+      "L144.india_state_flsp_bm2_unspec",
       "L144.india_state_in_EJ_comm_F_U_Y",
       "L144.india_state_in_EJ_res_F_U_Y",
+      "L144.india_state_in_EJ_unspec_F_U_Y",
       "L143.HDDCDD_scen_ctry_Y",
       "L100.india_state_pop_ruralurban",
       "L100.india_state_pcGDP_thous90usd_ruralurban",
@@ -182,7 +184,16 @@ module_gcamindia_L244.building_INDIA <- function(command, ...) {
       left_join_error_no_match(A44.india_state_gcam_consumer, by = "gcam.consumer") %>%
       select(LEVEL2_DATA_NAMES[["Floorspace"]])
 
-    L244.india_state_Floorspace_full <- bind_rows(L244.india_state_Floorspace_resid, L244.india_state_Floorspace_comm)
+    # Unspec floorspace
+    L244.india_state_Floorspace_unspec <- L144.india_state_flsp_bm2_unspec %>%
+      rename(base.building.size = value,
+             region = state,
+             gcam.consumer = sector) %>%
+      mutate(base.building.size = round(base.building.size, energy.DIGITS_FLOORSPACE)) %>%
+      left_join_error_no_match(A44.india_state_gcam_consumer, by = "gcam.consumer") %>%
+      select(LEVEL2_DATA_NAMES[["Floorspace"]])
+
+    L244.india_state_Floorspace_full <- bind_rows(L244.india_state_Floorspace_resid, L244.india_state_Floorspace_comm, L244.india_state_Floorspace_unspec)
 
     # Final output only has base years
     L244.india_state_Floorspace_gcamindia <- filter(L244.india_state_Floorspace_full, year %in% MODEL_BASE_YEARS)
@@ -498,7 +509,7 @@ module_gcamindia_L244.building_INDIA <- function(command, ...) {
 
     # L244.StubTechCalInput_bld: Calibrated energy consumption by buildings technologies
     # Combine residential and commercial energy data
-    L244.india_state_in_EJ_R_bld_serv_F_Yh <- bind_rows(L144.india_state_in_EJ_res_F_U_Y, L144.india_state_in_EJ_comm_F_U_Y) %>%
+    L244.india_state_in_EJ_R_bld_serv_F_Yh <- bind_rows(L144.india_state_in_EJ_res_F_U_Y, L144.india_state_in_EJ_comm_F_U_Y, L144.india_state_in_EJ_unspec_F_U_Y) %>%
       filter(year %in% MODEL_YEARS) %>%
       mutate(calibrated.value = round(value, energy.DIGITS_CALOUTPUT)) %>%
       rename(supplysector = service) %>%

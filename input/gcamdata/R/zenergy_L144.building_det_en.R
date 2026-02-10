@@ -427,9 +427,11 @@ module_energy_L144.building_det_en <- function(command, ...) {
     # Build table with non-thermal services
     tech_list_ctry %>%
       filter(!service %in% thermal_services) %>%
-      # The remaining share will be assigned to the non-thermal services
-      left_join_error_no_match(L144.share_ctry_bld_thrm_F, by = c("iso", "sector", "fuel")) %>%
-      mutate(share_serv_fuel = 1 - share_serv_fuel) %>%
+      left_join(L144.share_ctry_bld_thrm_F,
+                by = c("iso", "sector", "fuel")) %>%
+      mutate(
+        share_serv_fuel = 1 - ifelse(is.na(share_serv_fuel), 0, share_serv_fuel)
+      ) %>%
       select(iso, sector, fuel, service, share_serv_fuel) ->
       L144.in_EJ_ctry_bld_oth_F
 
