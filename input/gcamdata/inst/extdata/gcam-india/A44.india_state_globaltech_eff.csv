@@ -53,3 +53,4 @@ comm others,refined liquids,refined liquids based others,refined liquids enduse,
 comm cooking,refined liquids,refined liquids based cooking,refined liquids enduse,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
 comm cooking,gas,gas based cooking,delivered gas,0.4,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
 comm cooking,electricity,electric cooking,elect_td_com,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73,0.73
+unspec others,coal,unspec others,delivered coal,0.1,0.1,0.1,0.1,0.101,0.103,0.104,0.105,0.107,0.108,0.109,0.111,0.112,0.113,0.115,0.116,0.118,0.119,0.121,0.122

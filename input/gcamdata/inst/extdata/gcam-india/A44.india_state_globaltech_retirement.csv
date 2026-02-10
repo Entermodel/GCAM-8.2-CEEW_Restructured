@@ -54,3 +54,4 @@ comm others,refined liquids,refined liquids based others,30,15,0.1219,15,0.1886
 comm cooking,refined liquids,refined liquids based cooking,30,15,0.1219,15,0.1886
 comm cooking,gas,gas based cooking,30,15,0.1219,15,0.1886
 comm cooking,electricity,electric cooking,30,15,0.1932,15,0.1932
+unspec others,coal,unspec others,4,2,0.2598,2,0.2598

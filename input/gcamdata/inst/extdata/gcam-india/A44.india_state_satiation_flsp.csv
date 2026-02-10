@@ -1,8 +1,7 @@
 # File: A44.india_state_satiation_flsp.csv
 # Title: Assumed satiation levels of floorspace
 # Units: m2 per capita
-# Column types: ciii
+# Column types: ciiii
 # ----------
-state,resid rural,resid urban,comm
-India,32,45,12
-
+state,resid rural,resid urban,comm,unspec
+India,32,45,12,12

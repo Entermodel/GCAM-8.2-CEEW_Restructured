@@ -21,10 +21,10 @@ resid rural apploth,electricity,1975,,1
 resid urban apploth,electricity,1975,,1
 resid rural space heating,coal,2040,,0
 resid urban space heating,coal,2040,,0
-resid rural cooking,coal,2020,,0
-resid urban cooking,coal,2020,,0
-resid rural apploth,coal,2020,,0
-resid urban apploth,coal,2020,,0
+resid rural cooking,coal,2021,,0
+resid urban cooking,coal,2021,,0
+resid rural apploth,coal,2021,,0
+resid urban apploth,coal,2021,,0
 resid rural space heating,biomass,2030,,0
 resid urban space heating,biomass,2030,,0
 resid rural cooking,biomass,2030,,0
@@ -32,7 +32,7 @@ resid urban cooking,biomass,2030,,0
 resid urban cooking,refined liquids,2100,,3
 resid rural cooking,refined liquids,2100,,3
 resid rural cooking,traditional biomass,2015,,0.2
-resid rural cooking,traditional biomass,2020,,0.05
+resid rural cooking,traditional biomass,2021,,0.05
 resid rural cooking,traditional biomass,2025,,0.01
 resid rural cooking,traditional biomass,2030,,0.005
 resid rural cooking,traditional biomass,2035,,0.0025
@@ -53,14 +53,15 @@ comm lighting,electricity,1975,,1
 comm ref,electricity,1975,,1
 comm others,electricity,1975,,1
 comm others,coal,2015,,0.5
-comm others,coal,2020,,0.1
+comm others,coal,2021,,0.1
 comm others,coal,2025,,0.005
 comm others,coal,2030,,0
 comm others,biomass,2015,,1
-comm others,biomass,2020,,0.05
+comm others,biomass,2021,,0.05
 comm others,biomass,2025,,0.001
 comm others,biomass,2030,,0
 comm others,refined liquids,1975,,0
 comm cooking,refined liquids,2100,,3
 comm cooking,gas,2100,,2
 comm cooking,electricity,1975,,1
+unspec others,coal,2021,,1

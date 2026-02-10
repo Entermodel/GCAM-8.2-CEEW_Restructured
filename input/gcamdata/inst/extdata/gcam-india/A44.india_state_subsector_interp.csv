@@ -50,3 +50,4 @@ comm others,refined liquids,share-weight,2010,2100,,fixed
 comm cooking,refined liquids,share-weight,2010,2100,,linear
 comm cooking,gas,share-weight,2010,2100,,linear
 comm cooking,electricity,share-weight,2010,2100,,fixed
+unspec others,coal,share-weight,2010,2030,,linear

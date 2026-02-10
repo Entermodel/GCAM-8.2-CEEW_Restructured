@@ -7,3 +7,4 @@ gcam.consumer,nodeInput,prodDmdFnType
 resid rural,resid rural,building-gompertz-function
 resid urban,resid urban,building-gompertz-function
 comm,comm,building-function
+unspec,unspec,building-gompertz-function

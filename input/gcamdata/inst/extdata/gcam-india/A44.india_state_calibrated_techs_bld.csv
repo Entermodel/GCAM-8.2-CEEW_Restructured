@@ -1,7 +1,7 @@
 # File: A44.india_state_calibrated_techs_bld.csv
 # Title: Mapping between the sectors / services / fuels in Level1 processing to the technology names in GCAM
 # Units: NA
-# Source: None (GCAM assumptions
+# Source: None (GCAM assumptions)
 # Column types: ccccccc
 # ----------
 supplysector,subsector,technology,minicam.energy.input,sector,fuel,service
@@ -53,3 +53,4 @@ comm others,refined liquids,refined liquids based others,refined liquids enduse,
 comm cooking,refined liquids,refined liquids based cooking,refined liquids enduse,comm,refined liquids,comm cooking
 comm cooking,gas,gas based cooking,delivered gas,comm,gas,comm cooking
 comm cooking,electricity,electric cooking,elect_td_com,comm,electricity,comm cooking
+unspec others,coal,unspec others,delivered coal,unspec,coal,unspec others

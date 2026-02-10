@@ -53,3 +53,5 @@ comm others,refined liquids,refined liquids based others,2.5,2.5,2.5,2.5,2.5,2.5
 comm cooking,refined liquids,refined liquids based cooking,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5
 comm cooking,gas,gas based cooking,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
 comm cooking,electricity,electric cooking,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709,1.2709
+unspec others,coal,unspec others,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+

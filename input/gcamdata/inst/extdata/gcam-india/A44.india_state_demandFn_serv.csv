@@ -8,3 +8,4 @@ gcam.consumer,nodeInput,building.node.input,prodDmdFnType
 resid rural,resid rural,resid rural_building,building-service-function
 resid urban,resid urban,resid urban_building,building-service-function
 comm,comm,comm_building,building-service-function
+unspec,unspec,unspec_building,building-service-function

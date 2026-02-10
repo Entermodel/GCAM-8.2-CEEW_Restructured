@@ -70,3 +70,4 @@ comm others,refined liquids,refined liquids based others,share-weight,final-cali
 comm cooking,refined liquids,refined liquids based cooking,share-weight,final-calibration-year,2100,s-curve,1
 comm cooking,gas,gas based cooking,share-weight,final-calibration-year,2100,s-curve,1
 comm cooking,electricity,electric cooking,share-weight,final-calibration-year,2100,s-curve,1
+unspec others,coal,unspec others,share-weight,final-calibration-year,2100,fixed,1
