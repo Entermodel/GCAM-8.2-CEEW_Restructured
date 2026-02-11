@@ -148,7 +148,9 @@
 		<Value name = "India Subsector shrwt LTS">../input/gcamdata/xml/India/Building/building_subsector_shareweights.xml</Value>
 		<Value name = "India tech shrwt LTS">../input/gcamdata/xml/India/Building/building_tech_shareweights.xml</Value>
 
-    <!--   <Value name = "H2cost">../input/gcamdata/xml/India/Others/India_hydrogen_low_cost_modified.xml</Value>
+<Value name = "India fuel cost adder">../input/gcamdata/xml/India/Others/IndiaIndustryFuelAdderwH2_delivery_AS.xml</Value>
+    <Value name = "H2cost">../input/gcamdata/xml/India/Others/India_hydrogen_low_cost_modified.xml</Value>
+       <!--    
         <Value name = "IndiaCcoef">../input/gcamdata/xml/India/Others/India_CarbonCoef.xml</Value>
         <Value name = "GlobalCcoef">../input/gcamdata/xml/India/Others/Global_Carbon_Coeff_Revised_noUnconOil.xml</Value>-->
 		 <Value name = "Bioliquidsconstraint">../input/gcamdata/xml/India/Others/India_biomassliquids_weights_restrict.xml</Value>
