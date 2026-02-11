@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name = "India">
+            <supplysector name = "refining">
+                <subsector name = "biomass liquids">
+                    <technology name = "cellulosic ethanol">
+                        <period year = "2025">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2030">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2035">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2040">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2045">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2050">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2055">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2060">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2065">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2070">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                    </technology>
+                    <technology name = "biodiesel">
+                        <period year = "2025">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2030">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2035">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2040">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2045">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2050">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2055">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2060">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2065">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2070">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                    </technology>
+                    <technology name = "FT biofuels">
+                        <period year = "2025">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2030">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2035">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2040">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2045">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2050">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2055">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2060">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2065">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2070">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                    </technology>
+                    <technology name = "corn ethanol">
+                        <period year = "2025">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2030">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2035">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2040">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2045">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2050">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2055">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2060">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2065">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                        <period year = "2070">
+                            <input-subsidy name = "BioFuelsCredits"></input-subsidy>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name = "refined liquids enduse">
+                <subsector name = "refined liquids enduse">
+                    <technology name = "refined liquids enduse">
+                        <period year = "2025">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.11</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2030">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.152</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2035">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.154</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2040">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.156</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2045">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.158</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2050">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.16</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2055">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.162</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2060">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.164</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2065">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.166</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2070">
+                            <minicam-energy-input name = "BioFuelsCredits">
+                                <coefficient>0.168</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <policy-portfolio-standard name = "BioFuelsCredits">
+                <market>India</market>
+                <policyType>RES</policyType>
+                <constraint year = "2025">0</constraint>
+                <constraint year = "2030">0</constraint>
+                <constraint year = "2035">0</constraint>
+                <constraint year = "2040">0</constraint>
+                <constraint year = "2045">0</constraint>
+                <constraint year = "2050">0</constraint>
+                <constraint year = "2055">0</constraint>
+                <constraint year = "2060">0</constraint>
+                <constraint year = "2065">0</constraint>
+                <constraint year = "2070">0</constraint>
+            </policy-portfolio-standard>
+            <supplysector name = "refining">
+                <subsector name = "oil refining">
+                    <technology name = "oil refining">
+                        <period year = "1975">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "1990">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2005">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2010">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2015">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2020">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2025">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2030">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2035">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2040">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2045">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2050">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2055">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2060">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2065">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2070">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2075">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2080">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2085">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2090">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2095">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                        <period year = "2100">
+                            <res-secondary-output name = "oil-credits2">
+                                <output-ratio>1</output-ratio>
+                            </res-secondary-output>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name = "refined liquids enduse">
+                <subsector name = "refined liquids enduse">
+                    <technology name = "refined liquids enduse">
+                        <period year = "2025">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2030">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2035">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2040">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2045">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2050">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2055">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2060">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2065">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2070">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name = "refined liquids industrial">
+                <subsector name = "refined liquids industrial">
+                    <technology name = "refined liquids industrial">
+                        <period year = "2025">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2030">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2035">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2040">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2045">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2050">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2055">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2060">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2065">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                        <period year = "2070">
+                            <minicam-energy-input name = "oil-credits2">
+                                <coefficient>0.65</coefficient>
+                            </minicam-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <policy-portfolio-standard name = "oil-credits2">
+                <market>India</market>
+                <policyType>RES</policyType>
+                <constraint year = "2020">1</constraint>
+                <price-unit>1975$/GJ</price-unit>
+                <output-unit>EJ</output-unit>
+                <constraint year = "2025">1</constraint>
+                <constraint year = "2030">1</constraint>
+                <constraint year = "2035">1</constraint>
+                <constraint year = "2040">1</constraint>
+                <constraint year = "2045">1</constraint>
+                <constraint year = "2050">1</constraint>
+                <constraint year = "2055">1</constraint>
+                <constraint year = "2060">1</constraint>
+                <constraint year = "2065">1</constraint>
+                <constraint year = "2070">1</constraint>
+                <constraint year = "2075">1</constraint>
+                <constraint year = "2080">1</constraint>
+                <constraint year = "2085">1</constraint>
+                <constraint year = "2090">1</constraint>
+                <constraint year = "2095">1</constraint>
+                <constraint year = "2100">1</constraint>
+            </policy-portfolio-standard>
+        </region>
+    </world>
+</scenario>

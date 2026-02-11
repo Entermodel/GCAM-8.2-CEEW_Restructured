@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="elect_td_res">
+                <subsector name="rooftop_pv">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
+                        <from-value>0.0001</from-value>
+                        <to-value>0.5</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.5</from-value>
+                        <to-value>0.5</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_com">
+                <subsector name="rooftop_pv">
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2010" to-year="2100">
+                        <from-value>0.0001</from-value>
+                        <to-value>0.001</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight"
+                        from-year="2095" to-year="2100">
+                        <from-value>0.001</from-value>
+                        <to-value>0.001</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

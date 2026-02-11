@@ -1,0 +1,1868 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="trn_aviation_intl">
+                <tranSubsector name="International Aviation">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_freight">
+                <tranSubsector name="Freight Rail">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0.00420812</from-value>
+                        <to-value>0.00420812</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.175068</from-value>
+                        <to-value>0.175068</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="Domestic Ship">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>7.33E-05</from-value>
+                        <to-value>7.33E-05</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.0070225</from-value>
+                        <to-value>0.0070225</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="road">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_freight_road">
+                <tranSubsector name="Truck">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass">
+                <tranSubsector name="Domestic Aviation">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0.0593519</from-value>
+                        <to-value>0.0593519</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.0680329</from-value>
+                        <to-value>0.0680329</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.0642778</from-value>
+                        <to-value>0.0642778</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.0605556</from-value>
+                        <to-value>0.0605556</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.0568333</from-value>
+                        <to-value>0.0568333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.0531111</from-value>
+                        <to-value>0.0531111</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.0493889</from-value>
+                        <to-value>0.0493889</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.0456667</from-value>
+                        <to-value>0.0456667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.0419444</from-value>
+                        <to-value>0.0419444</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.0382222</from-value>
+                        <to-value>0.0382222</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.0345</from-value>
+                        <to-value>0.0345</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.0307778</from-value>
+                        <to-value>0.0307778</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.0270556</from-value>
+                        <to-value>0.0270556</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.0233333</from-value>
+                        <to-value>0.0233333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.0196111</from-value>
+                        <to-value>0.0196111</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.0158889</from-value>
+                        <to-value>0.0158889</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.0121667</from-value>
+                        <to-value>0.0121667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.00844444</from-value>
+                        <to-value>0.00844444</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.00472222</from-value>
+                        <to-value>0.00472222</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="Cycle">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0.0321128</from-value>
+                        <to-value>0.0321128</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.0376749</from-value>
+                        <to-value>0.0376749</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.038</from-value>
+                        <to-value>0.038</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.038</from-value>
+                        <to-value>0.038</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.038</from-value>
+                        <to-value>0.038</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.0421333</from-value>
+                        <to-value>0.0421333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.0462667</from-value>
+                        <to-value>0.0462667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.0504</from-value>
+                        <to-value>0.0504</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.0545333</from-value>
+                        <to-value>0.0545333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.0586667</from-value>
+                        <to-value>0.0586667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.0628</from-value>
+                        <to-value>0.0628</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.0669333</from-value>
+                        <to-value>0.0669333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.0710667</from-value>
+                        <to-value>0.0710667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.0752</from-value>
+                        <to-value>0.0752</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.0793333</from-value>
+                        <to-value>0.0793333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.0834667</from-value>
+                        <to-value>0.0834667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.0876</from-value>
+                        <to-value>0.0876</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.0917333</from-value>
+                        <to-value>0.0917333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.0958667</from-value>
+                        <to-value>0.0958667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="HSR">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>5.56E-05</from-value>
+                        <to-value>5.56E-05</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>2.22E-04</from-value>
+                        <to-value>2.22E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>2.78E-04</from-value>
+                        <to-value>2.78E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>3.33E-04</from-value>
+                        <to-value>3.33E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>3.89E-04</from-value>
+                        <to-value>3.89E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>4.44E-04</from-value>
+                        <to-value>4.44E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>5.00E-04</from-value>
+                        <to-value>5.00E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>5.56E-04</from-value>
+                        <to-value>5.56E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>6.11E-04</from-value>
+                        <to-value>6.11E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>6.67E-04</from-value>
+                        <to-value>6.67E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>7.22E-04</from-value>
+                        <to-value>7.22E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>7.78E-04</from-value>
+                        <to-value>7.78E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>8.33E-04</from-value>
+                        <to-value>8.33E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>8.89E-04</from-value>
+                        <to-value>8.89E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>9.44E-04</from-value>
+                        <to-value>9.44E-04</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="Passenger Rail">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0.0143635</from-value>
+                        <to-value>0.0143635</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.0171115</from-value>
+                        <to-value>0.0171115</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="Walk">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0.592359</from-value>
+                        <to-value>0.592359</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.694959</from-value>
+                        <to-value>0.694959</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.695</from-value>
+                        <to-value>0.695</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.695</from-value>
+                        <to-value>0.695</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.695</from-value>
+                        <to-value>0.695</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.715333</from-value>
+                        <to-value>0.715333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.735667</from-value>
+                        <to-value>0.735667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.756</from-value>
+                        <to-value>0.756</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.776333</from-value>
+                        <to-value>0.776333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.796667</from-value>
+                        <to-value>0.796667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.817</from-value>
+                        <to-value>0.817</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.837333</from-value>
+                        <to-value>0.837333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.857667</from-value>
+                        <to-value>0.857667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.878</from-value>
+                        <to-value>0.878</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.898333</from-value>
+                        <to-value>0.898333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.918667</from-value>
+                        <to-value>0.918667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.939</from-value>
+                        <to-value>0.939</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.959333</from-value>
+                        <to-value>0.959333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.979667</from-value>
+                        <to-value>0.979667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="road">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road">
+                <tranSubsector name="Bus">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1.13333</from-value>
+                        <to-value>1.13333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1.26667</from-value>
+                        <to-value>1.26667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1.4</from-value>
+                        <to-value>1.4</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1.53333</from-value>
+                        <to-value>1.53333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1.66667</from-value>
+                        <to-value>1.66667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1.8</from-value>
+                        <to-value>1.8</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1.93333</from-value>
+                        <to-value>1.93333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>2.06667</from-value>
+                        <to-value>2.06667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>2.2</from-value>
+                        <to-value>2.2</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>2.33333</from-value>
+                        <to-value>2.33333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>2.46667</from-value>
+                        <to-value>2.46667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>2.6</from-value>
+                        <to-value>2.6</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>2.73333</from-value>
+                        <to-value>2.73333</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>2.86667</from-value>
+                        <to-value>2.86667</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="LDV">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>2042.82</from-value>
+                        <to-value>2042.82</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>564.912</from-value>
+                        <to-value>564.912</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV">
+                <tranSubsector name="2W">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>0.00230948</from-value>
+                        <to-value>0.00230948</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="4W">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>441.782</from-value>
+                        <to-value>441.782</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+                <tranSubsector name="3W">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1.08E-05</from-value>
+                        <to-value>1.08E-05</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>0.00985781</from-value>
+                        <to-value>0.00985781</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV_2W">
+                <tranSubsector name="LDV_2W">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_pass_road_LDV_4W">
+                <tranSubsector name="LDV_4W">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+            <supplysector name="trn_shipping_intl">
+                <tranSubsector name="International Ship">
+                    <interpolation-rule apply-to="share-weight" from-year="1990" to-year="2010">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2005" to-year="2015">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2010" to-year="2021">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2015" to-year="2025">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2021" to-year="2030">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2025" to-year="2035">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2030" to-year="2040">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2035" to-year="2045">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2040" to-year="2050">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2045" to-year="2055">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2050" to-year="2060">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2055" to-year="2065">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2060" to-year="2070">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2065" to-year="2075">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2070" to-year="2080">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2075" to-year="2085">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2080" to-year="2090">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2085" to-year="2095">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                    <interpolation-rule apply-to="share-weight" from-year="2090" to-year="2100">
+                        <from-value>1</from-value>
+                        <to-value>1</to-value>
+                        <interpolation-function name="fixed" />
+                    </interpolation-rule>
+                </tranSubsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

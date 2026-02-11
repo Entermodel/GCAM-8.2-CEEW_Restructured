@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="elect_td_res">
+                <subsector name="elect_td_res">
+                    <technology name="elect_td_res">
+                        <period year="1990">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2005">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2010">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2015">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2020">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2025">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2030">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2040">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2055">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2060">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2065">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2070">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2075">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2080">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2085">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2090">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2095">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2100">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-5.06</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_com">
+                <subsector name="elect_td_com">
+                    <technology name="elect_td_com">
+                        <period year="1990">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2005">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2010">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2015">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2020">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2025">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2030">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2040">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2055">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2060">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2065">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2070">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2075">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2080">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2085">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2090">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2095">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2100">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-1.14</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+            <supplysector name="elect_td_ind">
+                <subsector name="elect_td_ind">
+                    <technology name="elect_td_ind">
+                        <period year="1990">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2005">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2010">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2015">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>0</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2020">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2025">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2030">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2035">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2040">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2045">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2050">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2055">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2060">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2065">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2070">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2075">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2080">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2085">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2090">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2095">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                        <period year="2100">
+                            <minicam-non-energy-input name="tax">
+                                <input-cost>-0.4</input-cost>
+                            </minicam-non-energy-input>
+                        </period>
+                    </technology>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>

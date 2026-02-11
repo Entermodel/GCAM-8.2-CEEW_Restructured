@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+    <world>
+        <region name="India">
+            <supplysector name="comm others">
+                <subsector name="coal">
+ 					<interpolation-rule apply-to="share-weight"
+                        from-year="2021" to-year="2030">
+                        <from-value>0.2</from-value>
+                        <to-value>0.1</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+ 					<interpolation-rule apply-to="share-weight"
+                        from-year="2025" to-year="2035">
+                        <from-value>0.15</from-value>
+                        <to-value>0.05</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2030" to-year="2040">
+                        <from-value>0.1</from-value>
+                        <to-value>0.05</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2035" to-year="2070">
+                        <from-value>0.05</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="linear"/>
+                    </interpolation-rule>
+					<interpolation-rule apply-to="share-weight"
+                        from-year="2065" to-year="2100">
+                        <from-value>0</from-value>
+                        <to-value>0</to-value>
+                        <interpolation-function name="fixed"/>
+                    </interpolation-rule>
+                </subsector>
+            </supplysector>
+        </region>
+    </world>
+</scenario>
