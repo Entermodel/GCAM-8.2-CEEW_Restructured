@@ -4,7 +4,7 @@
         <region name = "India">
             <supplysector name = "H2 central production">
                 <subsector name = "biomass">
-                    <technology name = "biomass to H2">
+                    <stub-technology name = "biomass to H2">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>2.8943</input-cost>
@@ -85,8 +85,8 @@
                                 <input-cost>1.963</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
-                    <technology name = "biomass to H2 CCS">
+                    </stub-technology>
+                    <stub-technology name = "biomass to H2 CCS">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>3.772</input-cost>
@@ -167,10 +167,10 @@
                                 <input-cost>2.583</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
                 <subsector name = "coal">
-                    <technology name = "coal chemical">
+                    <stub-technology name = "coal chemical">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>2.9137</input-cost>
@@ -251,8 +251,8 @@
                                 <input-cost>1.976</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
-                    <technology name = "coal chemical CCS">
+                    </stub-technology>
+                    <stub-technology name = "coal chemical CCS">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>3.772</input-cost>
@@ -333,10 +333,10 @@
                                 <input-cost>2.583</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
                 <subsector name = "electricity">
-                    <technology name = "electrolysis">
+                    <stub-technology name = "electrolysis">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>-2.593247168</input-cost>
@@ -417,10 +417,10 @@
                                 <input-cost>-1.849671672</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
                 <subsector name = "gas">
-                    <technology name = "natural gas steam reforming">
+                    <stub-technology name = "natural gas steam reforming">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>1.0043</input-cost>
@@ -501,8 +501,8 @@
                                 <input-cost>0.709</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
-                    <technology name = "natural gas steam reforming CCS">
+                    </stub-technology>
+                    <stub-technology name = "gas ATR CCS">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>1.532</input-cost>
@@ -583,10 +583,10 @@
                                 <input-cost>1.026</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
                 <subsector name = "nuclear">
-                    <technology name = "thermal splitting">
+                    <stub-technology name = "electrolysis">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>7</input-cost>
@@ -667,10 +667,10 @@
                                 <input-cost>3.825</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
                 <subsector name = "solar">
-                    <technology name = "electrolysis">
+                    <stub-technology name = "electrolysis">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>6.174523543</input-cost>
@@ -751,8 +751,8 @@
                                 <input-cost>1.518559083</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
-                    <technology name = "electrolysis">
+                    </stub-technology>
+                    <stub-technology name = "electrolysis">
                         <period year = "2025">
                             <minicam-non-energy-input name = "electrolyzer">
                                 <input-cost>0</input-cost>
@@ -881,10 +881,10 @@
                                 <input-cost>-11.173</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
                 <subsector name = "wind">
-                    <technology name = "electrolysis">
+                    <stub-technology name = "electrolysis">
                         <period year = "2025">
                             <minicam-non-energy-input name = "non-energy">
                                 <input-cost>6.599299859</input-cost>
@@ -965,8 +965,8 @@
                                 <input-cost>2.511113093</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
-                    <technology name = "electrolysis">
+                    </stub-technology>
+                    <stub-technology name = "electrolysis">
                         <period year = "2025">
                             <minicam-non-energy-input name = "electrolyzer">
                                 <input-cost>0</input-cost>
@@ -1095,7 +1095,7 @@
                                 <input-cost>-9.7803</input-cost>
                             </minicam-non-energy-input>
                         </period>
-                    </technology>
+                    </stub-technology>
                 </subsector>
             </supplysector>
         </region>
