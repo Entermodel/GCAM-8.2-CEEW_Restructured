@@ -5,7 +5,7 @@
 		<Value name="BatchFileName">batch_ag.xml</Value>
 		<Value name="policy-target-file">../input/policy/forcing_target_4p5.xml</Value>
 		<Value name="GHGInputFileName">../input/magicc/inputs/input_gases.emk</Value>
-		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb1</Value>
+		<Value write-output="1" append-scenario-name="0" name="xmldb-location">../output/database_basexdb</Value>
 		<Value write-output="1" append-scenario-name="0" name="restart">./restart/restart</Value>
 		<Value write-output="1" append-scenario-name="1" name="xmlDebugFileName">debug.xml</Value>
 		<Value write-output="1" append-scenario-name="0" name="climatFileName">gas.emk</Value>
@@ -18,6 +18,10 @@
 	<ScenarioComponents>
         <Value name = "climate">../input/gcamdata/xml/All/hector.xml</Value>
 		<Value name = "socioeconomics">../input/gcamdata/xml/All/socioeconomics_CORE.xml</Value>
+
+
+ <Value name = "socioIndia">../input/gcamdata/xml/India/socioeconomics_LTS.xml</Value>
+
 		<Value name = "resources">../input/gcamdata/xml/All/resources.xml</Value>
 		<Value name = "energy_supply">../input/gcamdata/xml/All/en_supply.xml</Value>
 		<Value name = "energy_transformation">../input/gcamdata/xml/All/en_transformation.xml</Value>
@@ -44,7 +48,9 @@
 		<Value name = "fertilizer_energy">../input/gcamdata/xml/All/en_Fert.xml</Value>
 		<Value name = "hddcdd">../input/gcamdata/xml/All/HDDCDD_constdd_no_GCM.xml</Value>
 		<Value name = "building">../input/gcamdata/xml/All/building_det.xml</Value>
+
 		<Value name = "transportation">../input/gcamdata/xml/All/transportation_UCD_CORE.xml</Value>
+
 		<Value name = "carbon_content">../input/gcamdata/xml/All/Ccoef.xml</Value>
 		<Value name = "carbon_storage">../input/gcamdata/xml/All/Cstorage.xml</Value>
         <Value name = "wind_update">../input/gcamdata/xml/All/onshore_wind.xml</Value>
@@ -108,15 +114,56 @@
 
         <Value name = "prune_ag">../input/gcamdata/xml/All/prune_empty_ag.xml</Value>
 
-  <!--India files-->
-		<Value name = "bldIndia">../input/gcamdata/xml/India/building_india.xml</Value>
-		<Value name = "TrnIndia">../input/gcamdata/xml/India/transportation_India_new.xml</Value>
+
+        <!------------India specific parameters  ----------------------------------------------------->
+
+<!--Transport -->
+   <Value name = "trnIndia">../input/gcamdata/xml/India/transportation_India_new.xml</Value>
+<Value name = "Transport subsector shrwt LTS">../input/gcamdata/xml/India/Transport/India_transport_tech_shrwtLTS.xml</Value>
+		 <Value name = "Transport income elasticity">../input/gcamdata/xml/India/Transport/India_transport_incm_elas_BAU.xml</Value>
+        <Value name = "Transport Cost Adder">../input/gcamdata/xml/India/Transport/India_transport_final Tech_Cost_adder.xml</Value>
+        <Value name = "Transport Fuel Adder">../input/gcamdata/xml/India/Transport/India_transport_fuel_adder_HiGasHiPetrol.xml</Value>
+        <Value name = "Transport Tech Shrwt LTS">../input/gcamdata/xml/India/Transport/India_transport_subsector_shrwtLTS.xml</Value>
+
+<!--Electricity -->
+        <!--Capital costs and capacity factors -->
+          
+           <!--<Value name = "Indiacapitalcost">../input/gcamdata/xml/India/Electricity/India_state_inttech_CC_wind.xml</Value>
+ <Value name = "Indiacapacityfactor">../input/gcamdata/xml/India/Electricity/India_state_inttech_CF_RT_now.xml</Value>
+       <Value name = "Indiaotherparameters">../input/gcamdata/xml/India/Electricity/India_state_inttech_OMfixedvar_res_com.xml</Value>
+   <Value name = "Indiaintermittencycost">../input/gcamdata/xml/India/Electricity/India_IntTechBackup_elec.xml</Value>-->
+<Value name = "Indiacapitalcost">../input/gcamdata/xml/India/Electricity/India_state_tech_CC_now_biochg.xml</Value>      
+<Value name = "Indiacapacityfactor">../input/gcamdata/xml/India/Electricity/India_state_tech_CF_now.xml</Value>  
+         <Value name = "Indiaotherparameters">../input/gcamdata/xml/India/Electricity/India_TechEff_elec_update.xml</Value> 
+            <Value name = "Indiataxrescom">../input/gcamdata/xml/India/Electricity/India_states_elec_tax_res_com_now.xml</Value>
+		 <Value name = "Indiawindrescurve">../input/gcamdata/xml/India/Electricity/agg_elect_onshore_wind_resource_india.xml</Value>
+		  <Value name = "Indiaotherparameters">../input/gcamdata/xml/India/Electricity/India_elec_shrwt_test2.xml</Value>
+        <Value name = "Indiaotherparameters">../input/gcamdata/xml/India/Electricity/India_elec_shrwt_RT.xml</Value>
+
+        <!--Building -->
+ <Value name = "bldIndia">../input/gcamdata/xml/India/building_india.xml</Value>
+<Value name = "unspec">../input/gcamdata/xml/India/unspec.xml</Value>
+   <Value name = "IndiaHDDCDD">../input/gcamdata/xml/India/Building/CDD_HDD_BAU.xml</Value>
+		<Value name = "IndiaBldSW">../input/gcamdata/xml/India/Building/Buildingshareweight2.xml</Value>
+		<Value name = "India Subsector shrwt LTS">../input/gcamdata/xml/India/Building/building_subsector_shareweights.xml</Value>
+		<Value name = "India tech shrwt LTS">../input/gcamdata/xml/India/Building/building_tech_shareweights.xml</Value>
+
+    <!--   <Value name = "H2cost">../input/gcamdata/xml/India/Others/India_hydrogen_low_cost_modified.xml</Value>
+        <Value name = "IndiaCcoef">../input/gcamdata/xml/India/Others/India_CarbonCoef.xml</Value>
+        <Value name = "GlobalCcoef">../input/gcamdata/xml/India/Others/Global_Carbon_Coeff_Revised_noUnconOil.xml</Value>-->
+		 <Value name = "Bioliquidsconstraint">../input/gcamdata/xml/India/Others/India_biomassliquids_weights_restrict.xml</Value>
+		<Value name = "Biofuelshare">../input/gcamdata/xml/India/Others/India_biofuel_BAUforLTS.xml</Value>
+
+        <!------------LiFE Issue Brief ----------------------------------------------------->
+<Value name = "5.2SW">../input/gcamdata/xml/All/LiFE_transport_subsector_share-weights.xml</Value>
+
+  <!--  <Value name = "Load Factor LiFE">../input/gcamdata/xml/All/loadfactor_50.xml</Value>-->
 
 		<Value name = "solver">../input/solution/cal_broyden_config.xml</Value>
 		
 	</ScenarioComponents>
 	<Strings>
-		<Value name="scenarioName">Combined_Restructuring</Value>
+		<Value name="scenarioName">Trial</Value>
 		<Value name="debug-region">India</Value>
 		<Value name="MAGICC-input-dir">../input/magicc/inputs</Value>
 		<Value name="MAGICC-output-dir">../output</Value>
@@ -142,8 +189,8 @@
 		<Value name="numPointsForCO2CostCurve">5</Value>
 		<Value name="carbon-output-start-year">1705</Value>
 		<Value name="parallel-grain-size">50</Value>
-		<Value name="stop-period">15</Value>
-		<Value name="stop-year">2021</Value>
+		<Value name="stop-period">6</Value>
+		<Value name="stop-year">-1</Value>
 		<Value name="restart-period">-1</Value>
 		<Value name="restart-year">-1</Value>
 		<Value name="max-parallelism">-1</Value>
